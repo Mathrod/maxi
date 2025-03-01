@@ -1,0 +1,813 @@
+Favoriete onderdeel,Naam,AtleetID,Leeftijd,Land,Geslacht,MaxID,Specialiteit,Humeur,Ervaring,Vorm,Lengte,Gewicht,Deadline,Zorg,Kracht,Uithouding,Snelheid,Lenigheid,Springen,Werpen,SP1,SP2
+Onbekend,Brunel Eva,5657648,16,France,Vrouw,1140,Langeafstandslopers,17,1,15,165,57,2025-02-21 22:30:55,8,1,10,1,1,2,8,4,7
+Onbekend,Thill Evelien,5553573,19,België,Vrouw,2420,Springers,20,2,17,179,78,2025-02-21 23:09:18,20,1,2,1,6,11,3,8,6
+Onbekend,Cozzarini Pippo,5628045,17,Italia,Man,850,Middenafstandslopers,20,1,13,171,75,2025-02-21 23:09:29,18,3,6,3,2,2,1,8,5
+Onbekend,Salierno Teresa,5659937,17,Italia,Vrouw,980,Zonder specialiteit,18,1,14,162,55,2025-02-21 23:09:47,19,3,4,3,2,8,6,0,0
+200 meter,Fillietroz Alba,4795778,38,Italia,Vrouw,2040,Sprinters,15,10,11,185,67,2025-02-21 23:09:56,19,0,0,7,6,0,0,9,7
+Onbekend,Castelnuovo Santo,5578543,19,Italia,Man,1500,Snelwandelaars,20,1,11,194,95,2025-02-21 23:10:07,20,3,5,1,7,2,2,7,8
+Onbekend,Pietrangelo Graziano,5634572,17,Italia,Man,500,Snelwandelaars,17,1,15,180,82,2025-02-21 23:10:17,16,3,2,3,3,0,3,6,7
+Onbekend,Rodrigues Domingos,5653368,15,Portugal,Man,370,Snelwandelaars,11,1,15,179,77,2025-02-22 01:00:42,10,1,6,2,7,2,3,7,4
+Onbekend,Guterres Romeu,5647417,17,Portugal,Man,150,Springers,11,1,16,176,78,2025-02-22 01:01:20,6,6,1,2,3,3,3,3,3
+Onbekend,Torrado Paula,5647419,16,Portugal,Vrouw,1080,Springers,13,1,15,164,61,2025-02-22 01:02:01,18,1,3,1,4,9,3,5,6
+Onbekend,Freire Arlete,5651979,17,Portugal,Vrouw,1820,Sprinters,19,1,17,179,72,2025-02-22 01:02:38,20,2,1,8,3,3,4,7,8
+Onbekend,Zagalo Tibúrcio,5656174,17,Portugal,Man,780,Werpers,13,1,15,186,85,2025-02-22 01:05:25,16,9,1,4,2,2,3,5,6
+Onbekend,Pedrosa Modesto,5653367,17,Portugal,Man,1300,Werpers,12,1,14,182,86,2025-02-22 01:05:49,16,2,3,0,4,3,11,4,4
+Onbekend,Paneira Oriana,5640418,17,Portugal,Vrouw,1280,Werpers,14,1,13,177,73,2025-02-22 01:05:55,7,1,2,2,9,2,7,8,8
+Onbekend,Anunciada Ivo,5640419,16,Portugal,Man,520,Werpers,15,1,14,180,87,2025-02-22 01:06:01,16,1,3,1,1,1,7,6,5
+Onbekend,Nunes Soraia,5651980,15,Portugal,Vrouw,470,Meerkampers,19,1,16,161,57,2025-02-22 01:06:06,10,3,3,2,3,3,8,5,6
+Onbekend,Jenkins James,5654193,17,United States,Man,1240,Middenafstandslopers,18,1,16,168,67,2025-02-22 05:21:45,13,1,9,8,2,0,3,5,8
+Vijfkamp Vrouwen,Bosá Gabriela,5477244,19,Slovensko,Vrouw,1960,Meerkampers,20,5,20,188,94,2025-02-22 08:07:31,15,3,8,7,5,3,1,9,10
+Onbekend,Bowe Emma,5545519,17,Australia,Vrouw,3310,Werpers,20,2,17,186,91,2025-02-22 08:10:22,6,13,0,3,9,1,1,7,5
+Onbekend,Meneses Carlo,5573925,17,Perú,Man,3970,Snelwandelaars,19,2,15,168,76,2025-02-22 08:10:32,12,3,13,3,10,1,2,8,5
+Kogelstoten,Harrison Alfred,5211081,29,Jamaica,Man,12080,Werpers,20,11,15,185,78,2025-02-22 08:17:10,12,13,4,1,0,3,15,11,10
+Onbekend,Salmon Rachelle,5659252,15,Jamaica,Vrouw,2080,Meerkampers,18,1,15,166,64,2025-02-22 08:18:09,19,10,3,4,3,3,3,8,8
+Onbekend,Huntelaar Lisa,5662937,17,Nederland,Vrouw,1580,Springers,15,1,15,164,57,2025-02-22 08:40:32,19,3,3,2,4,10,3,4,5
+Onbekend,Bos Heleen,5662938,15,Nederland,Vrouw,1330,Werpers,12,1,14,156,55,2025-02-22 08:41:07,19,1,1,3,7,3,9,4,6
+Onbekend,Knollema Helmut,5559741,17,Nederland,Man,2290,Meerkampers,20,1,16,169,78,2025-02-22 08:44:51,17,9,2,3,3,3,11,7,6
+Tienkamp,Olivera Garcia,5451049,22,Uruguay,Man,4160,Meerkampers,20,5,16,184,89,2025-02-22 09:09:05,20,2,2,12,10,2,3,9,7
+Onbekend,Clijsters Gianni,5562337,17,België,Man,1280,Meerkampers,20,1,16,178,87,2025-02-22 09:30:19,16,2,2,5,10,1,2,6,8
+Onbekend,Stevesijns Casper,5639648,17,België,Man,2220,Sprinters,16,1,16,166,69,2025-02-22 09:30:27,18,3,2,11,1,3,2,8,6
+400 meter horden,Deroost Koen,5505840,26,België,Man,3780,Sprinters,20,4,17,187,92,2025-02-22 09:30:34,7,3,1,12,6,3,1,10,8
+1.500 meter,Depauw Arne,5505915,29,België,Man,1960,Middenafstandslopers,20,4,17,170,70,2025-02-22 09:30:42,17,2,8,10,3,3,2,9,4
+Kogelstoten,Haase Sabri,5505948,30,België,Man,1420,Werpers,19,4,17,195,96,2025-02-22 09:30:50,12,7,0,0,1,0,7,8,10
+Onbekend,Delforge Mathias,5629872,18,België,Man,1400,Werpers,18,1,18,174,76,2025-02-22 09:32:37,12,3,1,2,3,2,11,4,4
+1.500 meter,Giertz Kathrin,5511553,21,Deutschland,Vrouw,880,Middenafstandslopers,20,3,19,173,65,2025-02-22 09:34:01,6,3,8,5,2,3,2,8,8
+Marathon,Hachmeister Mira,5492856,21,Deutschland,Vrouw,1260,Langeafstandslopers,20,4,19,185,83,2025-02-22 09:34:52,12,3,9,5,1,2,3,9,6
+10 km snelwandelen,Fitz Sören,5478228,21,Deutschland,Man,3640,Snelwandelaars,20,3,17,180,82,2025-02-22 09:35:30,14,0,13,2,8,3,3,8,6
+Hoogspringen,Luther Kirsten,5529070,20,Deutschland,Vrouw,1450,Springers,20,3,19,155,55,2025-02-22 09:36:26,20,2,1,2,7,7,2,7,6
+Onbekend,Mönch Carl,5662941,17,Deutschland,Man,1070,Werpers,14,1,16,169,70,2025-02-22 09:37:36,15,4,3,2,8,4,9,3,7
+Onbekend,Kast Levi,5638759,17,Deutschland,Man,1150,Werpers,15,1,15,167,67,2025-02-22 09:37:53,17,10,1,2,1,1,3,5,6
+Onbekend,Desler Finja,5659680,17,Deutschland,Vrouw,420,Werpers,19,1,17,163,60,2025-02-22 09:38:48,10,7,1,3,1,4,3,4,7
+Onbekend,Grasberger Lilli,5652134,15,Deutschland,Vrouw,2130,Werpers,18,1,16,150,46,2025-02-22 09:39:38,19,2,1,2,3,1,10,8,8
+Discuswerpen,Heimerl Jessika,5529069,20,Deutschland,Vrouw,720,Werpers,20,3,18,171,65,2025-02-22 09:42:01,11,7,3,1,2,3,8,6,5
+Onbekend,Pütz Rasmus,5647922,16,Deutschland,Man,830,Meerkampers,12,1,17,167,73,2025-02-22 09:42:45,9,2,2,2,2,10,3,7,5
+Tienkamp,Eller Per,5488351,21,Deutschland,Man,1260,Meerkampers,20,4,18,189,91,2025-02-22 09:45:11,14,8,1,5,4,9,3,8,7
+Kogelstoten,Giurgiu Casiana,5094660,30,România,Vrouw,7210,Werpers,20,12,14,165,63,2025-02-22 09:47:53,12,13,0,2,2,2,9,8,11
+Speerwerpen,Santurbano Sebastiano,4936655,34,Italia,Man,8920,Werpers,16,15,13,182,84,2025-02-22 10:26:54,16,9,0,0,0,0,13,10,9
+Onbekend,Massalim Abelardo,5596706,17,Italia,Man,3450,Springers,20,1,16,178,82,2025-02-22 10:32:09,8,2,2,1,10,12,2,8,8
+Onbekend,Di Pardo Gervasio,5659365,17,Italia,Man,1430,Zonder specialiteit,14,1,14,167,66,2025-02-22 10:33:10,20,0,9,5,1,4,1,0,0
+Onbekend,Di Vincenzo Artemio,5588142,22,Italia,Man,1720,Langeafstandslopers,20,1,16,185,81,2025-02-22 10:45:04,15,3,9,4,3,1,3,10,6
+10 km snelwandelen,Candeias Vera,5054514,34,Portugal,Vrouw,4410,Snelwandelaars,15,9,15,175,64,2025-02-22 10:45:45,6,0,9,0,8,0,0,12,9
+Onbekend,Kosters Jason,5544223,17,België,Man,1870,Langeafstandslopers,20,2,15,176,88,2025-02-22 11:30:45,10,2,12,3,0,0,3,7,7
+Onbekend,Lincar Ciprian,5646362,24,România,Man,1680,Middenafstandslopers,20,1,18,174,69,2025-02-22 11:38:11,14,1,9,9,2,1,1,8,6
+Onbekend,Ke Shengsheng,5658903,15,China,Man,290,Sprinters,15,1,15,156,57,2025-02-22 12:23:51,13,1,3,5,6,2,2,4,6
+Onbekend,Hsia Pingxiu,5650379,16,China,Man,710,Springers,12,1,14,174,73,2025-02-22 12:24:29,12,1,3,3,4,3,1,8,8
+Onbekend,Pai Yuling,5635353,15,China,Man,1010,Springers,16,1,16,167,68,2025-02-22 12:24:56,12,8,3,2,4,8,2,8,7
+Onbekend,Cong Yuhe,5629332,23,China,Vrouw,740,Sprinters,16,1,16,181,75,2025-02-22 12:26:02,15,2,1,5,3,1,0,9,3
+Onbekend,An Maoneng,5629347,23,China,Man,400,Snelwandelaars,19,1,16,186,89,2025-02-22 12:26:20,15,2,7,3,3,1,1,6,5
+Onbekend,Chang Yingzhen,5629426,28,China,Vrouw,1580,Werpers,19,1,16,174,68,2025-02-22 12:27:17,15,3,1,3,3,1,8,5,10
+Onbekend,Min Changwei,5629423,17,China,Man,2110,Werpers,20,1,17,170,78,2025-02-22 12:37:18,14,10,1,3,3,2,6,9,8
+Onbekend,Pirani Gianluca,5653287,15,Italia,Man,590,Langeafstandslopers,19,1,16,164,69,2025-02-22 12:37:35,15,1,5,6,2,2,3,6,7
+110 meter horden,Henao Arsenio,4906403,38,España,Man,4990,Sprinters,19,15,14,174,69,2025-02-22 12:58:32,17,0,0,8,2,0,0,8,8
+Vijfkamp Mannen,Lampreave Manex,5038644,32,España,Man,6370,Meerkampers,20,12,12,180,77,2025-02-22 12:58:41,14,3,1,0,3,1,9,12,11
+10 km snelwandelen,Monje Arrate,5208291,30,España,Vrouw,3170,Snelwandelaars,20,5,13,167,59,2025-02-22 12:58:51,15,0,12,1,2,3,4,8,9
+Onbekend,Iversen Are,5599713,18,Norge,Man,1270,Sprinters,20,2,17,190,91,2025-02-22 13:03:53,14,8,3,10,2,2,1,7,6
+Onbekend,Sande Arve,5566566,18,Norge,Man,1620,Middenafstandslopers,20,2,17,185,88,2025-02-22 13:04:28,10,1,9,9,2,2,4,9,8
+Onbekend,Hansen Johannes,5550138,17,Norge,Man,1870,Snelwandelaars,20,2,18,189,99,2025-02-22 13:05:15,7,3,12,5,3,6,2,6,5
+Onbekend,Holen Tina,5583485,17,Norge,Vrouw,2120,Snelwandelaars,20,2,18,163,68,2025-02-22 13:05:35,16,1,11,2,2,3,2,6,7
+Onbekend,Helgesen Sverre,5627865,18,Norge,Man,1420,Springers,20,1,17,172,80,2025-02-22 13:06:07,11,6,3,3,8,10,1,6,7
+Onbekend,Kleven Arnt,5572374,17,Norge,Man,900,Werpers,19,1,16,182,91,2025-02-22 13:07:18,10,5,1,1,2,2,10,7,4
+Onbekend,Samuelsen Kristine,5572373,17,Norge,Vrouw,1380,Werpers,20,2,16,184,88,2025-02-22 13:09:01,14,7,1,5,7,1,10,6,5
+Onbekend,Eriksen Karin,5541993,17,Norge,Vrouw,1020,Langeafstandslopers,20,2,15,191,98,2025-02-22 13:12:16,13,2,10,8,0,3,1,5,4
+Onbekend,Ban Wenlun,5629353,18,China,Man,540,Springers,20,1,17,164,62,2025-02-22 13:30:55,16,2,0,3,3,4,1,7,5
+Onbekend,Grímlaugsson Ingvi,5594249,17,Ísland,Man,1420,Sprinters,20,2,17,178,87,2025-02-22 13:42:04,15,6,2,9,9,1,3,8,4
+Onbekend,Sacco Ludovico,5563621,17,Italia,Man,2540,Sprinters,20,1,16,169,81,2025-02-22 13:42:50,18,8,2,11,3,2,3,3,10
+110 meter horden,Spasovski Tihomir,5121535,29,FYR Makedonija,Man,27140,Sprinters,20,12,15,178,66,2025-02-22 13:43:21,20,5,6,19,14,1,0,11,11
+200 meter,Perminaitė Sima,5434859,21,Lietuva,Vrouw,20620,Sprinters,20,3,16,156,61,2025-02-22 13:44:04,20,7,2,19,3,1,3,8,8
+Hoogspringen,Xìng Chengxin,5287537,25,China,Man,33970,Springers,20,9,17,197,83,2025-02-22 13:45:47,18,2,1,1,9,20,3,11,11
+100 meter horden,Rossetti Francesca,5187904,29,Switzerland,Vrouw,20660,Sprinters,20,8,18,165,66,2025-02-22 13:48:39,16,2,0,18,13,2,3,12,9
+Onbekend,da Guia Ivete,5628934,22,Brasil,Vrouw,940,Langeafstandslopers,20,1,17,179,74,2025-02-22 14:14:00,19,2,5,5,2,1,2,5,5
+Onbekend,de Oliveira Sara,5634512,15,Brasil,Vrouw,1110,Sprinters,19,1,14,171,69,2025-02-22 14:14:03,14,3,0,2,10,2,1,5,8
+Onbekend,Murer Glória,5660110,17,Brasil,Vrouw,330,Werpers,18,1,14,155,48,2025-02-22 14:14:39,8,1,3,1,4,3,7,7,6
+Onbekend,Connor Shawn,5553312,17,Canada,Man,1440,Sprinters,20,2,14,173,85,2025-02-22 14:25:21,7,6,3,10,2,7,3,6,8
+Onbekend,Moletta Livia,5553926,18,Italia,Vrouw,6700,Snelwandelaars,20,2,17,173,75,2025-02-22 15:42:59,13,2,15,1,2,3,1,7,9
+Onbekend,Salmatanis Iliodoros,5649804,17,Hellas,Man,970,Werpers,13,1,15,189,93,2025-02-22 15:46:22,12,10,2,1,3,3,3,7,7
+Onbekend,Kalaki Popi,5532565,18,Hellas,Vrouw,1480,Snelwandelaars,20,1,11,181,84,2025-02-22 15:46:35,14,2,9,3,10,1,2,6,7
+Onbekend,Doornbos Maartje,5659575,14,Nederland,Vrouw,600,Meerkampers,19,1,15,161,59,2025-02-22 15:49:00,14,3,1,5,2,4,8,7,6
+Onbekend,Kodedová Ivana,5663036,16,Česká republika,Vrouw,1340,Werpers,17,1,15,167,65,2025-02-22 16:05:44,7,9,2,2,3,4,10,8,5
+Onbekend,Opletalová Lada,5663038,16,Česká republika,Vrouw,390,Werpers,13,1,15,168,64,2025-02-22 16:06:21,11,3,2,1,1,1,8,5,7
+Onbekend,Pirc Zdenko,5662593,14,Slovenija,Man,440,Werpers,11,1,14,171,72,2025-02-22 16:35:55,9,7,1,0,2,3,7,7,6
+Onbekend,Segarra Ithaisa,5566189,17,España,Vrouw,1310,Sprinters,20,2,14,173,76,2025-02-22 17:00:30,14,3,2,6,3,4,1,10,8
+Onbekend,de Lucas Antònia,5656314,17,España,Vrouw,1070,Meerkampers,12,1,14,166,67,2025-02-22 17:00:44,14,10,1,3,3,1,3,6,5
+Onbekend,Lamego Tatiana,5539561,17,Portugal,Vrouw,4250,Werpers,20,2,17,169,77,2025-02-22 17:12:29,10,14,2,2,2,1,8,4,5
+Onbekend,Aníbal Lúcio,5627604,17,Portugal,Man,1640,Sprinters,18,1,16,167,69,2025-02-22 17:12:50,14,9,2,10,3,4,0,5,7
+Onbekend,Baía Arsénio,5637771,17,Portugal,Man,480,Sprinters,13,1,17,183,83,2025-02-22 17:13:03,11,5,3,8,1,2,1,6,6
+Onbekend,Pomar Miguel,5562758,17,Portugal,Man,930,Sprinters,16,1,16,179,88,2025-02-22 17:13:16,6,8,3,9,2,3,1,6,7
+Onbekend,Aires Bruno,5662432,17,Portugal,Man,1610,Springers,13,1,14,163,64,2025-02-22 17:13:37,14,0,3,1,3,10,1,9,3
+Onbekend,Sequeira Ofélia,5603765,17,Portugal,Vrouw,1950,Springers,20,1,15,178,74,2025-02-22 17:14:00,12,3,1,4,6,11,0,8,8
+Onbekend,Mota Reinaldo,5659572,17,Portugal,Man,610,Meerkampers,15,1,16,183,84,2025-02-22 17:14:12,6,6,3,1,3,1,1,8,8
+Onbekend,Sobrinho Mónica,5653751,17,Portugal,Vrouw,590,Meerkampers,17,1,15,163,61,2025-02-22 17:14:21,11,2,8,3,1,7,6,6,4
+Onbekend,Ropele Carla,5607645,15,Italia,Vrouw,2340,Springers,20,2,16,172,72,2025-02-22 17:16:43,19,2,0,5,6,11,1,7,8
+Marathon,Fortini Amos,5097644,32,Italia,Man,41630,Langeafstandslopers,20,13,17,171,59,2025-02-22 17:32:11,20,0,20,14,1,1,0,15,12
+Onbekend,Dean Peter,5663045,17,Italia,Man,1180,Middenafstandslopers,17,1,15,185,88,2025-02-22 17:37:49,17,3,8,9,2,3,1,4,6
+Onbekend,Zarcone Olga,5663046,14,Italia,Vrouw,1550,Sprinters,11,1,14,163,61,2025-02-22 17:38:03,20,9,3,3,7,2,1,6,6
+Onbekend,Di Gravina Domenico,5663047,16,Italia,Man,480,Sprinters,17,1,14,166,67,2025-02-22 17:38:13,13,8,4,7,5,3,2,4,4
+1.500 meter,Noronha Orlando,5038870,34,Portugal,Man,5790,Middenafstandslopers,18,11,14,165,56,2025-02-22 18:04:56,10,1,11,8,0,1,0,12,9
+Onbekend,Vila Aquilino,5565396,17,Portugal,Man,2540,Langeafstandslopers,20,1,14,181,87,2025-02-22 18:05:10,17,2,9,3,3,1,11,9,6
+Zevenkamp,Saudade Fortunata,4898759,35,Portugal,Vrouw,10140,Meerkampers,20,13,14,169,64,2025-02-22 18:05:20,15,7,0,14,12,0,0,10,6
+Onbekend,Crespo Ângelo,5656404,17,Portugal,Man,1580,Werpers,13,1,14,171,75,2025-02-22 18:05:29,17,3,2,1,3,1,10,6,8
+Onbekend,Góis Itelvina,5603535,17,Portugal,Vrouw,1740,Langeafstandslopers,20,1,13,176,80,2025-02-22 18:05:35,20,3,10,3,3,2,3,3,7
+Hoogspringen,Rosseel Maaike,4979551,34,België,Vrouw,8750,Springers,19,10,20,185,71,2025-02-22 18:28:27,20,0,5,0,14,13,0,9,7
+Onbekend,Herrera Leonel,5550691,18,Costa Rica,Man,1810,Langeafstandslopers,20,2,17,175,85,2025-02-22 18:33:08,20,1,9,9,1,3,3,6,6
+Kogelslingeren,Sbragia Lee,4694612,40,Great Britain,Man,34120,Werpers,20,20,16,194,98,2025-02-22 18:46:17,20,16,0,0,4,0,15,5,5
+100 meter horden,Niven Bethany,4808271,38,Great Britain,Vrouw,34270,Sprinters,17,17,16,167,55,2025-02-22 19:09:12,19,0,0,18,16,0,0,8,8
+Onbekend,Ferraz Manuel,5630420,17,Portugal,Man,1220,Sprinters,17,1,18,170,73,2025-02-22 19:16:58,20,3,2,8,2,2,2,5,3
+Onbekend,Harrington Odhran,5590881,17,Ireland,Man,980,Sprinters,20,1,15,186,94,2025-02-22 19:17:09,16,3,3,9,4,3,8,4,4
+Onbekend,Lo Conte Tony,5565142,17,Italia,Man,1230,Sprinters,20,2,17,183,90,2025-02-22 19:17:18,12,5,2,10,1,3,3,7,7
+Onbekend,Ruciński Mikołaj,5567276,17,Polska,Man,1340,Sprinters,20,2,16,183,94,2025-02-22 19:17:28,9,5,3,10,4,2,2,8,6
+Onbekend,Aleixo Catalina,5621379,17,Portugal,Vrouw,700,Sprinters,20,1,17,168,71,2025-02-22 19:17:38,8,3,2,6,0,1,2,8,8
+Onbekend,Botelho Rebeca,5585151,17,Portugal,Vrouw,5760,Sprinters,20,1,15,172,71,2025-02-22 19:17:54,14,8,1,14,2,2,1,9,6
+Onbekend,Finlay Sadhbh,5598690,17,Ireland,Vrouw,910,Sprinters,20,1,16,163,66,2025-02-22 19:18:04,12,5,2,9,4,1,7,5,6
+Onbekend,Hlöðversdóttir Rún,5600018,17,Ísland,Vrouw,1080,Sprinters,19,1,18,176,76,2025-02-22 19:18:14,15,2,1,10,2,4,2,5,7
+Onbekend,Noite Carla,5603813,17,Portugal,Vrouw,1880,Sprinters,20,1,16,168,67,2025-02-22 19:18:22,18,9,1,9,2,7,2,7,8
+Onbekend,Zniti Jasmina,5622646,16,Al-Maghrib,Vrouw,1100,Langeafstandslopers,20,2,17,166,64,2025-02-22 19:18:29,8,1,10,3,3,3,1,6,8
+Onbekend,Marković Filip,5628339,16,Hrvatska,Man,1380,Meerkampers,18,1,17,187,89,2025-02-22 19:18:32,17,10,3,6,3,3,4,6,6
+Onbekend,Pinho Palmira,5627591,17,Portugal,Vrouw,1730,Sprinters,20,1,16,159,63,2025-02-22 19:18:32,15,6,3,11,2,0,5,8,7
+Onbekend,Piteira Salomé,5582331,17,Portugal,Vrouw,1820,Sprinters,20,2,16,167,69,2025-02-22 19:18:41,15,5,1,11,2,2,1,8,7
+Onbekend,Rego Gabriela,5621380,17,Portugal,Vrouw,200,Sprinters,19,1,17,166,66,2025-02-22 19:18:49,6,3,3,5,1,1,2,6,5
+Onbekend,Guarda Adão,5659561,17,Portugal,Man,1220,Middenafstandslopers,10,1,16,173,74,2025-02-22 19:18:59,9,0,6,10,2,3,3,8,8
+Onbekend,Serpa Arsénio,5560213,17,Portugal,Man,2200,Middenafstandslopers,20,2,18,195,107,2025-02-22 19:19:08,17,1,2,2,3,8,9,9,9
+Onbekend,Lopes Maribel,5613884,17,Portugal,Vrouw,500,Middenafstandslopers,19,2,18,165,69,2025-02-22 19:19:20,6,2,6,3,2,3,1,8,5
+Onbekend,Nullotti Tiziano,5537807,17,Italia,Man,1090,Snelwandelaars,20,3,18,187,97,2025-02-22 19:19:31,11,2,10,3,1,1,2,7,7
+Onbekend,Petržálek Alexandr,5598843,17,Česká republika,Man,830,Snelwandelaars,20,2,18,185,87,2025-02-22 19:19:41,16,2,6,3,2,7,1,4,8
+Onbekend,Kass Vaiki,5600785,17,Eesti,Vrouw,1240,Snelwandelaars,20,2,16,178,77,2025-02-22 19:19:51,17,0,9,0,3,6,3,4,8
+Onbekend,Roldão Juliana,5617991,17,Portugal,Vrouw,1360,Snelwandelaars,20,1,17,166,69,2025-02-22 19:20:04,12,3,10,2,1,1,1,8,5
+Onbekend,van de Wal Mohamed,5564946,17,Nederland,Man,1330,Springers,20,2,18,193,101,2025-02-22 19:20:15,12,1,2,4,2,10,1,7,5
+Onbekend,Helder Sílvia,5597282,17,Portugal,Vrouw,790,Springers,20,1,19,162,62,2025-02-22 19:20:36,6,0,2,3,4,9,3,8,5
+Onbekend,Lechkova Tsvetanka,5599106,17,Bulgaria,Vrouw,1880,Springers,20,2,18,174,76,2025-02-22 19:20:47,18,2,1,2,3,10,3,8,7
+Onbekend,van der Bilt Yvon,5581796,17,Nederland,Vrouw,1730,Springers,20,2,18,167,71,2025-02-22 19:21:02,20,9,3,2,2,7,2,6,7
+Onbekend,Bruin Alexander,5570680,17,Nederland,Man,940,Werpers,20,2,17,174,80,2025-02-22 19:21:16,9,10,1,2,4,1,2,5,6
+Onbekend,Leão Guilherme,5551417,17,Portugal,Man,600,Werpers,20,2,19,184,97,2025-02-22 19:21:27,15,7,4,3,2,2,1,5,7
+Onbekend,Amado Ana Cristina,5554053,17,Portugal,Vrouw,5050,Werpers,20,2,15,173,82,2025-02-22 19:21:39,14,14,2,3,3,3,2,8,7
+Onbekend,Araújo Lúcia,5549031,17,Portugal,Vrouw,630,Werpers,20,2,20,177,81,2025-02-22 19:21:49,13,8,1,3,2,1,3,6,6
+Onbekend,Soeiro Ana Filipa,5643233,17,Portugal,Vrouw,970,Werpers,16,1,18,173,71,2025-02-22 19:22:09,17,7,1,3,3,2,6,8,5
+Onbekend,Velasques Rosa,5662497,17,Portugal,Vrouw,870,Werpers,11,1,15,171,63,2025-02-22 19:22:24,18,8,3,0,4,2,6,5,4
+Onbekend,Munhão Irina,5656758,17,Portugal,Vrouw,1080,Meerkampers,12,1,14,160,56,2025-02-22 19:22:35,19,1,3,3,1,4,3,7,7
+Onbekend,Ramires Viviana,5539515,17,Portugal,Vrouw,980,Meerkampers,20,3,18,178,87,2025-02-22 19:22:44,18,6,3,3,1,2,5,6,7
+Onbekend,Taveira Idália,5551420,17,Portugal,Vrouw,910,Meerkampers,20,1,18,177,86,2025-02-22 19:22:54,18,6,1,4,4,3,0,6,7
+Onbekend,Echanove Jeremías,5592218,18,España,Man,1880,Werpers,20,1,13,175,80,2025-02-22 19:24:17,14,3,0,9,4,3,10,8,6
+Onbekend,Cordobés Azucena,5538248,17,España,Vrouw,690,Sprinters,20,2,13,185,90,2025-02-22 19:24:21,13,7,6,6,4,8,2,6,5
+Onbekend,Altés Florencio,5611858,17,España,Man,1030,Sprinters,20,1,15,178,82,2025-02-22 19:24:24,10,5,0,10,5,2,3,5,6
+Onbekend,Hugentobler Ulrich,5661812,14,Switzerland,Man,1900,Zonder specialiteit,14,1,15,178,82,2025-02-22 19:47:24,20,1,10,2,2,9,2,0,0
+Onbekend,Tsialiamani Maria,5555609,18,Hellas,Vrouw,1800,Sprinters,18,1,16,157,59,2025-02-22 19:49:41,19,9,1,9,3,3,1,4,7
+Kogelslingeren,Cuerda Ainhize,4849827,36,España,Vrouw,33700,Werpers,20,14,15,167,58,2025-02-22 20:07:33,20,18,0,0,0,0,17,8,9
+100 meter horden,Fuentes Victoria,4949239,36,Venezuela,Vrouw,18700,Sprinters,17,16,13,173,58,2025-02-22 20:30:14,18,0,0,15,15,0,0,7,7
+20 km snelwandelen,Rossouw Samantha,4859223,37,South Africa,Vrouw,27420,Snelwandelaars,18,20,15,175,66,2025-02-22 20:35:14,15,0,15,0,6,0,0,12,11
+Onbekend,Lelong Morgane,5659349,17,France,Vrouw,1230,Zonder specialiteit,11,1,15,155,55,2025-02-22 20:37:26,14,1,3,3,10,3,8,0,0
+200 meter,Hanusch Berti,5209313,28,Deutschland,Man,13550,Sprinters,20,9,17,183,81,2025-02-22 20:38:27,19,11,4,15,3,1,0,11,13
+Onbekend,Werthmann Alice,5548445,17,Deutschland,Vrouw,2130,Springers,20,1,15,191,99,2025-02-22 20:38:45,18,1,3,4,10,9,2,8,7
+Marathon,Ezukam Auta,5499833,20,Nigeria,Vrouw,2620,Langeafstandslopers,20,2,17,165,66,2025-02-22 20:46:05,19,1,10,6,1,3,3,9,8
+Hinkstapspringen,Newman Khumo,5498904,20,South Africa,Vrouw,2100,Springers,20,4,14,176,73,2025-02-22 20:54:35,15,1,3,3,9,10,3,8,7
+Vijfkamp Mannen,Talevski Nenad,5119843,29,FYR Makedonija,Man,6160,Meerkampers,20,11,14,185,84,2025-02-22 20:57:43,17,3,0,10,5,12,9,11,10
+Onbekend,Pawelec Kamil,5661491,14,Polska,Man,620,Zonder specialiteit,17,1,15,161,64,2025-02-22 21:27:57,16,7,3,5,1,7,3,0,0
+Marathon,Battles Edward,5280659,25,Great Britain,Man,9140,Langeafstandslopers,20,6,17,183,78,2025-02-22 21:45:24,19,1,16,7,1,8,1,8,7
+10.000 meter,Fabre Colin,5280229,25,Canada,Man,9700,Langeafstandslopers,20,6,16,185,85,2025-02-22 21:45:28,18,1,15,7,3,3,7,10,10
+5.000 meter,Kluch Mirek,5285078,25,Česká republika,Man,9380,Langeafstandslopers,20,6,16,171,73,2025-02-22 21:45:31,20,2,16,7,3,6,1,9,8
+5.000 meter,Štefulj Lidija,5277441,25,Hrvatska,Vrouw,10660,Langeafstandslopers,20,6,20,186,84,2025-02-22 21:45:35,18,3,16,8,1,2,3,9,8
+Speerwerpen,Facchi Davide,4940530,34,Italia,Man,30930,Werpers,19,12,18,189,85,2025-02-22 21:54:07,19,19,0,4,0,0,16,9,8
+Vijfkamp Vrouwen,Raggetti Maria Pia,4929023,34,Italia,Vrouw,18050,Meerkampers,19,14,17,167,56,2025-02-22 21:55:48,17,13,0,14,6,2,0,15,10
+Onbekend,Gurning Gesang,5561407,21,Indonesia,Man,2510,Springers,20,2,14,163,64,2025-02-22 22:04:50,20,2,2,10,4,10,1,8,5
+Hinkstapspringen,Howie Ross,5062275,31,Great Britain,Man,10290,Springers,20,11,16,178,74,2025-02-22 22:08:56,17,1,1,2,14,14,0,9,8
+Discuswerpen,Ridgers Sean,5204899,28,Great Britain,Man,12800,Werpers,20,12,15,171,74,2025-02-22 22:09:24,14,14,1,3,2,4,14,11,11
+Speerwerpen,Tweed Jordan,5150599,30,Great Britain,Man,14830,Werpers,20,10,17,181,78,2025-02-22 22:09:44,18,14,2,0,0,0,16,11,8
+Speerwerpen,Melrose Abbie,5055755,31,Great Britain,Vrouw,11490,Werpers,20,11,15,171,64,2025-02-22 22:10:02,17,13,0,2,3,0,13,12,12
+Marathon,Evers Adri,4999774,34,Nederland,Man,10030,Langeafstandslopers,19,13,12,177,72,2025-02-22 22:11:16,13,0,15,10,0,0,0,10,10
+Marathon,Mortimer Rory,5264504,31,Great Britain,Man,7540,Langeafstandslopers,20,10,16,180,70,2025-02-22 22:11:41,16,0,14,7,2,0,0,12,8
+50 km snelwandelen,Kļaviņš Ritvars,5048639,32,Latvija,Man,31340,Snelwandelaars,20,14,15,192,66,2025-02-22 22:35:28,18,2,18,0,4,0,0,16,13
+10 km snelwandelen,Mullings Angela,5115030,31,Jamaica,Vrouw,27890,Snelwandelaars,20,15,16,162,49,2025-02-22 22:35:46,19,1,18,3,10,0,0,13,13
+Polsstokhoogspringen,Duranska Elena,5044791,32,FYR Makedonija,Vrouw,26000,Springers,19,13,15,168,62,2025-02-22 22:36:35,18,0,0,0,15,18,0,11,9
+Tienkamp,Rivas Julio,5100651,31,Ecuador,Man,9930,Meerkampers,19,13,15,177,65,2025-02-22 22:39:34,17,10,1,8,4,2,12,12,11
+Onbekend,Peltier Lina,5598293,17,France,Vrouw,3730,Snelwandelaars,20,1,17,172,74,2025-02-22 23:12:18,19,3,13,2,3,3,3,8,7
+Onbekend,Agramunt Jesús María,5638255,17,España,Man,1430,Sprinters,18,1,18,179,84,2025-02-22 23:12:30,12,2,6,8,3,2,2,9,9
+Onbekend,Viveiro Aitana,5603399,17,España,Vrouw,1150,Middenafstandslopers,20,1,18,171,70,2025-02-22 23:12:51,18,3,4,8,4,2,1,7,7
+Onbekend,Mista Lino,5644307,17,España,Man,2280,Meerkampers,20,1,18,174,74,2025-02-22 23:13:13,17,2,2,11,2,2,8,9,4
+Onbekend,Van Dievel Jules,5613779,17,België,Man,1870,Sprinters,20,1,18,177,80,2025-02-22 23:13:43,17,3,2,11,1,1,1,6,5
+Onbekend,Apostolovska Susanna,5594893,17,FYR Makedonija,Vrouw,1520,Sprinters,20,2,20,165,67,2025-02-23 00:02:13,14,10,2,9,1,2,3,7,7
+Onbekend,Kettunen Anssi,5596503,17,Suomi,Man,1950,Middenafstandslopers,20,2,17,182,85,2025-02-23 00:03:11,17,1,9,11,2,1,3,5,7
+Onbekend,Lopes Carolina,5566166,17,Brasil,Vrouw,1160,Middenafstandslopers,20,2,18,167,72,2025-02-23 00:04:51,15,2,7,9,6,1,1,8,6
+Onbekend,Ďurica Rudolf,5568721,17,Slovensko,Man,1900,Langeafstandslopers,20,3,18,189,98,2025-02-23 00:05:11,19,3,10,7,0,4,1,8,6
+Onbekend,Petsou Elvira,5553281,17,Hellas,Vrouw,2480,Snelwandelaars,20,2,17,177,78,2025-02-23 00:05:58,14,2,12,4,8,3,2,7,8
+Onbekend,Przybyś Jadwiga,5549209,17,Polska,Vrouw,2080,Springers,20,2,17,186,93,2025-02-23 00:06:26,17,1,3,3,8,11,3,5,6
+Onbekend,Vacas Lara,5543508,17,España,Vrouw,1240,Springers,20,3,17,178,88,2025-02-23 00:06:35,16,5,1,2,7,9,1,7,6
+Onbekend,Çobanoglu Yeliz,5586177,17,Türkiye,Vrouw,2550,Werpers,20,2,17,156,58,2025-02-23 00:06:56,15,11,2,2,6,2,11,6,7
+Onbekend,Frenet Covadonga,5545814,17,España,Vrouw,1470,Meerkampers,20,3,18,171,82,2025-02-23 00:07:32,18,5,3,7,4,5,9,6,8
+Onbekend,Fallon Calum,5542646,17,Great Britain,Man,4400,Sprinters,20,3,17,173,88,2025-02-23 00:10:09,14,9,3,13,2,1,4,9,7
+Speerwerpen,Basta Tihomir,5337123,23,Srbija,Man,10230,Werpers,20,7,17,193,94,2025-02-23 00:10:57,20,12,2,3,6,2,15,10,10
+Onbekend,Neuburger Erich,5536040,17,Switzerland,Man,7410,Middenafstandslopers,20,2,16,180,94,2025-02-23 00:11:53,7,1,10,15,2,5,1,6,7
+Onbekend,Auer Fumo Bruno,5593494,17,Switzerland,Man,2270,Springers,19,1,15,176,85,2025-02-23 00:29:07,20,2,3,3,8,10,2,8,7
+800 meter,Saldanha Julieta,5414499,23,Portugal,Vrouw,29410,Middenafstandslopers,20,8,19,176,67,2025-02-23 00:29:58,19,3,20,11,3,1,3,9,6
+100 meter,Coelho Armanda,5414478,22,Portugal,Vrouw,18740,Sprinters,20,7,18,172,67,2025-02-23 00:37:02,19,15,1,17,1,1,1,5,10
+10.000 meter,Crosbee Holly,5497818,21,New Zealand,Vrouw,3140,Langeafstandslopers,20,2,15,180,76,2025-02-23 01:22:04,14,2,12,8,1,3,4,6,9
+Hinkstapspringen,Clawson Gabriele,4871053,36,Switzerland,Man,50250,Springers,20,18,12,177,61,2025-02-23 01:26:40,19,0,0,0,18,19,0,8,12
+Onbekend,del Pino Peio,5588648,16,España,Man,1470,Meerkampers,20,1,14,165,75,2025-02-23 01:53:20,20,1,3,4,3,7,3,6,8
+50 km snelwandelen,Pagán Jone,5508016,20,España,Vrouw,1850,Snelwandelaars,20,2,13,178,72,2025-02-23 01:53:46,16,3,8,1,1,0,3,10,8
+Onbekend,Grzegorczyk Emilia,5557423,21,Polska,Vrouw,1710,Springers,20,2,18,178,67,2025-02-23 01:54:04,10,3,1,6,7,9,3,6,10
+Hoogspringen,Parga Eloisa,5549220,20,España,Vrouw,2240,Springers,20,2,12,169,65,2025-02-23 01:54:11,15,2,3,3,10,11,0,5,5
+200 meter,van den Brink John,5429127,22,Nederland,Man,6890,Sprinters,20,4,17,182,82,2025-02-23 02:15:16,17,11,3,14,2,2,3,8,8
+Onbekend,Harvey Alexander,5593410,16,Jamaica,Man,920,Middenafstandslopers,20,1,15,166,69,2025-02-23 02:55:55,12,2,5,10,2,2,2,5,7
+1.500 meter,Rusan Melanie,5326508,24,United States,Vrouw,10460,Middenafstandslopers,20,6,20,173,75,2025-02-23 03:18:10,15,1,8,16,1,5,3,11,8
+110 meter horden,Conner Oscar,5516498,20,United States,Man,1820,Sprinters,20,3,18,172,78,2025-02-23 03:34:25,8,3,3,10,9,2,3,7,8
+200 meter,Gilreath Shelby,4761683,38,United States,Vrouw,56920,Sprinters,20,20,15,175,52,2025-02-23 04:15:00,20,17,0,20,0,0,0,11,9
+10.000 meter,Montori Encarna,5471750,20,España,Vrouw,12700,Langeafstandslopers,20,3,18,184,84,2025-02-23 04:24:19,19,4,17,11,3,3,4,7,7
+Onbekend,Bäcker Ebba,5562947,17,Sverige,Vrouw,5340,Snelwandelaars,20,2,17,178,85,2025-02-23 04:27:07,16,0,14,0,3,2,3,7,8
+200 meter,Bertel Helena,5425982,23,Deutschland,Vrouw,18060,Sprinters,20,5,18,177,72,2025-02-23 04:27:44,18,2,2,18,2,0,3,7,6
+Kogelstoten,Sandoval Sabela,5426400,21,España,Vrouw,10070,Werpers,20,3,18,170,69,2025-02-23 04:28:47,17,16,2,2,1,1,10,6,10
+110 meter horden,Quenz Yvon,5339757,23,Switzerland,Man,17140,Sprinters,20,5,17,176,78,2025-02-23 04:28:48,19,3,2,18,8,1,1,9,10
+Onbekend,Kåmark Sandra,5547310,17,Sverige,Vrouw,3490,Meerkampers,20,1,18,187,88,2025-02-23 04:29:12,20,12,2,8,3,0,1,7,9
+400 meter horden,Dolinar Matej,5440734,21,Slovenija,Man,17230,Sprinters,20,4,17,186,90,2025-02-23 04:30:08,19,2,3,18,2,3,3,8,9
+400 meter,Brahe Zac,5463989,22,Australia,Man,10350,Sprinters,20,3,16,176,78,2025-02-23 04:31:09,18,3,5,16,1,0,2,9,7
+800 meter,van den Wallen Nancy,5132127,31,Nederland,Vrouw,16110,Middenafstandslopers,20,11,16,166,43,2025-02-23 04:32:41,16,2,15,14,1,8,0,11,12
+5.000 meter,de Sousa Ênio,5419736,23,Brasil,Man,11350,Langeafstandslopers,20,5,17,188,89,2025-02-23 04:33:31,16,3,17,9,3,3,2,5,9
+Marathon,Kasun Nikolina,5357005,23,Hrvatska,Vrouw,16620,Langeafstandslopers,20,5,16,173,76,2025-02-23 04:34:23,20,2,18,8,3,1,1,8,8
+10 km snelwandelen,Schoonhoven Ezra,5320886,24,Nederland,Man,20610,Snelwandelaars,20,8,17,167,76,2025-02-23 04:35:38,16,1,19,2,3,2,1,9,10
+20 km snelwandelen,Baquedano Maya,5447473,20,España,Vrouw,11520,Snelwandelaars,20,5,16,179,79,2025-02-23 04:36:46,14,0,17,3,2,4,3,5,8
+Kogelstoten,Corradi Santo,5437829,20,Italia,Man,11120,Werpers,20,5,18,193,96,2025-02-23 04:38:04,15,17,1,2,0,2,7,9,7
+Hinkstapspringen,Mitaraki Theano,5418940,22,Hellas,Vrouw,9900,Springers,20,5,18,168,72,2025-02-23 04:39:32,9,3,2,2,8,16,3,10,10
+Marathon,Pinder Chloe,5444057,21,Bahamas,Vrouw,14790,Langeafstandslopers,20,6,15,170,76,2025-02-23 04:40:52,18,1,17,3,4,3,2,10,8
+Onbekend,Kahnberg Eva,5568086,17,Sverige,Vrouw,3390,Sprinters,20,2,17,178,80,2025-02-23 05:43:14,17,10,2,12,4,2,1,10,5
+Onbekend,Toi Kate,5579855,17,Malaysia,Vrouw,3100,Springers,18,2,15,171,74,2025-02-23 06:00:32,16,1,2,2,11,12,1,6,7
+Onbekend,Szárd Béla,5627700,17,Magyarország,Man,2430,Werpers,20,1,19,183,86,2025-02-23 06:01:25,19,11,3,0,3,2,9,6,6
+Onbekend,Ahmad Peter,5542432,17,Danmark,Man,2660,Meerkampers,20,2,17,177,93,2025-02-23 07:59:06,15,3,1,1,2,10,12,6,7
+Polsstokhoogspringen,Guevara Jone,5258646,26,España,Vrouw,21460,Springers,20,10,18,180,62,2025-02-23 08:08:11,20,2,7,4,17,16,1,11,9
+10 km snelwandelen,Alemany Soraya,5195266,27,España,Vrouw,74960,Snelwandelaars,20,10,16,184,48,2025-02-23 08:08:39,20,1,20,1,1,2,2,18,20
+Hinkstapspringen,Fiz Francisco,5411484,22,España,Man,9650,Springers,20,5,17,172,78,2025-02-23 08:09:51,20,2,3,3,14,14,5,8,8
+1.500 meter,Maqueda Jessica,5407199,23,España,Vrouw,9670,Middenafstandslopers,20,6,18,179,58,2025-02-23 08:10:16,19,4,16,11,2,3,2,9,7
+3.000 meter steeplechase,Baert Yara,5505919,30,België,Vrouw,1760,Middenafstandslopers,20,4,17,177,78,2025-02-23 08:17:12,16,2,4,10,3,1,0,8,7
+Speerwerpen,Quinquis Gladys,5309956,24,France,Vrouw,5080,Werpers,20,8,15,178,71,2025-02-23 08:18:46,17,10,1,2,1,2,13,9,6
+Onbekend,Melgar Diana,5616919,22,México,Vrouw,1340,Werpers,11,1,13,161,66,2025-02-23 08:19:15,8,9,7,3,1,0,10,2,7
+Tienkamp,Salminen Juho,5223967,31,Suomi,Man,1720,Meerkampers,20,7,17,182,68,2025-02-23 08:20:16,18,7,5,5,8,1,10,7,6
+Hinkstapspringen,Sirpos Megaklis,5021080,33,Hellas,Man,17090,Springers,19,12,17,177,65,2025-02-23 08:39:43,18,0,0,0,15,16,0,8,8
+Marathon,Stuchlová Karla,5085230,30,Česká republika,Vrouw,12810,Langeafstandslopers,20,10,16,170,67,2025-02-23 09:06:17,12,4,10,9,0,2,2,14,14
+Onbekend,Mitrakopoulos Veniamin,5620934,17,Hellas,Man,2640,Middenafstandslopers,18,1,16,178,81,2025-02-23 09:11:12,14,2,11,4,2,11,0,9,6
+110 meter horden,Driessen Bob,5090952,31,Nederland,Man,23930,Sprinters,20,14,17,182,59,2025-02-23 09:23:26,14,7,0,19,9,4,2,9,10
+Onbekend,Šišák Přemysl,5663310,14,Česká republika,Man,640,Zonder specialiteit,15,1,15,158,60,2025-02-23 09:24:40,7,0,3,3,3,9,8,0,0
+110 meter horden,McCartney Hamish,5264489,29,Great Britain,Man,8750,Sprinters,19,10,17,176,65,2025-02-23 09:37:39,19,12,1,12,7,1,0,10,12
+Onbekend,Hammadou Samiah,5601425,17,Al-Jazā'ir,Vrouw,1810,Sprinters,20,2,16,161,61,2025-02-23 09:39:47,19,7,2,10,3,2,3,8,5
+Onbekend,Perlangeli Adriana,5551025,17,Italia,Vrouw,2700,Sprinters,20,2,17,160,68,2025-02-23 09:40:03,16,10,2,11,2,1,2,7,8
+Onbekend,Puppin Oliviero,5562284,17,Italia,Man,2740,Middenafstandslopers,20,2,17,169,84,2025-02-23 09:40:17,12,0,12,6,0,2,2,6,8
+Onbekend,Cerrone Gennaro,5599975,17,Italia,Man,2850,Langeafstandslopers,20,2,20,186,93,2025-02-23 09:40:37,19,3,11,4,2,3,2,7,8
+Onbekend,Fantauzzi Dario,5584914,17,Italia,Man,3190,Snelwandelaars,20,2,17,173,84,2025-02-23 09:40:55,16,1,13,1,4,6,3,6,8
+Onbekend,Ridolfo Tullio,5620831,17,Italia,Man,2030,Snelwandelaars,20,1,17,170,71,2025-02-23 09:41:10,17,1,11,2,9,3,2,7,4
+Onbekend,Northey Eva,5600755,17,Australia,Vrouw,4050,Snelwandelaars,20,2,14,159,61,2025-02-23 09:41:23,20,4,13,0,1,3,3,8,5
+Onbekend,Pirlo Glory,5607635,17,Italia,Vrouw,2390,Snelwandelaars,20,2,19,171,76,2025-02-23 09:41:39,15,2,12,3,8,2,2,4,6
+Onbekend,Scatena Carmine,5556073,17,Italia,Man,2470,Springers,20,2,16,184,90,2025-02-23 09:42:09,14,9,3,1,8,11,1,8,8
+Onbekend,Delussu Katia,5613681,17,Italia,Vrouw,1500,Werpers,20,2,16,177,72,2025-02-23 09:42:26,14,8,1,5,3,0,11,6,5
+Onbekend,Verni Wilma,5617284,17,Italia,Vrouw,1940,Meerkampers,20,1,17,187,84,2025-02-23 09:42:39,14,3,2,11,7,3,7,7,7
+Verspringen,Mpountouli Nana,5075542,31,Hellas,Vrouw,15860,Springers,20,12,16,172,67,2025-02-23 09:43:20,16,1,0,8,15,15,0,9,8
+Onbekend,Gafa’ Nicoletta,5590798,17,Italia,Vrouw,1870,Werpers,20,1,18,176,82,2025-02-23 09:43:50,16,11,2,0,1,2,5,6,8
+Verspringen,Mixalios Xristoforos,5179105,28,Hellas,Man,7320,Springers,20,10,16,189,86,2025-02-23 09:45:34,10,2,1,9,9,14,1,10,10
+3.000 meter steeplechase,Pouspourika Stamatia,5127144,30,Hellas,Vrouw,17370,Middenafstandslopers,20,11,17,172,66,2025-02-23 09:52:18,13,1,13,17,5,2,0,11,11
+Onbekend,Mistral Joana,5610151,16,España,Vrouw,750,Snelwandelaars,20,1,16,166,64,2025-02-23 10:03:13,6,3,8,3,7,3,3,6,8
+Onbekend,Lerma Ixeya,5636578,15,España,Vrouw,880,Springers,17,1,17,155,53,2025-02-23 10:03:28,17,1,2,2,3,7,3,7,5
+Onbekend,Ojeda Amaia,5661868,17,España,Vrouw,2220,Langeafstandslopers,11,1,16,172,65,2025-02-23 10:03:57,19,10,10,2,3,3,3,4,5
+Onbekend,Aramburu Pedro,5636576,17,España,Man,1420,Middenafstandslopers,17,1,16,186,84,2025-02-23 10:04:07,11,1,6,10,1,1,2,9,6
+Onbekend,Muelas Trinidad,5639758,16,España,Vrouw,870,Sprinters,15,1,15,162,64,2025-02-23 10:04:15,17,8,0,5,3,1,2,5,7
+Onbekend,Acebo José Juan,5653210,15,España,Man,490,Sprinters,12,1,17,158,60,2025-02-23 10:04:24,14,6,1,5,2,6,2,5,6
+Onbekend,Di Dario Monique,5538255,18,Italia,Vrouw,1680,Middenafstandslopers,20,1,20,165,72,2025-02-23 10:08:22,19,2,8,8,2,2,9,7,6
+10.000 meter,Rosa Arminda,4901522,36,Portugal,Vrouw,19240,Langeafstandslopers,18,13,16,180,65,2025-02-23 10:12:09,18,0,18,10,0,0,0,9,10
+Polsstokhoogspringen,Dimitrova Maria,4903085,36,Bulgaria,Vrouw,6130,Springers,20,15,17,179,61,2025-02-23 10:14:48,13,0,0,1,10,9,0,8,10
+Onbekend,Liebe Alyssa,5615019,15,Deutschland,Vrouw,840,Springers,20,1,14,175,73,2025-02-23 10:26:14,14,3,3,5,4,9,3,4,6
+Onbekend,Holguín Ithaisa,5552067,17,España,Vrouw,4230,Werpers,20,2,14,186,90,2025-02-23 10:27:34,6,14,3,3,2,1,8,5,8
+Onbekend,Claussen Florentine,5610462,17,Deutschland,Vrouw,820,Springers,16,1,15,177,75,2025-02-23 10:27:56,12,3,3,1,5,10,1,6,6
+Onbekend,Depp Alina,5601440,17,Deutschland,Vrouw,1430,Werpers,13,1,15,167,69,2025-02-23 10:28:11,20,7,0,2,3,2,9,6,6
+Onbekend,Bernasconi Matthias,5548384,17,Switzerland,Man,2500,Werpers,20,2,14,190,102,2025-02-23 11:27:24,20,7,1,2,10,2,10,5,8
+1.500 meter,Spadaro Gianni,5141788,29,Italia,Man,5160,Middenafstandslopers,19,8,18,188,92,2025-02-23 11:36:31,9,1,4,11,8,3,0,12,9
+3.000 meter steeplechase,Gafà Loretta,5315236,27,Italia,Vrouw,6530,Middenafstandslopers,20,6,18,155,33,2025-02-23 11:36:34,16,0,9,12,1,1,1,13,7
+Onbekend,Correale Ennio,5575073,18,Italia,Man,3260,Snelwandelaars,20,2,19,169,75,2025-02-23 11:43:19,15,3,12,1,9,4,4,8,9
+Verspringen,Jacquemin Tiphaine,4698361,40,France,Vrouw,28860,Springers,20,19,15,172,65,2025-02-23 11:43:31,19,0,0,11,3,17,0,7,6
+50 km snelwandelen,Elias Lily,4895414,35,France,Vrouw,45510,Snelwandelaars,20,15,16,178,42,2025-02-23 11:43:45,18,0,16,1,0,0,0,17,18
+100 meter,Darras Tom,4909083,35,France,Man,21880,Sprinters,18,14,15,167,66,2025-02-23 11:48:24,17,10,0,18,0,0,0,9,10
+200 meter,Espinosa Jimmy,5189919,30,France,Man,39530,Sprinters,20,10,16,165,63,2025-02-23 11:48:49,19,15,1,20,0,6,0,9,11
+200 meter,Hebert Margaux,4971422,33,France,Vrouw,32700,Sprinters,20,13,15,180,69,2025-02-23 11:49:04,17,14,0,20,0,0,1,10,11
+3.000 meter steeplechase,Josse Fiona,4909081,35,France,Vrouw,29830,Middenafstandslopers,18,14,16,185,64,2025-02-23 11:49:38,14,0,19,13,0,0,0,10,7
+1.500 meter,Wood Claude,5141027,29,France,Vrouw,15900,Middenafstandslopers,20,9,15,167,58,2025-02-23 11:49:45,15,4,17,12,6,1,2,9,11
+5.000 meter,Cherif Dylan,5102336,31,France,Man,56290,Langeafstandslopers,20,12,14,165,54,2025-02-23 11:50:11,20,0,20,19,1,0,0,10,12
+Marathon,Jezequel Fabien,4964825,33,France,Man,42860,Langeafstandslopers,19,14,15,180,58,2025-02-23 11:50:23,18,1,20,15,0,1,0,14,11
+10.000 meter,Navarro Auguste,5166671,29,France,Man,36300,Langeafstandslopers,20,9,16,177,48,2025-02-23 11:50:41,18,2,20,13,0,4,6,10,10
+Marathon,Besse Victoire,5091303,30,France,Vrouw,26330,Langeafstandslopers,19,9,16,185,59,2025-02-23 11:50:49,14,1,19,10,0,2,2,11,11
+5.000 meter,Cosson Justine,4994310,33,France,Vrouw,23570,Langeafstandslopers,20,12,15,170,65,2025-02-23 11:50:57,18,0,19,11,0,0,3,10,11
+10.000 meter,Lecoeur Suzanne,4900949,36,France,Vrouw,33160,Langeafstandslopers,16,15,18,174,55,2025-02-23 11:51:06,20,0,20,10,0,0,0,8,11
+10 km snelwandelen,Baudet Jean Philippe,4968360,36,France,Man,40980,Snelwandelaars,20,15,18,182,63,2025-02-23 11:51:34,18,0,20,0,6,0,0,7,17
+20 km snelwandelen,Arnal Marine,4953206,34,France,Vrouw,59960,Snelwandelaars,17,14,15,169,49,2025-02-23 11:51:46,19,0,20,1,3,0,0,10,20
+10 km snelwandelen,Marty Eloïse,5094136,30,France,Vrouw,51450,Snelwandelaars,20,10,18,186,61,2025-02-23 11:51:56,16,0,20,0,2,0,6,8,19
+Polsstokhoogspringen,Peres Gwendoline,4900963,36,France,Vrouw,22320,Springers,17,14,16,176,74,2025-02-23 11:52:41,17,0,0,0,16,17,0,9,7
+Hoogspringen,Prudhomme Gaëtan,4986016,33,France,Man,32540,Springers,17,13,15,193,78,2025-02-23 11:52:49,17,0,0,0,15,19,0,9,11
+Polsstokhoogspringen,Cormier Fabien,5037862,33,France,Man,46270,Springers,20,13,18,189,67,2025-02-23 11:53:05,19,0,0,0,19,20,1,9,9
+Kogelslingeren,Amrani Naïa,5023043,32,France,Vrouw,37490,Werpers,20,13,17,176,88,2025-02-23 11:53:54,17,18,0,0,4,1,18,7,10
+Kogelstoten,Baudin Océane,5129384,29,France,Vrouw,15350,Werpers,20,10,15,178,73,2025-02-23 11:54:11,19,15,2,3,1,3,15,9,6
+Discuswerpen,Guery Adrienne,4924053,35,France,Vrouw,28270,Werpers,20,14,17,178,77,2025-02-23 11:54:40,20,18,1,0,0,0,17,8,7
+Vijfkamp Mannen,Carriere Jean-Charles,4900976,35,France,Man,10180,Meerkampers,18,15,15,186,77,2025-02-23 11:55:12,12,13,0,11,7,0,0,9,10
+Vijfkamp Vrouwen,Andreu Pierrette,5049800,33,France,Vrouw,4660,Meerkampers,18,11,16,181,73,2025-02-23 11:55:40,14,10,5,11,8,0,0,10,9
+100 meter,Condruc Jean,5023019,33,România,Man,34880,Sprinters,19,15,15,179,71,2025-02-23 12:00:02,19,1,2,20,1,1,0,10,12
+400 meter horden,Gorie Ignatie,5091767,32,România,Man,11900,Sprinters,20,15,13,183,79,2025-02-23 12:00:17,20,1,1,12,9,1,1,11,12
+1.500 meter,Vasilică Georgina,4975329,36,România,Vrouw,12650,Middenafstandslopers,16,17,13,169,50,2025-02-23 12:00:52,17,0,11,10,0,0,0,9,11
+Marathon,Ivan Miruna,5178718,28,România,Vrouw,6270,Langeafstandslopers,20,9,15,161,62,2025-02-23 12:01:23,18,8,13,6,8,3,3,12,7
+10 km snelwandelen,Nistor Şerban,5122842,29,România,Man,15260,Snelwandelaars,20,11,15,198,103,2025-02-23 12:01:51,15,2,17,1,7,1,3,10,10
+20 km snelwandelen,Simioncencu Ada,5094585,30,România,Vrouw,19420,Snelwandelaars,20,16,15,177,48,2025-02-23 12:02:25,15,1,13,1,11,0,0,13,14
+Discuswerpen,Anca Ieremia,5135853,29,România,Man,9900,Werpers,20,12,17,198,98,2025-02-23 12:03:19,15,14,2,2,2,1,6,12,11
+100 meter,Salagas Mosxos,5097368,30,Hellas,Man,23700,Sprinters,20,12,17,174,78,2025-02-23 12:07:54,20,14,1,18,0,0,1,11,11
+3.000 meter steeplechase,McNeill Ciaran,4981621,36,Great Britain,Man,6570,Middenafstandslopers,19,14,15,181,58,2025-02-23 12:08:58,15,0,10,8,1,0,0,11,9
+400 meter horden,Francis Ray,4945162,35,Barbados,Man,15630,Sprinters,19,14,15,186,71,2025-02-23 12:25:48,16,0,0,16,13,0,0,9,7
+Onbekend,Jonkers Will,5574771,17,Nederland,Man,1330,Sprinters,20,2,14,183,92,2025-02-23 12:28:18,16,9,1,4,8,3,3,6,8
+Onbekend,van Nieuwenhoven Bianca,5568771,19,Nederland,Vrouw,1850,Springers,20,1,13,179,75,2025-02-23 12:29:02,19,4,3,3,8,6,1,10,5
+5.000 meter,Sergouniotis Antonis,5222086,28,Hellas,Man,17960,Langeafstandslopers,20,9,18,171,70,2025-02-23 12:31:34,16,2,17,14,2,3,1,10,10
+Onbekend,Guarda Fernanda,5589761,18,Italia,Vrouw,1020,Meerkampers,20,1,19,172,76,2025-02-23 13:02:23,19,3,2,6,5,3,2,4,6
+Onbekend,Cardon Lou,5562534,18,France,Vrouw,2770,Langeafstandslopers,20,2,20,173,74,2025-02-23 13:04:03,9,3,10,11,3,3,0,9,6
+Onbekend,Tay Emma,5605787,18,Singapore,Vrouw,1980,Sprinters,16,2,16,173,71,2025-02-23 13:06:32,19,4,2,9,9,2,3,8,6
+Onbekend,Lounici Imane,5610757,17,Al-Jazā'ir,Vrouw,1700,Langeafstandslopers,14,2,17,166,68,2025-02-23 13:28:13,18,3,10,3,2,1,5,5,8
+Onbekend,Tampieri Celeste,5638575,17,Italia,Man,2430,Sprinters,14,1,15,194,97,2025-02-23 13:41:25,16,2,2,12,1,2,1,6,9
+Onbekend,Talotti Costanza,5582087,17,Italia,Vrouw,6170,Sprinters,20,1,15,185,83,2025-02-23 13:41:56,18,3,1,15,3,1,4,5,8
+Onbekend,D'Orsogna Giada,5617718,17,Italia,Vrouw,1160,Snelwandelaars,20,1,15,178,76,2025-02-23 13:42:11,19,1,7,7,5,2,7,6,5
+Onbekend,Sacco Samuele,5571120,17,Italia,Man,2330,Werpers,20,1,15,196,105,2025-02-23 13:42:38,15,7,1,3,2,2,11,9,6
+Kogelslingeren,Krnáč Leopold,5081616,30,Česká republika,Man,14520,Werpers,19,12,17,178,76,2025-02-23 13:43:31,14,11,0,2,2,2,12,14,14
+110 meter horden,Čábela Julius,5284514,25,Česká republika,Man,11320,Sprinters,20,8,17,182,88,2025-02-23 13:44:18,15,4,1,16,9,1,1,10,9
+1.500 meter,Yurduseven Berna,5039887,33,Türkiye,Vrouw,17400,Middenafstandslopers,16,12,16,161,53,2025-02-23 13:45:07,19,0,17,12,0,0,0,11,10
+200 meter,Hložek Drahomír,5388094,22,Česká republika,Man,5160,Sprinters,20,5,18,182,85,2025-02-23 13:45:13,18,4,1,12,0,1,4,8,11
+10 km snelwandelen,Abanilla Alma,4970982,35,Pilipinas,Vrouw,28240,Snelwandelaars,20,15,16,174,60,2025-02-23 13:45:57,20,0,18,0,2,0,0,13,14
+Tienkamp,Wardhaugh Oliver,4766993,38,Great Britain,Man,21860,Meerkampers,15,19,17,190,68,2025-02-23 13:46:05,15,11,0,14,7,0,0,9,8
+100 meter horden,Machníková Danuše,5443377,22,Česká republika,Vrouw,3320,Sprinters,20,5,16,163,65,2025-02-23 13:46:12,10,3,2,11,8,2,3,10,9
+Onbekend,Vincenzi Valentino,5571119,17,Italia,Man,7130,Sprinters,20,2,16,172,73,2025-02-23 13:46:52,20,9,2,15,0,6,1,7,6
+Onbekend,Naccarato Gemma,5582085,17,Italia,Vrouw,4680,Middenafstandslopers,20,1,15,165,69,2025-02-23 13:49:22,19,1,3,14,2,1,1,8,8
+Hoogspringen,Kremzová Drahomíra,5443375,20,Česká republika,Vrouw,1840,Springers,20,4,17,183,87,2025-02-23 13:51:31,16,2,1,3,8,9,1,8,8
+Hinkstapspringen,Scheel Carolin,5520366,20,Deutschland,Vrouw,4440,Springers,20,3,20,173,70,2025-02-23 13:54:04,18,2,1,3,11,13,2,5,8
+Onbekend,Moine Yacine,5618077,15,France,Man,2010,Sprinters,20,1,15,157,62,2025-02-23 13:57:30,20,10,0,6,3,1,3,7,5
+Onbekend,Lesage Alexanne,5656644,16,France,Vrouw,1900,Sprinters,18,1,16,174,72,2025-02-23 13:57:47,19,6,1,4,9,0,2,8,8
+Discuswerpen,Le Bras Anne-Marie,5051665,31,France,Vrouw,9880,Werpers,14,14,16,171,77,2025-02-23 14:10:28,6,13,0,3,3,2,10,12,12
+Onbekend,Bouzas Oier,5624732,16,España,Man,980,Sprinters,20,1,14,182,87,2025-02-23 14:19:27,18,9,2,6,2,2,2,6,6
+Onbekend,Ayerbe Fe,5634179,15,España,Vrouw,930,Werpers,20,1,16,153,51,2025-02-23 14:19:32,15,5,4,3,3,1,8,8,6
+Onbekend,Taurisano Yuri,5656466,15,Italia,Man,1120,Sprinters,19,1,14,170,71,2025-02-23 14:19:40,9,3,3,10,3,2,1,6,8
+Marathon,Stewart Dakota,4928049,36,United States,Man,27840,Langeafstandslopers,20,14,15,171,58,2025-02-23 14:55:26,19,0,19,2,0,4,0,11,10
+100 meter,Van Blitterswijk Anissa,4898529,35,België,Vrouw,18030,Sprinters,19,14,15,179,72,2025-02-23 14:58:01,18,10,2,17,0,0,0,10,8
+3.000 meter steeplechase,Muroi Yuma,4894841,35,Nippon,Man,15830,Middenafstandslopers,19,15,17,193,66,2025-02-23 14:58:05,20,1,15,14,0,0,0,8,8
+Tienkamp,Fontes Arsénio,4941661,35,Portugal,Man,6130,Meerkampers,20,13,15,183,74,2025-02-23 14:58:11,20,6,3,11,5,3,0,10,8
+10.000 meter,Saliwa Jeff,4888218,36,South Africa,Man,24370,Langeafstandslopers,18,17,16,180,67,2025-02-23 14:58:16,16,0,18,10,0,0,0,9,10
+1.500 meter,Nekrasov Sokrat,4945941,36,Belarus,Man,35010,Middenafstandslopers,17,16,15,173,48,2025-02-23 14:58:19,19,0,20,12,0,0,0,8,9
+Kogelstoten,Lorenzato Patrícia,4900283,36,Brasil,Vrouw,22420,Werpers,18,16,15,174,64,2025-02-23 14:58:22,17,17,0,0,0,0,15,6,8
+Onbekend,Armas Tamara,5561326,18,España,Vrouw,2310,Sprinters,19,1,11,174,71,2025-02-23 15:04:02,19,5,1,9,10,3,3,9,7
+1.500 meter,Xirdari Arxontoula,4993488,33,Hellas,Vrouw,36680,Middenafstandslopers,20,14,15,171,44,2025-02-23 15:13:14,19,0,18,18,0,2,0,9,10
+Onbekend,Cruz Demétrio,5629041,28,Portugal,Man,590,Snelwandelaars,15,1,16,173,81,2025-02-23 15:27:10,7,2,9,3,6,0,2,6,7
+Hinkstapspringen,Boston Juan,5008477,33,United States,Man,14800,Springers,20,14,16,177,75,2025-02-23 16:00:33,19,1,0,1,13,15,0,11,8
+Vijfkamp Mannen,Kourkourikis Karolos,4987659,33,Hellas,Man,5830,Meerkampers,19,14,17,179,74,2025-02-23 16:14:13,20,6,6,7,5,3,0,8,11
+Onbekend,Tomala Wojciech,5607276,17,Polska,Man,5700,Sprinters,20,1,14,184,92,2025-02-23 16:15:34,20,3,2,14,8,3,1,4,7
+Onbekend,Iwanowska Teresa,5604766,17,Polska,Vrouw,5460,Meerkampers,20,1,15,186,84,2025-02-23 16:19:18,19,2,2,14,3,9,1,8,6
+Kogelslingeren,Borek Konrad,5566758,21,Polska,Man,3510,Werpers,20,3,16,185,76,2025-02-23 16:25:34,20,12,0,1,3,1,5,9,6
+Onbekend,Mazur Artur,5515852,19,Polska,Man,5290,Springers,20,2,16,194,96,2025-02-23 16:27:15,17,1,0,3,6,14,3,6,6
+Zevenkamp,Wojak Barbara,5566789,18,Polska,Vrouw,2510,Meerkampers,20,3,15,170,71,2025-02-23 16:27:43,20,6,1,3,3,1,9,7,10
+Onbekend,Przybyszewski Ignacy,5607067,18,Polska,Man,1610,Middenafstandslopers,20,1,16,187,85,2025-02-23 16:29:00,15,4,11,1,6,3,2,7,7
+Onbekend,Xalari Velissaria,5573036,19,Hellas,Vrouw,1550,Sprinters,20,2,17,168,63,2025-02-23 16:45:36,7,10,3,9,3,3,2,8,5
+Onbekend,Kontomati Danai,5656461,17,Hellas,Vrouw,980,Meerkampers,15,1,15,175,71,2025-02-23 16:45:45,10,3,3,10,3,2,6,5,5
+Marathon,Gallegos Alicia,5199201,29,United States,Vrouw,25300,Langeafstandslopers,20,10,17,178,69,2025-02-23 17:02:48,20,0,19,12,2,0,1,9,9
+1.500 meter,McCluskey Tia,5106373,32,Great Britain,Vrouw,5680,Middenafstandslopers,19,10,16,167,46,2025-02-23 17:06:47,15,1,11,9,1,0,0,10,11
+Discuswerpen,Mendoza Sonia,5061591,31,Colombia,Vrouw,26590,Werpers,20,14,18,173,83,2025-02-23 17:22:39,15,18,1,0,0,1,16,10,10
+Onbekend,Siddhanta Jayant,5576070,17,India,Man,2280,Sprinters,20,2,18,182,94,2025-02-23 17:30:28,14,10,1,11,3,1,2,6,6
+Onbekend,Siljanoski Dobri,5572746,17,FYR Makedonija,Man,3130,Sprinters,19,2,18,177,87,2025-02-23 17:30:54,8,0,2,12,10,4,2,5,7
+Onbekend,Wozniak Yannis,5617021,17,France,Man,2390,Sprinters,13,1,16,191,99,2025-02-23 17:31:12,7,10,0,11,2,2,3,7,7
+200 meter,Miloc Sofia,4934353,35,Uruguay,Vrouw,13750,Sprinters,18,15,17,187,71,2025-02-23 17:31:41,18,10,3,16,0,0,0,10,8
+Onbekend,Sellers Patricia,5607736,17,United States,Vrouw,2480,Sprinters,19,1,17,168,65,2025-02-23 17:31:44,10,8,2,12,2,1,2,6,6
+Onbekend,Augustinus Tamara,5546651,17,Nederland,Vrouw,3610,Middenafstandslopers,20,2,19,172,77,2025-02-23 17:32:08,13,6,9,13,3,1,1,7,8
+3.000 meter steeplechase,Bernsdorf Fernanda,5089712,32,Deutschland,Vrouw,20920,Middenafstandslopers,20,11,17,174,55,2025-02-23 17:32:17,19,1,16,16,2,1,0,11,7
+Onbekend,Tan Dewi,5607169,17,Malaysia,Vrouw,1590,Middenafstandslopers,20,2,17,155,57,2025-02-23 17:32:34,15,2,9,10,1,6,2,7,6
+Onbekend,Buráková Milena,5609137,17,Slovensko,Vrouw,2180,Langeafstandslopers,20,2,17,177,73,2025-02-23 17:32:53,10,2,10,7,3,1,2,9,10
+Onbekend,Volkova Evgeniya,5641847,17,Rossiya,Vrouw,1920,Langeafstandslopers,20,1,18,176,70,2025-02-23 17:33:07,14,2,11,8,1,2,2,6,6
+Onbekend,Remington Gregory,5566537,17,United States,Man,1970,Snelwandelaars,20,2,16,162,69,2025-02-23 17:33:23,9,4,10,1,10,2,3,9,8
+Onbekend,Rodríguez Johnny,5569932,17,Costa Rica,Man,2400,Snelwandelaars,20,2,18,182,93,2025-02-23 17:33:45,13,2,12,2,1,2,4,7,8
+Onbekend,Timiryazeva Irina,5554956,17,Belarus,Vrouw,2690,Springers,20,1,15,167,71,2025-02-23 17:33:59,17,1,2,6,6,12,1,7,8
+Onbekend,Guery Anaïs,5563371,17,France,Vrouw,3010,Springers,20,1,16,169,76,2025-02-23 17:34:10,10,1,4,7,6,13,2,7,5
+Onbekend,Sincinelli Rocco,5536478,17,Italia,Man,1490,Werpers,20,2,17,190,100,2025-02-23 17:35:00,8,10,1,4,3,3,8,7,6
+Onbekend,Zanettini Alighiero,5553511,17,Italia,Man,3060,Werpers,20,2,18,188,98,2025-02-23 17:35:20,8,12,3,2,1,3,9,8,8
+Onbekend,Lucchi Agata,5546591,17,Italia,Vrouw,2070,Werpers,20,2,17,177,85,2025-02-23 17:35:38,15,10,2,1,5,2,9,6,9
+Onbekend,Franco Ophélie,5662015,15,France,Vrouw,1790,Sprinters,12,1,15,153,50,2025-02-23 17:47:26,20,10,2,5,3,3,2,6,7
+Onbekend,Albert Thierry,5651179,15,France,Man,1150,Middenafstandslopers,20,1,12,172,75,2025-02-23 17:48:54,15,5,7,10,0,1,2,5,7
+Onbekend,Lambert Gabrielle,5659013,15,France,Vrouw,2540,Springers,13,1,15,165,57,2025-02-23 17:49:14,18,10,2,0,4,10,3,8,7
+Onbekend,Celades Peio,5610149,16,España,Man,2330,Werpers,20,1,18,173,83,2025-02-23 17:52:17,16,12,1,2,1,3,8,4,6
+200 meter,Garabaya Martín,4995484,33,España,Man,56530,Sprinters,20,12,20,173,64,2025-02-23 17:56:07,20,20,0,20,2,0,0,12,8
+100 meter,Lapetra Emma,5241248,26,España,Vrouw,24790,Sprinters,20,3,19,182,74,2025-02-23 17:56:24,14,0,1,19,12,2,2,6,11
+Speerwerpen,Briones Jofre,5065402,32,España,Man,54880,Werpers,20,13,18,169,64,2025-02-23 17:56:55,20,20,0,3,1,0,19,10,9
+Onbekend,Luís Adriana,5656151,17,Portugal,Vrouw,1010,Springers,16,1,13,166,58,2025-02-23 18:06:57,18,2,3,1,8,3,1,8,4
+Onbekend,Santos Ricardo,5582241,16,Portugal,Man,790,Springers,20,1,12,174,78,2025-02-23 18:07:06,7,3,1,5,3,9,0,7,7
+Onbekend,Sampaio Iris,5556378,19,Portugal,Vrouw,250,Middenafstandslopers,15,1,12,174,70,2025-02-23 18:07:14,6,3,3,6,1,2,2,7,6
+Onbekend,Vicente Liberto,5578895,18,Portugal,Man,1570,Springers,20,2,14,169,77,2025-02-23 18:07:21,7,2,3,3,9,6,3,6,10
+Hoogspringen,Vasques Olinda,5513165,18,Portugal,Vrouw,840,Springers,20,3,14,168,74,2025-02-23 18:07:29,6,2,0,3,6,7,1,7,9
+Onbekend,Velasques Vera,5539437,17,Portugal,Vrouw,2460,Sprinters,20,2,15,172,73,2025-02-23 18:07:36,11,12,3,7,1,0,3,5,7
+Onbekend,Rios Emílio,5603625,17,Portugal,Man,710,Langeafstandslopers,20,1,15,174,76,2025-02-23 18:07:43,15,2,9,1,3,2,3,5,4
+Onbekend,Steel Samantha,5662108,17,Great Britain,Vrouw,1580,Springers,13,1,14,168,63,2025-02-23 18:11:04,19,1,1,8,3,6,2,9,7
+Onbekend,Reidford Carla,5662110,17,Great Britain,Vrouw,780,Springers,11,1,15,170,64,2025-02-23 18:11:20,12,3,2,1,7,9,1,7,3
+Onbekend,Giordano Lucio,5630637,17,Italia,Man,1710,Sprinters,17,1,16,176,80,2025-02-23 18:11:41,19,2,2,10,1,2,2,5,8
+Onbekend,Iachini Abramo,5656419,16,Italia,Man,710,Sprinters,16,1,16,173,71,2025-02-23 18:11:48,16,2,2,9,2,2,2,3,3
+Onbekend,Nestori Giovanni,5624942,17,Italia,Man,730,Sprinters,19,1,16,183,85,2025-02-23 18:11:52,15,3,2,9,3,1,2,6,4
+Onbekend,Proserpio Peter,5650997,14,Italia,Man,430,Sprinters,20,1,16,165,64,2025-02-23 18:11:57,14,2,2,6,3,2,3,7,6
+Onbekend,Tozzi Artemio,5643766,16,Italia,Man,1180,Sprinters,20,1,16,172,80,2025-02-23 18:12:01,7,8,3,3,9,2,1,7,8
+Onbekend,Buticchi Giusi,5648723,14,Italia,Vrouw,890,Sprinters,18,1,15,174,69,2025-02-23 18:12:05,18,1,1,6,3,1,1,7,7
+Onbekend,Ibermajerová Alexandra,5608751,17,Česká republika,Vrouw,1960,Sprinters,20,2,16,161,64,2025-02-23 18:12:09,15,4,2,11,2,3,1,9,6
+Onbekend,Malverdi Rebecca,5617443,16,Italia,Vrouw,820,Sprinters,20,2,15,183,83,2025-02-23 18:12:13,14,2,3,9,8,1,1,5,6
+Onbekend,Muzzolon Sabrina,5644989,17,Italia,Vrouw,1720,Sprinters,12,1,16,171,63,2025-02-23 18:12:18,13,0,3,11,6,1,3,8,3
+Onbekend,Shaw Laura,5551794,17,Great Britain,Vrouw,1450,Sprinters,20,2,16,166,69,2025-02-23 18:12:22,10,7,1,11,3,0,4,6,5
+Onbekend,Carbajal Ícaro,5574829,17,España,Man,1260,Middenafstandslopers,19,2,16,170,81,2025-02-23 18:12:27,7,2,10,8,1,2,2,4,6
+Onbekend,Dassi Filippo,5637225,14,Italia,Man,470,Middenafstandslopers,20,1,16,172,75,2025-02-23 18:12:32,9,1,4,4,8,1,1,5,7
+Onbekend,Filippuzzi Mabel,5627721,15,Italia,Vrouw,630,Middenafstandslopers,17,1,15,171,64,2025-02-23 18:12:37,11,6,7,1,2,2,2,8,7
+Onbekend,Zupin Diletta,5640716,16,Italia,Vrouw,1310,Middenafstandslopers,14,1,16,158,62,2025-02-23 18:12:41,19,2,3,3,1,7,4,6,8
+Onbekend,Boccoli Francis,5612652,16,Brasil,Man,1000,Langeafstandslopers,15,2,16,182,89,2025-02-23 18:12:45,10,2,10,2,3,1,2,5,7
+100 meter,Magdoń Karol,5211675,28,Polska,Man,35650,Sprinters,20,10,14,182,76,2025-02-23 18:12:46,20,16,1,20,3,1,0,12,10
+Onbekend,Di Maio Fernando,5662182,14,Italia,Man,880,Langeafstandslopers,19,1,15,167,67,2025-02-23 18:12:49,19,1,6,3,3,1,1,6,6
+Onbekend,Lombardo Giandomenico,5592646,16,Italia,Man,310,Langeafstandslopers,20,2,16,164,71,2025-02-23 18:12:55,14,2,6,4,3,1,1,6,4
+Onbekend,Amistadi Ursula,5640715,15,Italia,Vrouw,900,Langeafstandslopers,14,2,14,163,60,2025-02-23 18:13:00,19,1,6,4,1,3,2,3,7
+Onbekend,Alfaro Arkaitz,5641612,17,España,Man,1630,Snelwandelaars,17,1,16,172,73,2025-02-23 18:13:05,7,3,10,2,3,3,1,9,8
+200 meter,Fedaczyński Albert,5238529,27,Polska,Man,23730,Sprinters,20,6,16,169,74,2025-02-23 18:13:14,16,14,3,18,2,1,0,10,8
+Onbekend,Battistelli Nicolò,5616483,17,Italia,Man,1600,Springers,20,2,15,183,88,2025-02-23 18:13:15,15,1,1,10,2,1,0,5,9
+Onbekend,Osovych Karl,5639104,17,Österreich,Man,1690,Springers,16,1,16,174,75,2025-02-23 18:13:26,17,7,0,1,1,11,3,5,5
+Onbekend,Pomposo Andrea,5565203,16,Italia,Man,1740,Springers,20,2,16,175,85,2025-02-23 18:13:30,9,1,1,3,1,10,9,7,7
+Onbekend,Adorni Michelle,5622581,16,Italia,Vrouw,1130,Springers,16,1,15,170,68,2025-02-23 18:13:35,16,9,3,1,6,5,2,7,8
+Onbekend,Zlatarić Seka,5657459,15,Srbija,Vrouw,1000,Zonder specialiteit,17,1,15,169,62,2025-02-23 18:13:35,20,1,1,1,7,2,1,0,0
+Onbekend,Ramos Firmina,5636875,17,Portugal,Vrouw,500,Springers,14,1,15,158,57,2025-02-23 18:13:40,7,3,2,1,2,8,1,7,6
+Onbekend,Rojas Makayla,5571087,17,United States,Vrouw,410,Springers,18,3,16,174,74,2025-02-23 18:13:44,10,1,1,1,1,8,2,5,5
+Onbekend,Amâncio Lauro,5638176,17,Brasil,Man,820,Werpers,17,1,16,171,74,2025-02-23 18:13:48,15,2,1,2,2,3,9,4,4
+Onbekend,Di Felice Alberto,5640717,15,Italia,Man,450,Werpers,19,1,15,169,70,2025-02-23 18:13:56,12,7,3,2,3,1,3,5,8
+Onbekend,Monzón Donato,5644326,15,España,Man,1700,Werpers,20,1,16,167,69,2025-02-23 18:14:00,18,3,2,3,9,2,8,8,7
+Onbekend,Nieto Leonardo,5590437,17,España,Man,980,Werpers,20,2,16,179,86,2025-02-23 18:14:04,18,3,2,3,1,2,7,7,7
+Onbekend,Ortis Ezio,5578803,17,Italia,Man,900,Werpers,20,1,17,188,99,2025-02-23 18:14:10,12,7,1,1,5,1,9,5,7
+Onbekend,Brustia Alessia,5656420,17,Italia,Vrouw,560,Werpers,18,1,16,164,66,2025-02-23 18:14:14,10,9,3,0,1,2,3,4,4
+Onbekend,Conte Melissa,5617895,17,Italia,Vrouw,680,Werpers,18,1,15,180,75,2025-02-23 18:14:19,17,2,1,7,3,2,5,5,7
+Onbekend,Nobre Idalina,5641777,17,Portugal,Vrouw,1260,Werpers,14,1,16,175,73,2025-02-23 18:14:23,14,2,3,9,1,3,10,4,5
+Onbekend,Papini Giulia,5653555,16,Italia,Vrouw,360,Werpers,10,1,16,183,76,2025-02-23 18:14:28,14,1,1,5,1,5,6,6,6
+Tienkamp,Dezi Gigi,4983963,33,Italia,Man,13950,Meerkampers,20,10,18,179,78,2025-02-23 18:14:34,20,13,0,16,3,3,0,7,7
+Tienkamp,Vītols Ivo,5021848,34,Latvija,Man,8700,Meerkampers,19,14,13,187,69,2025-02-23 18:14:56,20,13,2,10,11,0,0,7,7
+Onbekend,Oude Monninkhof Aniek,5562356,17,Nederland,Vrouw,2410,Meerkampers,20,2,16,168,75,2025-02-23 18:15:22,12,4,2,12,2,6,4,6,3
+Onbekend,Salvador Natália,5510049,20,Portugal,Vrouw,970,Meerkampers,20,2,13,180,77,2025-02-23 18:15:27,15,3,1,4,2,8,7,5,8
+Vijfkamp Vrouwen,Quintela Maria José,5469238,22,Portugal,Vrouw,1270,Meerkampers,20,3,14,162,52,2025-02-23 18:15:30,13,10,3,4,7,4,1,7,6
+Onbekend,Pascoal Olinda,5579899,18,Portugal,Vrouw,820,Meerkampers,17,1,13,179,76,2025-02-23 18:15:32,10,10,3,3,4,3,1,6,4
+Onbekend,Guterres Teodósio,5590119,19,Portugal,Man,880,Werpers,17,2,14,179,84,2025-02-23 18:15:46,9,7,3,3,2,2,5,7,9
+200 meter,Szczygieł Włodzimierz,5334178,24,Polska,Man,13690,Sprinters,20,7,16,187,90,2025-02-23 18:23:20,17,13,2,16,3,1,1,8,10
+200 meter,Czerwinska Weronika,5234272,27,Polska,Vrouw,19920,Sprinters,20,10,15,177,75,2025-02-23 18:24:06,20,13,2,18,3,1,2,10,9
+400 meter,Róg Grażyna,5249866,28,Polska,Vrouw,23440,Sprinters,20,8,16,154,39,2025-02-23 18:24:30,20,14,2,18,5,1,0,7,11
+400 meter horden,Wrzosek Julia,5147912,29,Polska,Vrouw,22220,Sprinters,20,9,16,171,63,2025-02-23 18:25:16,17,0,3,19,12,2,0,7,8
+3.000 meter steeplechase,Kmieć Filip,5456931,22,Polska,Man,16300,Middenafstandslopers,20,4,18,184,79,2025-02-23 18:26:15,20,1,18,8,2,3,3,8,10
+3.000 meter steeplechase,Przybyszewski Mirosław,5249869,27,Polska,Man,25140,Middenafstandslopers,20,9,15,186,84,2025-02-23 18:26:33,16,2,19,11,3,1,1,9,12
+5.000 meter,Gołębiewska Danuta,5144455,29,Polska,Vrouw,25690,Langeafstandslopers,20,10,14,167,61,2025-02-23 18:27:32,15,2,19,12,3,0,1,11,11
+Marathon,Rosiek Ewa,5130491,30,Polska,Vrouw,28130,Langeafstandslopers,20,11,15,181,73,2025-02-23 18:27:44,20,1,19,14,2,0,2,8,8
+50 km snelwandelen,Jarmuż Adrian,4980027,33,Polska,Man,39110,Snelwandelaars,19,14,15,166,46,2025-02-23 18:28:55,16,0,20,0,0,0,0,15,11
+20 km snelwandelen,Tarasiewicz Przemysław,5205617,27,Polska,Man,37500,Snelwandelaars,20,9,16,185,69,2025-02-23 18:29:14,19,4,20,1,2,2,3,15,11
+Discuswerpen,Szczerba Karolina,5315364,25,Polska,Vrouw,11460,Werpers,20,9,16,158,54,2025-02-23 18:30:24,16,15,1,3,5,3,13,9,11
+Vijfkamp Vrouwen,Cyran Iga,5054227,31,Polska,Vrouw,10640,Meerkampers,20,12,18,179,70,2025-02-23 18:30:47,13,12,8,14,7,0,1,12,6
+Speerwerpen,Jurczak Barbara,5042704,31,Polska,Vrouw,35320,Werpers,20,12,16,169,58,2025-02-23 18:31:46,19,18,0,2,1,1,18,10,11
+200 meter,Rodriguez Jared,5122218,29,United States,Man,26950,Sprinters,18,9,16,170,73,2025-02-23 18:36:00,17,11,0,19,3,1,2,11,10
+10.000 meter,Cavenati Primo,4987827,34,Italia,Man,25120,Langeafstandslopers,20,12,17,166,59,2025-02-23 18:39:02,19,0,19,13,1,0,0,11,10
+5.000 meter,Arango Maitane,5054266,31,Colombia,Vrouw,22430,Langeafstandslopers,20,11,17,164,57,2025-02-23 18:39:52,17,1,18,14,1,4,2,12,9
+Kogelslingeren,Giarrusso Alvaro,4979290,33,Italia,Man,39940,Werpers,19,13,17,191,82,2025-02-23 18:41:50,19,17,8,0,0,1,20,9,7
+400 meter,Ayerbe Octavio,4841926,37,España,Man,26000,Sprinters,20,13,17,183,68,2025-02-23 18:46:26,18,11,0,19,0,0,0,7,6
+400 meter horden,Charton Mathieu,4932459,36,France,Man,25800,Sprinters,20,16,17,189,68,2025-02-23 18:46:28,19,0,0,17,14,0,0,13,7
+110 meter horden,Leon Benjamin,5013947,32,United States,Man,22830,Sprinters,20,14,16,195,74,2025-02-23 18:46:30,19,1,0,17,15,0,0,9,9
+100 meter,Talotti Arturo,4866881,36,Italia,Man,32340,Sprinters,16,11,15,186,80,2025-02-23 18:46:31,20,11,0,20,0,0,0,9,10
+200 meter,Vidali Camillo,5123058,30,Italia,Man,22820,Sprinters,20,9,16,190,85,2025-02-23 18:46:33,19,17,0,16,2,1,0,9,7
+200 meter,Balsamo Glory,4898601,35,Italia,Vrouw,21950,Sprinters,16,13,17,178,62,2025-02-23 18:46:35,15,15,3,17,0,0,0,9,8
+100 meter,Mansilla Nahia,4942826,34,España,Vrouw,24170,Sprinters,20,14,16,164,69,2025-02-23 18:46:37,19,13,0,18,1,0,0,10,10
+400 meter horden,Matthews Savannah,5068006,31,United States,Vrouw,22070,Sprinters,20,11,16,163,51,2025-02-23 18:46:40,20,5,3,17,15,1,1,10,10
+400 meter,Quagliarotti Miriam,5043317,31,Italia,Vrouw,33450,Sprinters,20,11,18,172,73,2025-02-23 18:46:42,15,16,1,19,5,0,0,10,10
+100 meter horden,Rangel Acerina,4898735,35,España,Vrouw,25320,Sprinters,20,13,17,181,55,2025-02-23 18:46:45,20,0,0,17,16,0,0,10,8
+800 meter,Cerizzi Alfio,4816816,37,Italia,Man,18840,Middenafstandslopers,11,13,17,183,76,2025-02-23 18:47:03,13,0,15,17,0,0,0,8,7
+3.000 meter steeplechase,Cloarec Hamid,4917445,35,France,Man,23520,Middenafstandslopers,20,14,17,164,46,2025-02-23 18:47:06,20,0,18,15,2,0,0,9,7
+1.500 meter,Inacio Eliott,4995761,35,France,Man,21170,Middenafstandslopers,20,14,15,180,67,2025-02-23 18:47:09,20,0,17,15,0,0,0,9,10
+800 meter,Ibaizábal Merche,4869919,38,España,Vrouw,22080,Middenafstandslopers,12,16,19,166,68,2025-02-23 18:47:11,18,0,14,17,0,0,0,8,8
+Speerwerpen,Telebak Aisa,5596143,18,Bosna i Hercegovina,Vrouw,1560,Werpers,18,2,18,181,80,2025-02-23 18:47:11,18,6,2,4,7,3,10,6,7
+3.000 meter steeplechase,Lesiak Dominika,4925102,36,Polska,Vrouw,29320,Middenafstandslopers,19,17,17,171,51,2025-02-23 18:47:15,20,0,17,16,0,0,0,7,9
+1.500 meter,Simionato Maria Pia,4826622,37,Italia,Vrouw,17610,Middenafstandslopers,19,13,17,164,48,2025-02-23 18:47:18,18,0,17,13,0,0,0,7,9
+Onbekend,Dudás Töhötöm,5551691,17,Magyarország,Man,2700,Middenafstandslopers,20,3,19,189,98,2025-02-23 18:47:35,16,3,12,7,2,1,1,7,6
+5.000 meter,Aurier Marius,4859014,37,France,Man,23400,Langeafstandslopers,19,17,18,187,57,2025-02-23 18:47:39,16,0,17,13,0,0,1,9,9
+Marathon,Biffi Gigi,4870267,36,Italia,Man,27360,Langeafstandslopers,20,12,16,186,46,2025-02-23 18:47:41,18,0,18,15,0,0,0,8,9
+10.000 meter,Mancevski Sacha,5080427,30,FYR Makedonija,Man,31110,Langeafstandslopers,20,12,17,195,91,2025-02-23 18:47:44,17,3,19,16,2,1,3,9,10
+10.000 meter,De Paulis Amanda,4758765,39,Italia,Vrouw,16860,Langeafstandslopers,17,13,16,179,59,2025-02-23 18:47:47,19,0,17,13,0,0,0,9,6
+5.000 meter,Dussier Michele,5105051,31,Lëtzebuerg,Vrouw,36150,Langeafstandslopers,19,11,17,162,52,2025-02-23 18:47:49,15,0,18,18,0,1,1,10,8
+Marathon,Guerreiro Irina,4871743,36,Portugal,Vrouw,27600,Langeafstandslopers,20,15,18,169,45,2025-02-23 18:47:53,18,0,19,13,0,0,0,11,5
+Onbekend,Belyayev Kirill,5593326,17,Belarus,Man,1750,Sprinters,20,2,19,163,69,2025-02-23 18:48:08,13,9,3,10,3,0,2,5,8
+50 km snelwandelen,Gasparini Fausto,4831125,37,Italia,Man,20510,Snelwandelaars,20,13,18,171,62,2025-02-23 18:48:10,20,0,18,0,5,0,0,11,11
+20 km snelwandelen,Montagne Lilian,4850187,36,France,Man,33270,Snelwandelaars,20,13,17,171,65,2025-02-23 18:48:13,20,0,20,2,0,0,0,11,12
+10 km snelwandelen,Susic Giacomo,5016272,33,Italia,Man,27760,Snelwandelaars,19,12,14,172,68,2025-02-23 18:48:16,20,0,18,0,1,0,0,13,14
+10 km snelwandelen,Firszt Izabela,5026939,32,Polska,Vrouw,33090,Snelwandelaars,20,11,15,178,65,2025-02-23 18:48:18,18,0,19,0,4,0,2,14,13
+20 km snelwandelen,Ortis Grazia,4859533,36,Italia,Vrouw,43850,Snelwandelaars,18,12,17,171,36,2025-02-23 18:48:21,17,0,20,0,0,0,0,13,15
+50 km snelwandelen,Pongrácz Ivett,4971971,34,Magyarország,Vrouw,33710,Snelwandelaars,20,15,16,184,53,2025-02-23 18:48:23,18,0,19,0,3,2,0,14,14
+Onbekend,Rosier Sydney,5563190,17,France,Man,2310,Snelwandelaars,20,3,19,189,98,2025-02-23 18:48:40,9,2,12,3,9,3,1,6,7
+Verspringen,Capetillo Ion,4989808,34,España,Man,23380,Springers,20,12,17,169,56,2025-02-23 18:48:42,19,0,0,0,16,17,0,8,12
+Verspringen,Long Landon,5013976,33,United States,Man,32840,Springers,20,15,19,186,69,2025-02-23 18:48:45,20,0,0,7,10,20,0,9,9
+Hoogspringen,Pettemeridis Giorgos,4839182,37,Cyprus,Man,28730,Springers,13,15,17,186,66,2025-02-23 18:48:47,15,0,0,0,16,18,0,9,6
+Polsstokhoogspringen,Villalta Xerach,4810015,37,España,Man,21510,Springers,20,15,16,184,56,2025-02-23 18:48:49,18,0,0,0,16,16,0,8,7
+Polsstokhoogspringen,Hansjakob Christina,4973186,33,Switzerland,Vrouw,28570,Springers,20,12,16,165,58,2025-02-23 18:48:52,20,3,0,0,16,18,0,9,10
+Verspringen,Howell Chelsea,5026540,34,United States,Vrouw,18660,Springers,19,14,14,180,64,2025-02-23 18:48:54,19,0,0,7,7,18,0,6,9
+Hoogspringen,Huffins Jordan,5071197,33,United States,Vrouw,29730,Springers,19,14,16,183,71,2025-02-23 18:48:57,20,0,0,0,12,20,0,8,8
+Hinkstapspringen,Petrella Gina,4823177,37,Italia,Vrouw,19520,Springers,16,15,17,169,50,2025-02-23 18:49:01,17,0,0,0,15,16,0,7,6
+Discuswerpen,Bonassi Tullio,4898975,35,Italia,Man,20810,Werpers,20,12,16,188,76,2025-02-23 18:49:57,18,16,0,0,0,0,15,13,11
+Kogelslingeren,Clementi Mirko,4834383,37,Italia,Man,9310,Werpers,20,12,17,182,80,2025-02-23 18:50:00,16,13,0,0,4,0,14,7,7
+Kogelstoten,Delmotte Simon,4913196,35,France,Man,24380,Werpers,16,16,16,196,103,2025-02-23 18:50:02,14,18,0,0,0,0,13,10,7
+Speerwerpen,Jürgensen Laurits,4928179,34,Danmark,Man,27260,Werpers,19,16,15,189,86,2025-02-23 18:50:05,16,16,0,0,0,0,17,9,7
+Speerwerpen,Bonin Blanche,4921810,35,France,Vrouw,31880,Werpers,20,16,16,164,80,2025-02-23 18:50:07,20,17,0,0,0,0,17,8,7
+Kogelstoten,Dolcini Fausta,4838273,37,Italia,Vrouw,26140,Werpers,20,13,17,186,70,2025-02-23 18:50:09,17,19,0,0,0,0,14,8,8
+Kogelslingeren,Nell Luana,4967907,33,Deutschland,Vrouw,21960,Werpers,20,10,15,174,61,2025-02-23 18:50:12,19,18,0,0,4,0,14,6,10
+Discuswerpen,West Shelby,4916694,36,United States,Vrouw,29050,Werpers,19,16,16,176,97,2025-02-23 18:50:15,18,19,0,0,3,0,13,4,8
+Vijfkamp Mannen,Monroy Eduardo,4964113,34,España,Man,9700,Meerkampers,20,11,16,183,76,2025-02-23 18:50:33,20,11,0,11,7,0,0,13,11
+Tienkamp,Szewiński Adrian,5028462,32,Polska,Man,12210,Meerkampers,19,12,18,189,89,2025-02-23 18:50:35,11,9,1,16,7,0,1,10,6
+Zevenkamp,Fabre Eléanor,4891825,35,France,Vrouw,9410,Meerkampers,17,15,17,174,62,2025-02-23 18:50:38,19,13,0,11,4,0,5,9,9
+Vijfkamp Vrouwen,Kämpfe Fiona,4940248,34,Deutschland,Vrouw,5940,Meerkampers,20,13,17,172,62,2025-02-23 18:50:40,19,6,0,8,9,5,1,10,11
+Speerwerpen,Peškovič Gustáv,4971455,33,Slovensko,Man,56650,Werpers,20,16,15,192,79,2025-02-23 19:36:17,19,20,0,0,1,0,20,10,12
+Onbekend,Sprećaković Jelisaveta,5601185,17,Srbija,Vrouw,1740,Meerkampers,20,1,14,176,75,2025-02-23 19:38:10,19,5,3,0,1,2,10,8,7
+Onbekend,Muslin Veroljub,5647946,17,Srbija,Man,1110,Snelwandelaars,15,1,16,177,78,2025-02-23 19:41:56,20,4,3,1,5,5,3,7,6
+Onbekend,Jurczyk Włodzimierz,5547452,17,Polska,Man,2720,Springers,20,3,18,174,74,2025-02-23 19:42:26,19,1,3,2,6,12,2,6,8
+Onbekend,Hays Sebastian,5548326,17,United States,Man,1210,Meerkampers,20,3,16,192,105,2025-02-23 19:43:12,13,5,1,9,2,6,7,8,7
+Onbekend,Todorov Zlatan,5595013,17,Srbija,Man,2190,Werpers,20,1,15,197,104,2025-02-23 19:43:53,19,11,2,3,5,2,5,8,5
+Onbekend,Banjanin Nataša,5654192,16,Srbija,Vrouw,1390,Sprinters,18,1,15,169,61,2025-02-23 19:44:11,20,5,0,1,9,3,2,5,6
+Kogelslingeren,Choi Emma,5008750,32,Singapore,Vrouw,52620,Werpers,20,17,15,187,87,2025-02-23 19:47:08,17,20,0,1,1,0,19,10,11
+Onbekend,Spiric Slavimir,5654191,15,Srbija,Man,1170,Meerkampers,17,1,14,161,62,2025-02-23 19:47:56,18,6,2,1,5,6,2,8,8
+Tienkamp,Villar Adrian,5093289,31,Colombia,Man,38520,Meerkampers,20,13,16,189,75,2025-02-23 19:49:27,20,16,0,20,2,4,8,12,10
+Hinkstapspringen,Rovaris Nina,5050200,31,Italia,Vrouw,54580,Springers,20,11,16,178,52,2025-02-23 19:50:22,19,1,0,0,20,20,1,8,12
+3.000 meter steeplechase,Mpaskaki Lila,5105818,30,Hellas,Vrouw,40970,Middenafstandslopers,20,11,16,178,68,2025-02-23 19:51:43,17,1,20,14,4,2,2,14,11
+400 meter horden,Enache Clementina,5126201,30,România,Vrouw,41520,Sprinters,20,12,16,172,62,2025-02-23 19:57:17,19,6,0,20,17,0,2,10,10
+200 meter,Gavazza Alfredo,5019312,32,Italia,Man,54870,Sprinters,20,12,17,171,65,2025-02-23 19:59:55,19,20,1,20,2,0,0,11,10
+100 meter,Cursio Lara,4979868,33,Italia,Vrouw,52700,Sprinters,20,14,17,180,70,2025-02-23 20:00:22,19,20,0,20,0,0,0,11,9
+400 meter,Hermosilla Aura,5280718,28,España,Vrouw,29200,Sprinters,20,8,16,171,54,2025-02-23 20:07:02,16,12,3,20,2,2,1,9,6
+Onbekend,Isábal Ícaro,5541274,17,España,Man,1680,Middenafstandslopers,20,1,15,191,102,2025-02-23 20:20:48,7,1,6,10,0,4,3,8,9
+10 km snelwandelen,Poustecká Iveta,4899493,35,Česká republika,Vrouw,8720,Snelwandelaars,19,14,16,159,47,2025-02-23 20:28:51,17,0,12,3,1,0,0,10,12
+Hoogspringen,Abancéns Anakdam,5421872,21,España,Man,11130,Springers,20,3,17,186,84,2025-02-23 20:36:33,20,2,3,1,15,14,2,7,8
+Onbekend,Bedoya Eñaut,5548520,17,España,Man,1770,Springers,20,1,17,188,91,2025-02-23 20:42:25,14,5,2,3,5,11,1,9,4
+Vijfkamp Vrouwen,Ferreira Huguette,4967538,33,France,Vrouw,6940,Meerkampers,20,12,17,180,76,2025-02-23 20:49:16,20,9,2,1,4,6,6,12,11
+Onbekend,Hamon Samy,5634541,16,France,Man,1130,Werpers,20,1,18,162,67,2025-02-23 20:49:29,14,6,3,3,2,1,9,8,7
+Onbekend,Perron Suzette,5614611,18,France,Vrouw,1500,Middenafstandslopers,19,2,17,165,61,2025-02-23 20:49:40,13,2,7,10,3,2,1,8,6
+10 km snelwandelen,Schönfeldt Aaron,5182876,28,Deutschland,Man,40530,Snelwandelaars,20,10,16,179,61,2025-02-23 20:55:41,19,3,20,6,1,3,3,13,16
+Onbekend,Totzauer Lotti,5475023,19,Deutschland,Vrouw,6410,Snelwandelaars,20,3,19,176,76,2025-02-23 20:56:30,18,3,15,2,8,3,2,6,7
+Speerwerpen,Henning Luis,5365014,23,Deutschland,Man,4880,Werpers,20,5,18,174,78,2025-02-23 20:57:52,14,12,2,3,3,1,12,10,9
+Onbekend,Ziehm Ute,5662565,17,Deutschland,Vrouw,2470,Meerkampers,11,1,14,164,61,2025-02-23 20:58:46,19,7,3,10,3,9,1,3,8
+200 meter,Seppani Vito,5269708,25,Italia,Man,25860,Sprinters,20,6,18,175,70,2025-02-23 20:59:27,19,15,2,18,3,2,2,14,11
+1.500 meter,Fabre Kylie,5349968,26,Canada,Vrouw,5730,Middenafstandslopers,20,6,19,160,45,2025-02-23 21:10:57,19,2,9,12,3,3,6,12,9
+400 meter horden,Kolkkala Mika,5160584,30,Suomi,Man,49810,Sprinters,18,10,16,174,70,2025-02-23 21:16:25,19,4,1,20,19,0,2,11,12
+Marathon,Di Giammarino Emanuel,5050309,32,Italia,Man,45900,Langeafstandslopers,20,13,16,188,70,2025-02-23 21:18:22,19,0,20,17,0,0,1,14,9
+5.000 meter,Annunziata Ida,5027765,32,Italia,Vrouw,37650,Langeafstandslopers,20,13,16,170,64,2025-02-23 21:18:44,17,0,20,15,0,0,3,11,9
+3.000 meter steeplechase,Erceg Grozdana,5003958,33,Hrvatska,Vrouw,25020,Middenafstandslopers,19,14,17,181,68,2025-02-23 21:22:44,19,0,18,10,0,1,1,12,13
+400 meter horden,Zuyev Spartak,5365989,24,Belarus,Man,21360,Sprinters,20,7,17,182,76,2025-02-23 21:34:21,19,1,3,16,17,2,2,9,7
+100 meter,Hardie Courtney,5294872,25,Great Britain,Vrouw,48430,Sprinters,20,6,16,167,66,2025-02-23 21:34:58,20,20,2,19,2,2,2,7,10
+1.500 meter,Visioli Remigio,5296314,25,Italia,Man,42320,Middenafstandslopers,20,5,18,169,52,2025-02-23 21:35:44,18,2,20,18,3,3,3,9,9
+800 meter,Pellitero Maya,5377488,23,España,Vrouw,21800,Middenafstandslopers,20,7,20,167,69,2025-02-23 21:36:08,20,5,16,17,3,3,2,10,7
+10.000 meter,Wojtkowiak Berenika,5360213,23,Polska,Vrouw,28760,Langeafstandslopers,20,6,19,159,45,2025-02-23 21:36:38,19,2,16,19,3,3,1,7,8
+10.000 meter,Raso Iñaki,5402267,22,España,Man,19340,Langeafstandslopers,20,4,19,168,63,2025-02-23 21:37:04,19,0,18,12,3,6,3,8,8
+20 km snelwandelen,Rusek Radosław,5362130,24,Polska,Man,25090,Snelwandelaars,20,5,19,176,68,2025-02-23 21:37:19,17,3,19,4,9,3,3,10,11
+10 km snelwandelen,Taetti Michelle,5312459,24,Italia,Vrouw,24570,Snelwandelaars,20,6,17,177,54,2025-02-23 21:37:37,17,1,19,3,12,3,2,10,10
+Onbekend,Barrachina Núria,5639539,16,España,Vrouw,1920,Springers,17,1,14,169,69,2025-02-23 21:45:55,20,1,2,5,7,9,2,8,7
+100 meter,Flati Umberto,5050321,31,Italia,Man,41710,Sprinters,20,10,16,201,81,2025-02-23 21:47:38,20,17,1,20,2,2,0,11,11
+200 meter,Gatti Biagio,5079376,30,Italia,Man,37360,Sprinters,20,11,17,182,70,2025-02-23 21:47:52,19,16,0,20,2,0,1,11,11
+110 meter horden,La Chioma Santo,5157553,29,Italia,Man,24570,Sprinters,20,10,17,183,77,2025-02-23 21:48:04,16,3,1,18,14,0,2,12,11
+400 meter,Vitullo Massimiliano,5204040,28,Italia,Man,32350,Sprinters,20,8,16,176,77,2025-02-23 21:48:21,20,14,2,20,3,2,3,10,10
+100 meter horden,Bisegna Ilaria,4945295,34,Italia,Vrouw,36320,Sprinters,16,13,17,185,80,2025-02-23 21:48:35,17,3,0,19,17,0,0,8,9
+400 meter horden,Crisetig Nadia,5249138,27,Italia,Vrouw,27980,Sprinters,20,10,18,165,73,2025-02-23 21:48:51,15,4,1,18,17,3,2,10,10
+400 meter,Zamagni Nicole,5090980,30,Italia,Vrouw,54000,Sprinters,20,11,16,183,67,2025-02-23 21:49:20,20,19,3,20,0,3,0,12,11
+3.000 meter steeplechase,Ungarelli Elvio,5083811,30,Italia,Man,41940,Middenafstandslopers,20,10,17,180,71,2025-02-23 21:49:40,19,0,19,16,0,0,0,15,12
+800 meter,Appoloni Elvira,5008402,32,Italia,Vrouw,39900,Middenafstandslopers,20,12,17,171,58,2025-02-23 21:49:56,15,1,18,20,1,0,1,7,10
+3.000 meter steeplechase,Querin Emanuela,5206132,27,Italia,Vrouw,17430,Middenafstandslopers,20,6,18,173,72,2025-02-23 21:50:11,19,3,16,14,4,3,0,12,11
+5.000 meter,Mastrogiuseppe Primo,4933390,34,Italia,Man,34550,Langeafstandslopers,20,12,17,185,68,2025-02-23 21:50:26,20,0,20,12,0,0,0,13,7
+Marathon,Tiselli Fabiana,5129425,29,Italia,Vrouw,36510,Langeafstandslopers,20,10,16,180,51,2025-02-23 21:50:42,15,3,20,13,4,2,2,14,10
+10.000 meter,Vallese Viviana,4973805,33,Italia,Vrouw,34730,Langeafstandslopers,20,11,15,164,54,2025-02-23 21:50:59,20,0,19,14,0,6,0,14,12
+10 km snelwandelen,Lo Schiavone Manlio,5190556,28,Italia,Man,29860,Snelwandelaars,20,7,17,166,76,2025-02-23 21:51:13,18,6,19,3,8,3,3,12,13
+50 km snelwandelen,Passacantilli Gabriele,4972407,33,Italia,Man,35430,Snelwandelaars,20,11,16,185,61,2025-02-23 21:51:26,19,0,20,0,8,0,1,12,14
+10 km snelwandelen,Marchi Caterina,5110003,30,Italia,Vrouw,50120,Snelwandelaars,20,10,17,168,57,2025-02-23 21:51:49,19,2,20,6,1,2,2,16,16
+50 km snelwandelen,Pizzimbone Iva,5102504,30,Italia,Vrouw,43940,Snelwandelaars,20,11,17,166,53,2025-02-23 21:52:02,18,2,20,2,1,2,2,13,15
+Verspringen,Baroni Bruno,4968101,33,Italia,Man,38500,Springers,18,13,19,192,69,2025-02-23 21:52:15,20,0,0,6,17,20,0,10,9
+Hoogspringen,Mazzucchelli Boris,4905985,35,Italia,Man,38150,Springers,20,14,16,184,81,2025-02-23 21:52:34,18,0,0,0,16,20,0,7,10
+Hinkstapspringen,Medeot Massimiliano,5041596,31,Italia,Man,21350,Springers,20,11,15,183,67,2025-02-23 21:52:47,15,2,0,2,16,16,0,11,12
+Polsstokhoogspringen,Zerbini Mino,4729887,39,Italia,Man,41220,Springers,19,19,16,185,70,2025-02-23 21:52:59,17,0,0,0,17,18,0,6,7
+Polsstokhoogspringen,Bellato Franca,4959816,35,Italia,Vrouw,21260,Springers,20,12,18,177,56,2025-02-23 21:53:16,17,0,1,0,15,17,0,10,9
+Hoogspringen,Lanzara Elsa,4847018,37,Italia,Vrouw,16310,Springers,18,14,14,184,61,2025-02-23 21:53:29,15,0,4,0,14,16,0,9,7
+Verspringen,Menotti Carmela,4995491,33,Italia,Vrouw,34950,Springers,20,13,16,162,47,2025-02-23 21:53:44,19,3,0,6,14,20,0,10,11
+Hinkstapspringen,Pelliconi Sheila,4928993,34,Italia,Vrouw,38730,Springers,18,13,19,171,57,2025-02-23 21:53:58,19,0,0,0,19,18,0,8,10
+Kogelstoten,Monopoli Eraldo,4965837,33,Italia,Man,33650,Werpers,20,11,17,178,67,2025-02-23 21:54:34,17,19,0,0,0,0,17,10,9
+Kogelslingeren,Vittori Enzo,4913600,35,Italia,Man,26910,Werpers,18,12,17,197,83,2025-02-23 21:54:46,17,19,0,0,3,0,14,7,8
+Kogelslingeren,Bidini Monique,5061278,32,Italia,Vrouw,33050,Werpers,20,12,17,175,69,2025-02-23 21:54:58,19,19,0,0,5,0,17,9,7
+Kogelstoten,Fanzutti Concetta,5083908,31,Italia,Vrouw,42750,Werpers,20,11,17,182,102,2025-02-23 21:55:13,19,19,0,2,2,2,19,8,8
+Speerwerpen,Moreschi Gianna,4898796,36,Italia,Vrouw,23710,Werpers,20,15,16,176,66,2025-02-23 21:55:25,19,16,0,4,0,0,16,9,10
+Zevenkamp,Bailo Clizia,4977003,34,Italia,Vrouw,8310,Meerkampers,20,12,19,175,67,2025-02-23 21:55:41,17,11,7,12,2,4,0,13,8
+Vijfkamp Mannen,Stella Emanuele,4891863,36,Italia,Man,8690,Meerkampers,19,14,15,176,67,2025-02-23 21:56:05,20,10,0,13,8,0,0,10,8
+Onbekend,Payer Karl,5566387,17,Österreich,Man,2520,Middenafstandslopers,20,2,17,179,86,2025-02-23 21:57:46,19,8,11,4,2,2,3,9,5
+400 meter horden,Bonafont Jennifer,5439390,21,España,Vrouw,5770,Sprinters,20,4,19,182,81,2025-02-23 21:58:29,15,11,2,14,4,2,1,8,9
+Onbekend,Balbiani Daria,5589942,17,Italia,Vrouw,1980,Middenafstandslopers,18,1,15,162,65,2025-02-23 21:59:52,8,2,11,6,3,2,4,5,9
+50 km snelwandelen,Eisermann Tony,5418487,22,Deutschland,Man,20990,Snelwandelaars,20,6,19,189,95,2025-02-23 21:59:57,20,2,18,2,1,1,2,10,13
+Onbekend,Wildermuth Amelie,5548447,17,Deutschland,Vrouw,11420,Snelwandelaars,20,2,17,182,83,2025-02-23 22:00:35,18,1,17,2,2,8,4,7,8
+Onbekend,Barbieri Ylenia,5643463,16,Italia,Vrouw,970,Springers,17,1,18,174,66,2025-02-23 22:01:01,17,1,2,3,3,6,1,6,8
+Onbekend,Zongzheng Zhiwei,5631821,17,China,Vrouw,2510,Springers,20,1,15,174,75,2025-02-23 22:01:22,17,2,0,1,10,11,3,7,5
+Onbekend,Rieth Jaden,5572084,17,Deutschland,Man,2800,Werpers,20,2,18,183,88,2025-02-23 22:02:09,18,12,2,1,2,0,5,9,6
+Vijfkamp Vrouwen,Santiago Lisa,5056813,35,United States,Vrouw,3750,Meerkampers,17,11,15,177,56,2025-02-23 22:03:05,20,5,0,8,10,0,0,10,8
+Onbekend,Corte-Real Augusta,5662566,16,Portugal,Vrouw,520,Werpers,12,1,14,173,65,2025-02-23 22:13:04,12,6,1,3,3,4,8,3,7
+Hinkstapspringen,Crespo Palmira,5202389,30,Portugal,Vrouw,16670,Springers,20,9,14,160,46,2025-02-23 22:13:37,20,2,0,5,9,17,1,9,12
+Onbekend,Irvine Heather,5543156,17,Great Britain,Vrouw,2620,Meerkampers,20,2,16,181,85,2025-02-23 22:30:00,11,6,2,12,2,9,1,7,7
+3.000 meter steeplechase,Kyle Mohammed,5566860,29,Great Britain,Man,1550,Middenafstandslopers,18,3,18,177,84,2025-02-23 23:18:44,11,1,10,8,2,1,1,9,7
+5.000 meter,Brebner Chloe,5566881,29,Great Britain,Vrouw,3640,Langeafstandslopers,15,2,16,163,68,2025-02-23 23:19:14,19,3,11,10,6,1,2,3,10
+Onbekend,Noriega Salma,5536588,17,España,Vrouw,6400,Werpers,20,2,15,190,93,2025-02-23 23:22:27,14,14,4,1,1,1,12,6,7
+Onbekend,Przybyś Szymon,5657410,15,Polska,Man,1720,Springers,17,1,17,166,63,2025-02-23 23:25:46,19,1,0,2,4,9,1,6,8
+Onbekend,Botes Abri,5619499,16,South Africa,Vrouw,1410,Langeafstandslopers,13,2,15,169,70,2025-02-23 23:31:02,6,0,11,1,3,2,0,5,6
+Onbekend,Langhammer Sophia,5603513,16,Deutschland,Vrouw,1780,Werpers,20,1,17,154,55,2025-02-23 23:31:39,20,10,3,2,1,1,6,5,7
+Onbekend,Kučerová Jana,5591661,16,Česká republika,Vrouw,2050,Werpers,20,2,20,160,63,2025-02-23 23:31:56,19,4,2,2,3,2,10,7,7
+Onbekend,Pancera Igor,5620833,16,Italia,Man,700,Sprinters,15,1,17,164,70,2025-02-23 23:32:15,7,5,0,9,7,2,3,4,5
+Onbekend,Mattei Annalisa,5627715,16,Italia,Vrouw,1230,Sprinters,20,1,16,160,58,2025-02-23 23:32:55,16,4,2,10,4,3,3,5,6
+1.500 meter,Moneva Constanza,5539798,20,España,Vrouw,1360,Middenafstandslopers,20,2,16,154,49,2025-02-23 23:33:27,16,2,5,7,1,0,4,9,7
+Onbekend,Stenta Zaccaria,5589537,16,Italia,Man,1960,Springers,20,1,18,175,81,2025-02-23 23:34:27,20,3,2,1,10,4,2,7,4
+200 meter,Gamarra Nilton,5302152,26,Perú,Man,27240,Sprinters,20,8,14,185,84,2025-02-23 23:34:40,19,10,3,20,2,3,2,10,8
+400 meter,Portillo Tony,5127616,29,Perú,Man,30180,Sprinters,20,16,17,195,80,2025-02-23 23:34:51,16,9,3,19,3,3,1,10,12
+Onbekend,Gelati Claudia,5607604,16,Italia,Vrouw,800,Springers,20,1,18,174,72,2025-02-23 23:34:52,7,1,0,3,9,6,7,4,6
+400 meter horden,Taype Eduardo,5158677,31,Perú,Man,11690,Sprinters,20,14,16,184,70,2025-02-23 23:34:58,12,1,2,15,6,2,6,10,10
+110 meter horden,Vang Ethan,5044925,31,United States,Man,19600,Sprinters,20,12,18,193,85,2025-02-23 23:35:05,15,4,1,18,3,2,0,11,10
+100 meter,Zarco Leonardo,5194750,27,Portugal,Man,21690,Sprinters,20,8,18,174,66,2025-02-23 23:35:19,14,7,1,19,2,2,6,10,11
+400 meter horden,Cáceres Laura,5317167,24,Perú,Vrouw,15300,Sprinters,20,7,14,182,79,2025-02-23 23:35:25,10,1,0,18,5,3,3,9,9
+400 meter horden,de Menezes Manuela,5086180,32,Brasil,Vrouw,16180,Sprinters,20,12,18,169,55,2025-02-23 23:35:32,14,0,0,17,11,2,0,11,9
+100 meter horden,Deza Tatiana,5220179,29,Perú,Vrouw,14780,Sprinters,19,12,13,182,70,2025-02-23 23:35:42,10,3,2,17,10,2,2,9,7
+200 meter,Lucchesi Antonietta,5017957,32,Italia,Vrouw,18340,Sprinters,20,12,17,177,67,2025-02-23 23:35:51,16,11,1,17,6,0,0,11,9
+Onbekend,Lambertini Glory,5620832,16,Italia,Vrouw,1720,Meerkampers,20,1,17,168,65,2025-02-23 23:35:58,19,2,8,7,1,3,8,6,8
+100 meter,Rubio Hermelinda,5127624,30,Perú,Vrouw,41680,Sprinters,20,17,15,167,60,2025-02-23 23:36:06,20,13,3,20,2,2,0,12,12
+Onbekend,Loglisci Arianna,5650784,16,Italia,Vrouw,2140,Meerkampers,17,1,17,161,62,2025-02-23 23:36:10,19,1,1,1,6,9,9,7,8
+100 meter horden,Ventura Raquel,5337860,25,Perú,Vrouw,19370,Sprinters,20,8,16,163,63,2025-02-23 23:36:19,18,2,3,18,10,3,1,10,7
+Onbekend,Scharfenberg Kimberley,5620919,16,Deutschland,Vrouw,4020,Meerkampers,20,1,17,154,52,2025-02-23 23:36:24,20,3,2,12,2,1,10,7,6
+800 meter,Condori Orlando,5127628,30,Perú,Man,17840,Middenafstandslopers,19,15,14,187,82,2025-02-23 23:36:49,18,2,15,14,2,0,0,10,9
+3.000 meter steeplechase,Pinto Demetrio,5337353,23,Perú,Man,12500,Middenafstandslopers,20,6,15,179,89,2025-02-23 23:36:58,15,2,17,10,2,3,1,9,8
+1.500 meter,Tapia Humberto,5127636,30,Perú,Man,34320,Middenafstandslopers,20,15,16,190,83,2025-02-23 23:37:08,19,1,20,13,2,0,1,10,8
+1.500 meter,Cusí Sonia,5274568,25,Perú,Vrouw,12350,Middenafstandslopers,20,8,16,180,73,2025-02-23 23:37:15,8,3,17,7,1,2,3,8,7
+800 meter,Moura Francis,5127634,29,Perú,Vrouw,10770,Middenafstandslopers,19,15,15,175,71,2025-02-23 23:37:29,9,3,12,12,4,3,2,11,11
+3.000 meter steeplechase,Piñedo Zoila,5127635,29,Perú,Vrouw,25230,Middenafstandslopers,20,15,14,179,69,2025-02-23 23:37:42,20,2,18,12,6,2,0,12,10
+5.000 meter,Reategui Eduardo,5144725,32,Perú,Man,16410,Langeafstandslopers,18,14,15,172,69,2025-02-23 23:38:11,6,1,17,3,0,0,1,10,7
+Marathon,Valdivia Christopher,5238347,27,Perú,Man,31580,Langeafstandslopers,19,10,15,176,71,2025-02-23 23:38:19,17,2,20,4,2,2,3,11,11
+10.000 meter,Vázquez Armando,5376884,24,Perú,Man,26910,Langeafstandslopers,20,7,16,175,71,2025-02-23 23:38:29,17,0,20,3,1,6,6,10,7
+10.000 meter,Borja Fernanda,5127641,32,Perú,Vrouw,24370,Langeafstandslopers,19,15,17,164,43,2025-02-23 23:38:37,15,1,18,8,1,0,1,11,7
+Marathon,Cárdenas Lidia,5362923,24,Perú,Vrouw,21580,Langeafstandslopers,20,7,18,169,72,2025-02-23 23:38:46,13,1,19,4,2,3,0,6,8
+5.000 meter,Tapa Regina,5127642,31,Perú,Vrouw,30250,Langeafstandslopers,18,17,15,165,56,2025-02-23 23:38:53,16,0,19,8,2,0,0,9,11
+Onbekend,Flores Diana,5571281,17,Perú,Vrouw,1880,Langeafstandslopers,18,2,14,173,79,2025-02-23 23:38:59,6,2,12,3,4,2,0,6,7
+10 km snelwandelen,González Abel,5127648,30,Perú,Man,31330,Snelwandelaars,20,16,17,189,70,2025-02-23 23:39:20,20,1,19,2,6,0,0,12,12
+50 km snelwandelen,Reyes Luis,5306860,24,Perú,Man,35090,Snelwandelaars,20,8,15,176,58,2025-02-23 23:39:26,20,2,20,1,9,2,3,10,12
+20 km snelwandelen,Taype Juan,5127647,33,Perú,Man,21130,Snelwandelaars,19,16,14,172,56,2025-02-23 23:39:33,13,0,17,5,0,0,0,10,12
+20 km snelwandelen,Cahui Karla,5229808,27,Perú,Vrouw,31240,Snelwandelaars,20,10,15,175,52,2025-02-23 23:39:39,13,2,20,2,6,3,3,13,12
+50 km snelwandelen,Iparraguriir Wendy,5317171,24,Perú,Vrouw,24780,Snelwandelaars,20,7,16,177,58,2025-02-23 23:39:46,16,3,19,1,4,1,0,10,9
+10 km snelwandelen,Rubio Miriam,5136921,30,Perú,Vrouw,34920,Snelwandelaars,20,13,16,171,63,2025-02-23 23:39:53,19,2,19,1,11,3,1,14,13
+Hinkstapspringen,Bryant Jack,5199778,27,United States,Man,17780,Springers,20,9,17,184,66,2025-02-23 23:40:21,14,3,2,2,16,16,3,10,10
+Polsstokhoogspringen,Ruiz Gonzalo,5272327,25,Perú,Man,12090,Springers,20,10,16,175,84,2025-02-23 23:40:30,9,2,3,1,12,15,4,11,9
+Verspringen,Sandoval Harold,5127656,30,Perú,Man,18130,Springers,20,16,15,172,70,2025-02-23 23:40:37,9,2,0,5,8,17,1,9,11
+Verspringen,Villasana Salvador,5329270,25,Perú,Man,18560,Springers,20,7,16,164,61,2025-02-23 23:40:44,19,3,3,9,6,18,3,9,9
+Hoogspringen,Zea Eder,5127658,31,Perú,Man,22120,Springers,20,16,15,186,74,2025-02-23 23:40:50,18,1,1,2,8,18,1,9,12
+Verspringen,Gutiérrez Noemi,5127662,30,Perú,Vrouw,18380,Springers,20,15,15,181,69,2025-02-23 23:40:56,13,2,0,3,7,17,2,11,12
+Hinkstapspringen,Palomino Patricia,5127661,31,Perú,Vrouw,27130,Springers,20,15,15,171,58,2025-02-23 23:41:01,17,0,0,2,7,19,0,8,11
+Hoogspringen,Ronac Helen,5127660,34,Perú,Vrouw,18850,Springers,19,15,14,170,65,2025-02-23 23:41:07,20,0,0,0,9,17,0,10,8
+Kogelslingeren,Contreras Segundo,5310185,24,Perú,Man,13560,Werpers,20,7,14,195,90,2025-02-23 23:41:30,17,17,1,2,2,0,12,8,9
+Kogelstoten,Lemberg Hugh,5024166,32,Australia,Man,15920,Werpers,20,13,18,188,81,2025-02-23 23:41:36,17,17,1,1,1,0,9,8,10
+Discuswerpen,Marín Marcos,5127666,30,Perú,Man,27500,Werpers,20,17,15,168,76,2025-02-23 23:41:44,17,18,0,0,2,0,14,9,9
+Kogelstoten,Massa Roy,5310186,26,Perú,Man,18300,Werpers,19,9,15,186,85,2025-02-23 23:42:14,17,18,0,1,3,3,10,10,7
+Discuswerpen,Bolívar Wendy,5127671,29,Perú,Vrouw,21530,Werpers,20,15,15,174,77,2025-02-23 23:42:20,18,17,0,2,3,1,12,12,9
+Kogelslingeren,Bravo Sonia,5380205,23,Perú,Vrouw,7090,Werpers,20,6,17,179,92,2025-02-23 23:42:26,6,14,3,2,2,2,12,8,9
+Kogelstoten,Tapa Dora,5127672,31,Perú,Vrouw,21550,Werpers,20,16,17,182,74,2025-02-23 23:42:33,17,17,0,1,2,0,13,10,7
+Speerwerpen,Tenicela Wendy,5162753,28,Perú,Vrouw,8250,Werpers,18,11,17,177,85,2025-02-23 23:42:39,9,13,2,3,4,3,13,10,11
+Vijfkamp Mannen,Bazán Sixto,5133268,29,Perú,Man,12150,Meerkampers,20,12,13,172,71,2025-02-23 23:43:00,20,5,1,13,14,0,8,10,11
+Tienkamp,Lozano Lino,5439687,21,Perú,Man,2860,Meerkampers,20,4,15,170,73,2025-02-23 23:43:05,14,6,3,11,6,7,2,10,7
+Tienkamp,Ramos Johnny,5306859,24,Perú,Man,3600,Meerkampers,20,7,14,181,83,2025-02-23 23:43:17,12,10,5,11,10,1,1,9,8
+Vijfkamp Vrouwen,Arévalo Regina,5337354,24,Perú,Vrouw,8280,Meerkampers,20,7,15,183,84,2025-02-23 23:43:39,16,5,1,13,13,3,3,10,8
+Zevenkamp,Ferrando Josefina,5127677,29,Perú,Vrouw,6690,Meerkampers,20,14,17,181,70,2025-02-23 23:43:45,16,8,0,10,9,1,3,11,9
+Onbekend,Brathwaite Tanya,5639003,16,Barbados,Vrouw,1550,Werpers,14,1,17,178,73,2025-02-23 23:59:20,14,11,7,2,1,3,4,5,6
+50 km snelwandelen,Lalov Kaloyan,4986271,33,Bulgaria,Man,28180,Snelwandelaars,20,15,15,180,63,2025-02-24 01:01:24,18,0,19,0,5,1,0,12,12
+400 meter,Brosien Chiara,5026646,32,Deutschland,Vrouw,33500,Sprinters,19,12,15,171,56,2025-02-24 01:02:04,18,11,1,19,0,0,1,14,11
+Polsstokhoogspringen,Karlsen Elias,5018329,33,Danmark,Man,28230,Springers,18,13,16,172,68,2025-02-24 01:02:28,18,0,0,0,16,18,0,10,11
+Onbekend,Donovan Rebecca,5434339,21,United States,Vrouw,13030,Middenafstandslopers,20,4,18,179,80,2025-02-24 03:37:03,15,4,2,17,3,2,3,8,8
+Kogelstoten,Horvat Doroteja,5015090,33,Slovenija,Vrouw,15870,Werpers,20,14,17,175,57,2025-02-24 08:41:00,19,16,0,0,0,0,13,9,9
+Onbekend,Cabanillas Sebastián,5662171,15,España,Man,760,Zonder specialiteit,13,1,14,178,76,2025-02-24 08:56:11,16,8,7,3,1,5,0,0,0
+Onbekend,Blocona Elene,5626503,15,España,Vrouw,1510,Werpers,14,1,16,166,66,2025-02-24 08:56:27,6,11,3,2,1,3,4,5,5
+Onbekend,Íñiguez Catalina,5575541,18,España,Vrouw,1880,Snelwandelaars,20,2,17,170,63,2025-02-24 09:31:20,20,1,10,2,6,6,0,7,7
+Onbekend,Cáceres Nadia,5584165,19,Perú,Vrouw,2050,Langeafstandslopers,20,2,16,161,55,2025-02-24 09:31:24,17,0,11,5,3,2,2,6,5
+Onbekend,Patricks Donna,5606861,17,Jamaica,Vrouw,1200,Springers,19,2,19,160,59,2025-02-24 10:23:38,13,8,2,1,9,7,0,6,7
+Onbekend,Rolands Lisa,5610014,16,Jamaica,Vrouw,2290,Springers,20,1,15,153,53,2025-02-24 10:23:55,20,2,1,1,1,11,1,6,5
+Onbekend,Irons Trevene,5656360,15,Jamaica,Vrouw,660,Springers,15,1,15,176,69,2025-02-24 10:24:16,13,4,4,2,3,8,3,5,7
+3.000 meter steeplechase,Griffin Juan,5271587,31,United States,Man,7700,Middenafstandslopers,20,7,16,187,77,2025-02-24 10:24:50,17,1,11,8,2,1,0,13,12
+Onbekend,Piña Aroa,5662363,17,España,Vrouw,1870,Meerkampers,16,1,15,166,64,2025-02-24 10:25:04,19,2,3,10,2,3,3,9,8
+Onbekend,Ausekle Inta,5613810,18,Latvija,Vrouw,1660,Meerkampers,20,2,16,174,73,2025-02-24 11:05:34,14,2,3,10,3,2,9,8,6
+200 meter,Spence Aidan,5418287,21,United States,Man,12260,Sprinters,20,3,18,187,83,2025-02-24 11:26:02,15,10,2,17,2,1,3,7,8
+Onbekend,Kekkonen Antti,5661754,16,Suomi,Man,1930,Sprinters,17,1,15,180,81,2025-02-24 11:28:05,20,3,3,10,2,2,1,8,6
+Onbekend,Saikkonen Pertti,5650678,14,Suomi,Man,750,Springers,19,1,15,160,62,2025-02-24 11:28:27,10,3,2,3,8,9,2,6,4
+Onbekend,Järvi Atso,5661755,14,Suomi,Man,1210,Springers,13,1,15,166,63,2025-02-24 11:28:46,12,2,1,3,3,10,3,7,7
+Discuswerpen,Pietras Karolina,5532410,27,Polska,Vrouw,2100,Werpers,20,3,17,169,65,2025-02-24 11:29:57,19,10,1,3,3,2,8,9,6
+Polsstokhoogspringen,Chaves Karina,5409976,21,Brasil,Vrouw,14250,Springers,20,3,14,170,81,2025-02-24 11:30:14,9,3,1,3,9,18,4,7,7
+Kogelstoten,van Lijssel Lonneke,4986344,33,Nederland,Vrouw,3890,Werpers,20,10,18,174,73,2025-02-24 11:30:15,15,4,0,0,1,1,8,11,11
+Hinkstapspringen,Klimczak Dagmara,5532403,25,Polska,Vrouw,1620,Springers,20,3,19,170,66,2025-02-24 11:30:40,9,1,1,2,9,10,1,6,8
+400 meter horden,Zaręba Rafał,5532985,21,Polska,Man,2440,Sprinters,20,3,20,179,71,2025-02-24 11:31:00,18,3,2,12,1,3,3,5,5
+Vijfkamp Mannen,Diotti Giuliano,5451521,21,Italia,Man,2250,Meerkampers,20,3,18,170,75,2025-02-24 11:32:15,9,6,3,5,2,10,6,9,10
+Onbekend,Ennis Grace,5570494,17,Great Britain,Vrouw,2110,Snelwandelaars,20,2,19,168,75,2025-02-24 11:39:54,19,1,10,2,2,0,2,8,7
+Onbekend,Dorová Milena,5516567,19,Slovensko,Vrouw,2820,Middenafstandslopers,20,2,20,176,74,2025-02-24 11:40:43,19,3,10,9,3,1,0,9,7
+Vijfkamp Mannen,Kędzior Rafał,5532413,24,Polska,Man,1580,Meerkampers,20,3,18,169,63,2025-02-24 11:41:07,10,8,1,2,2,1,2,9,9
+Onbekend,Stefini Andrea,5556283,19,Italia,Man,4940,Middenafstandslopers,20,2,19,181,79,2025-02-24 11:41:25,19,2,9,12,3,2,1,9,9
+10 km snelwandelen,Larong Joel,5470911,20,Pilipinas,Man,3860,Snelwandelaars,20,4,20,180,83,2025-02-24 11:42:04,15,5,11,4,2,2,3,11,9
+Verspringen,Santorún Arnau,5477640,19,España,Man,4580,Springers,20,4,18,184,81,2025-02-24 11:42:39,18,3,7,2,5,13,3,9,9
+Onbekend,Izdebski Maciej,5455451,20,Polska,Man,4340,Werpers,20,3,19,181,86,2025-02-24 11:43:03,19,11,3,0,4,2,11,9,9
+Discuswerpen,Coleman Lile,5467300,20,Ireland,Vrouw,4420,Werpers,20,3,18,157,62,2025-02-24 11:43:30,19,12,1,2,4,3,11,8,9
+Onbekend,Thiel Milan,5641970,16,België,Man,1300,Springers,16,1,15,166,71,2025-02-24 12:40:28,20,2,0,2,2,9,1,6,6
+Onbekend,Cavallasca Teresa,5514812,18,Italia,Vrouw,5860,Werpers,20,3,16,172,80,2025-02-24 12:41:19,12,14,1,1,1,3,11,9,9
+Onbekend,Muntz Brandon,5616165,15,Australia,Man,1480,Meerkampers,19,1,14,167,70,2025-02-24 12:43:39,6,2,10,2,2,3,9,7,6
+Onbekend,Mineiro Kelvin,5634513,17,Brasil,Man,1490,Werpers,16,1,12,190,96,2025-02-24 13:34:05,10,4,1,3,3,2,10,6,9
+Onbekend,Tussi Heleonora,5660109,16,Brasil,Vrouw,820,Werpers,15,1,14,156,53,2025-02-24 13:34:07,17,2,1,2,5,3,4,8,6
+Onbekend,Boas Cassandra,5655315,16,Brasil,Vrouw,1030,Meerkampers,18,1,14,155,51,2025-02-24 13:34:09,10,5,2,3,5,6,10,5,3
+Onbekend,de Mesquista Jéssica,5651796,16,Brasil,Vrouw,1030,Springers,18,1,15,176,71,2025-02-24 13:34:11,13,1,2,1,1,10,3,8,5
+Onbekend,Vicençote Afonso,5647742,16,Brasil,Man,1450,Springers,18,1,13,177,77,2025-02-24 13:34:13,20,3,0,2,2,6,1,5,8
+Onbekend,Andrade Monique,5630350,17,Brasil,Vrouw,660,Middenafstandslopers,19,1,11,165,66,2025-02-24 13:34:15,6,1,7,2,3,3,2,5,9
+Onbekend,Romeu Atílio,5630352,18,Brasil,Man,970,Meerkampers,17,1,13,187,87,2025-02-24 13:34:18,17,7,3,1,5,2,2,6,8
+Onbekend,Tesser Olívia,5638177,14,Brasil,Vrouw,490,Werpers,16,1,13,163,56,2025-02-24 13:34:20,13,1,4,7,2,3,5,8,5
+Onbekend,Cavalieri Delma,5641983,17,Brasil,Vrouw,950,Springers,20,1,14,160,58,2025-02-24 13:34:24,12,3,2,2,1,9,1,5,8
+Onbekend,Bertuci Pablo,5643620,15,Brasil,Man,790,Sprinters,20,1,12,154,58,2025-02-24 13:34:27,14,3,2,9,2,1,3,6,6
+Onbekend,Costa Domitila,5628938,27,Brasil,Vrouw,970,Snelwandelaars,20,1,18,177,73,2025-02-24 13:34:30,8,3,10,5,5,1,2,5,5
+Onbekend,Nisotakis Dakis,5545875,19,Hellas,Man,3530,Sprinters,20,3,16,190,89,2025-02-24 13:36:46,19,7,3,13,1,1,3,7,7
+Onbekend,Sáinz Daniel,5585252,18,España,Man,2310,Snelwandelaars,18,2,19,167,68,2025-02-24 13:49:31,6,3,9,3,11,1,4,8,9
+Onbekend,Iriarte Assumpció,5546942,17,España,Vrouw,3490,Snelwandelaars,20,2,16,179,85,2025-02-24 13:51:06,16,1,13,0,2,2,7,5,9
+Onbekend,Milán Iñaki,5551303,18,España,Man,2720,Werpers,20,2,19,181,84,2025-02-24 14:21:46,13,12,2,2,8,3,5,8,7
+Onbekend,Paris Cyrielle,5481476,19,France,Vrouw,3080,Springers,20,2,15,168,71,2025-02-24 14:37:19,17,2,6,0,8,11,2,10,6
+Onbekend,Miani Ernesto,5650556,17,Italia,Man,1080,Werpers,15,1,16,162,63,2025-02-24 14:37:45,18,8,1,3,2,1,7,7,5
+Onbekend,Gutiérrez Javier,5642924,16,Argentina,Man,1000,Langeafstandslopers,18,1,14,173,76,2025-02-24 16:09:56,8,3,8,7,2,3,3,9,7
+Onbekend,Martínez Margarita,5602757,17,Argentina,Vrouw,1960,Meerkampers,20,1,16,163,62,2025-02-24 16:10:16,18,10,1,7,1,7,2,5,8
+Onbekend,Matthews Ian,5607905,17,Jamaica,Man,1410,Sprinters,20,2,16,182,85,2025-02-24 16:18:16,16,10,3,9,1,3,2,6,4
+Onbekend,Quiroz Tania,5604240,17,Perú,Vrouw,1380,Langeafstandslopers,20,2,16,165,68,2025-02-24 16:18:28,18,6,7,9,1,2,1,7,7
+Onbekend,Marino Marcelo,5601315,17,Argentina,Man,2260,Snelwandelaars,19,2,15,187,87,2025-02-24 16:18:40,15,1,12,1,1,2,2,6,7
+Onbekend,Marzetti Piergiorgio,5605570,17,Italia,Man,1990,Springers,20,1,16,187,90,2025-02-24 16:44:27,20,1,3,2,8,10,2,7,6
+Onbekend,Moloney Zachary,5548309,17,United States,Man,2110,Springers,20,2,15,184,97,2025-02-24 17:12:56,10,3,0,3,10,9,3,8,9
+10 km snelwandelen,Falconer Laura,5319719,24,Great Britain,Vrouw,11350,Snelwandelaars,20,6,16,169,65,2025-02-24 17:21:05,19,0,16,0,7,1,1,9,8
+3.000 meter steeplechase,de Almeida Luís,5069641,31,Portugal,Man,7260,Middenafstandslopers,20,11,16,190,88,2025-02-24 17:24:39,19,0,6,15,0,0,1,6,8
+800 meter,Drache Augustin,5299401,25,Deutschland,Man,9750,Middenafstandslopers,19,6,16,169,69,2025-02-24 17:28:46,13,5,16,6,2,5,3,10,8
+1.500 meter,Meineke Mats,5295249,25,Deutschland,Man,17100,Middenafstandslopers,19,6,16,173,79,2025-02-24 17:29:03,10,5,18,3,0,9,3,9,10
+Onbekend,Kusters Danique,5273648,25,Nederland,Vrouw,6520,Middenafstandslopers,17,3,11,171,68,2025-02-24 17:29:15,19,8,15,2,2,1,5,9,7
+800 meter,Vivian Leticia,5287499,25,Brasil,Vrouw,15810,Middenafstandslopers,20,6,19,167,71,2025-02-24 17:29:25,20,6,18,5,1,1,5,9,8
+Speerwerpen,Gardiner Danielle,5272693,25,Great Britain,Vrouw,32760,Werpers,20,6,19,182,87,2025-02-24 17:29:49,20,20,3,1,3,5,2,10,10
+Onbekend,Loisel Emma,5553539,17,France,Vrouw,4070,Snelwandelaars,20,2,15,164,73,2025-02-24 17:30:37,19,2,13,3,2,3,2,6,6
+Onbekend,Jean Christelle,5610233,17,France,Vrouw,1880,Springers,13,1,16,179,77,2025-02-24 17:30:49,17,2,2,2,10,9,1,6,7
+Onbekend,Voisin Omar,5594072,17,France,Man,1970,Springers,20,2,16,176,84,2025-02-24 17:31:05,18,1,3,3,6,10,1,6,9
+Onbekend,Alves Diana,5571197,17,Brasil,Vrouw,1590,Langeafstandslopers,20,1,15,180,84,2025-02-24 17:37:23,18,1,10,1,3,1,2,7,5
+Onbekend,Apollo Ivano,5632984,17,Italia,Man,1820,Sprinters,20,1,16,181,88,2025-02-24 17:48:18,20,4,3,10,3,2,2,8,7
+Onbekend,Pauwe Elias,5539188,17,Nederland,Man,2050,Werpers,20,1,14,166,77,2025-02-24 18:33:54,9,9,1,3,3,1,11,8,7
+Onbekend,Boquete Jacqueline,5662556,17,Switzerland,Vrouw,1780,Werpers,18,1,14,160,61,2025-02-24 18:43:36,20,3,1,2,8,3,8,7,6
+Onbekend,Drozd Dorota,5646243,24,Polska,Vrouw,2050,Meerkampers,20,1,15,174,67,2025-02-24 18:52:26,19,3,3,6,3,2,0,10,8
+Onbekend,Brodowska Izabela,5646229,17,Polska,Vrouw,250,Springers,19,1,16,159,56,2025-02-24 18:53:17,6,2,0,6,2,7,1,4,4
+Onbekend,Dzikowski Henryk,5646219,23,Polska,Man,1630,Snelwandelaars,15,1,16,184,90,2025-02-24 18:53:26,12,3,10,6,5,1,1,7,9
+Onbekend,Myśliwiec Czesław,5646214,16,Polska,Man,1900,Langeafstandslopers,18,1,16,178,81,2025-02-24 18:53:56,7,2,10,9,4,1,2,5,8
+Onbekend,Krawczyk Ludmiła,5646211,15,Polska,Vrouw,550,Middenafstandslopers,17,1,17,152,49,2025-02-24 18:54:02,16,1,4,5,3,1,1,7,5
+Onbekend,Kot Jacek,5646226,20,Polska,Man,1660,Springers,15,1,16,184,84,2025-02-24 18:54:19,8,2,0,3,3,10,1,6,10
+Onbekend,Hnat Wacław,5656423,15,Polska,Man,1460,Meerkampers,14,1,15,176,78,2025-02-24 18:54:25,13,1,2,10,3,2,10,6,6
+Onbekend,Delcourt Nicolas,5661727,17,France,Man,750,Zonder specialiteit,16,1,14,172,73,2025-02-24 19:24:45,18,3,8,2,7,2,1,0,0
+10 km snelwandelen,Payne Freya,5055732,31,Great Britain,Vrouw,15710,Snelwandelaars,20,9,17,172,70,2025-02-24 19:50:34,18,0,17,6,3,0,0,12,12
+Onbekend,Davenport Ariana,5619110,22,United States,Vrouw,1220,Snelwandelaars,20,1,13,187,82,2025-02-24 20:29:08,15,3,7,4,5,1,2,4,10
+Onbekend,Caldwell Dalton,5646757,14,United States,Man,1020,Werpers,13,1,15,153,52,2025-02-24 20:55:34,15,5,2,3,2,1,10,6,6
+3.000 meter steeplechase,Kralj Jakob,5150125,29,Slovenija,Man,8040,Middenafstandslopers,20,8,16,173,73,2025-02-24 21:17:43,16,0,13,7,10,0,1,11,11
+Onbekend,Watelet Nathan,5548535,18,België,Man,2840,Langeafstandslopers,20,2,15,176,83,2025-02-24 21:17:53,14,1,12,3,1,2,2,9,8
+Verspringen,Mol Wout,5505941,27,België,Man,3460,Springers,20,4,16,179,79,2025-02-24 21:18:11,15,4,2,5,6,12,3,9,8
+Hoogspringen,Milovanovic Isa,4567848,43,Sverige,Vrouw,22210,Springers,11,20,15,175,95,2025-02-24 21:21:18,18,0,0,0,4,10,0,8,8
+10 km snelwandelen,Wasaborg Hampus,4863194,39,Sverige,Man,9280,Snelwandelaars,20,15,16,190,67,2025-02-24 21:21:34,19,0,14,0,4,0,0,4,5
+Onbekend,Dachsberg Per,5603727,17,Sverige,Man,920,Werpers,14,1,15,177,81,2025-02-24 21:22:28,10,3,1,3,3,2,10,5,7
+Onbekend,Ross Patricia,5626138,18,United States,Vrouw,1760,Meerkampers,15,1,16,174,68,2025-02-24 21:23:12,7,3,9,7,3,6,2,9,9
+100 meter,James Davandrea,5529625,19,Barbados,Vrouw,3120,Sprinters,20,3,18,174,72,2025-02-24 21:56:34,14,9,3,12,2,2,1,8,8
+Onbekend,Jacobsen Kayla,5651606,17,Great Britain,Vrouw,2100,Middenafstandslopers,15,1,15,180,73,2025-02-24 22:04:24,18,0,7,10,3,1,2,8,8
+Onbekend,Wirth David,5627580,15,Deutschland,Man,850,Meerkampers,17,1,16,186,90,2025-02-24 22:11:58,13,2,2,1,5,8,3,8,8
+Onbekend,Tierraseca Fernando,5590436,17,España,Man,3980,Langeafstandslopers,15,1,16,174,81,2025-02-25 01:03:14,16,3,13,3,1,9,3,7,7
+Onbekend,Fraga Alda,5659329,16,Portugal,Vrouw,1010,Snelwandelaars,15,1,16,152,50,2025-02-25 01:04:12,10,2,8,0,7,2,8,7,8
+Onbekend,Arroyo Antón,5594448,17,España,Man,2230,Werpers,20,2,17,183,91,2025-02-25 01:05:40,18,2,2,1,3,7,11,5,6
+Onbekend,Licci Pietro,5661787,15,Switzerland,Man,1020,Zonder specialiteit,13,1,15,161,61,2025-02-25 09:29:44,9,5,2,10,1,3,2,0,0
+Onbekend,Yoshimi Aimi,5576914,17,Nippon,Vrouw,2830,Werpers,20,2,18,174,77,2025-02-25 10:06:28,20,11,2,2,1,3,1,7,7
+Onbekend,Schenke Bernd,5530433,18,Deutschland,Man,5150,Sprinters,20,1,18,175,83,2025-02-25 14:57:11,18,1,2,14,2,3,3,6,6
+Onbekend,de Kok Lizet,5589310,17,Nederland,Vrouw,3230,Meerkampers,20,1,16,160,62,2025-02-25 20:27:52,15,13,3,3,4,7,4,8,8
+400 meter,Danielsen Sigrun,5406350,22,Norge,Vrouw,8420,Sprinters,20,6,15,180,76,2025-02-25 20:29:08,13,11,3,15,3,2,2,10,10
+Verspringen,Abascal Sebastián,5398417,22,España,Man,12750,Springers,20,6,18,175,76,2025-02-25 20:29:27,19,3,1,14,0,16,2,9,9
+Tienkamp,Faa Ezio,5120054,29,Italia,Man,13140,Meerkampers,20,10,17,186,90,2025-02-25 22:09:07,14,10,0,8,16,2,3,11,8
+Onbekend,Meessen Timon,5578580,17,Deutschland,Man,2860,Springers,20,2,16,178,90,2025-02-25 23:05:13,20,2,3,10,4,10,3,7,6
+Onbekend,Fedoriva Nika,5566398,17,Ukrajina,Vrouw,2340,Langeafstandslopers,20,2,20,163,70,2025-02-26 03:15:11,18,1,9,10,2,2,3,9,7
+Onbekend,Estyaji Ucup,5581283,17,Indonesia,Man,3090,Sprinters,20,2,16,172,80,2025-02-26 13:01:34,16,1,2,11,12,2,2,6,7
+Marathon,Marchand Esteban,5102993,31,France,Man,61620,Langeafstandslopers,20,15,19,191,59,2025-02-26 13:07:29,19,1,20,20,0,0,0,15,12
+Hoogspringen,Barbieri Elisabetta,5215172,27,Italia,Vrouw,18560,Springers,20,7,18,182,65,2025-02-26 16:19:44,19,2,2,2,7,18,0,11,11
+10 km snelwandelen,Casarsa Alessio,5200009,30,Italia,Man,18650,Snelwandelaars,20,8,17,175,65,2025-02-26 16:20:38,17,2,15,1,5,1,2,14,14
+10.000 meter,Persello Cristoforo,5018274,33,Italia,Man,14650,Langeafstandslopers,18,11,16,196,72,2025-02-26 16:20:59,16,0,14,15,0,0,0,12,9
+Onbekend,Lewczuk Zbigniew,5627870,15,Polska,Man,1730,Sprinters,17,1,19,177,79,2025-02-26 16:24:10,9,0,4,11,1,3,7,7,7
+100 meter,Fagan Kane,5469504,25,Great Britain,Man,2570,Sprinters,19,4,18,187,83,2025-02-26 16:57:14,11,6,2,10,2,2,1,9,10
+Onbekend,Noor Perwira,5569505,17,Malaysia,Man,3810,Snelwandelaars,20,2,18,189,94,2025-02-26 17:56:53,16,3,13,3,3,5,2,7,6
+Onbekend,Moscardini Benjamin,5568191,17,Great Britain,Man,2530,Sprinters,20,2,16,188,98,2025-02-26 17:57:15,12,4,0,11,8,2,0,9,7
+Onbekend,Saulino Pasquale,5503853,18,Italia,Man,5070,Sprinters,20,3,18,175,73,2025-02-26 17:57:30,9,4,2,14,7,3,1,8,8
+Onbekend,Liewald Beatrix,5510327,18,Deutschland,Vrouw,25840,Snelwandelaars,20,2,16,163,66,2025-02-26 17:59:25,20,3,20,1,3,2,9,7,8
+Hoogspringen,Gorela Giacomo,5508477,18,Italia,Man,5960,Springers,20,3,18,175,74,2025-02-26 18:00:08,12,1,3,2,8,15,1,7,6
+Zevenkamp,Di Serafino Sabrina,5521173,18,Italia,Vrouw,2930,Meerkampers,20,3,18,178,79,2025-02-26 18:02:54,9,11,3,11,8,2,1,8,6
+Zevenkamp,Vandenberghe Yasmina,5571622,18,België,Vrouw,1670,Meerkampers,17,2,17,187,87,2025-02-26 18:03:16,9,9,3,9,7,3,1,9,7
+200 meter,Abrahams Patrice,5115009,30,Jamaica,Vrouw,17490,Sprinters,18,14,14,180,76,2025-02-26 18:20:05,12,10,2,17,2,2,1,12,10
+1.500 meter,Martin Petrona,5115018,33,Jamaica,Vrouw,22450,Middenafstandslopers,19,13,16,159,42,2025-02-26 18:20:26,18,0,18,13,0,0,0,8,11
+5.000 meter,Abrahams Michael,5115020,31,Jamaica,Man,18220,Langeafstandslopers,20,14,17,172,68,2025-02-26 18:20:46,14,1,17,6,2,0,0,12,8
+100 meter,Ainsley Stephen,5115004,30,Jamaica,Man,11830,Sprinters,19,12,17,169,84,2025-02-26 18:21:21,13,4,1,16,2,2,1,9,11
+Kogelslingeren,Lowe Jo-Hannah,5115054,31,Jamaica,Vrouw,19790,Werpers,20,14,16,178,63,2025-02-26 18:21:39,17,14,0,1,1,0,17,10,10
+50 km snelwandelen,Gray Trudy,5395881,25,Jamaica,Vrouw,20620,Snelwandelaars,20,6,17,161,58,2025-02-26 18:21:58,20,1,19,1,2,3,1,11,9
+Onbekend,Wan Phillip,5576294,19,Jamaica,Man,3610,Snelwandelaars,20,2,18,170,70,2025-02-26 18:22:31,12,9,13,3,1,0,2,8,8
+Hoogspringen,William Tovah,5411714,21,Jamaica,Vrouw,7130,Springers,20,4,19,187,87,2025-02-26 18:22:48,10,2,1,2,3,15,3,8,7
+Onbekend,Forte Onandi,5593449,17,Jamaica,Man,1880,Springers,19,1,15,168,77,2025-02-26 18:23:22,12,10,4,0,0,10,5,4,9
+200 meter,Lue Roy,5118247,31,Jamaica,Man,9970,Sprinters,20,12,18,180,65,2025-02-26 18:23:34,14,4,2,16,1,1,0,8,8
+Vijfkamp Mannen,Batinic Mihajlo,5541783,18,Bosna i Hercegovina,Man,1960,Meerkampers,20,3,18,183,85,2025-02-26 19:48:12,17,3,1,10,5,5,7,7,8
+Onbekend,Pagavino Armando,5511261,18,Italia,Man,2240,Werpers,20,2,19,184,89,2025-02-26 21:04:03,6,10,3,2,2,1,10,8,7
+Zevenkamp,Mastroianni Marilena,4983162,33,Italia,Vrouw,8000,Meerkampers,20,9,18,182,71,2025-02-26 21:04:21,18,15,8,7,1,5,5,10,8
+Onbekend,Celotto Giannina,5585384,17,Italia,Vrouw,1810,Sprinters,18,2,18,177,75,2025-02-26 21:04:34,8,1,6,12,1,3,5,5,4
+5.000 meter,Cotini Ivana,4964245,33,Italia,Vrouw,26430,Langeafstandslopers,19,13,16,176,56,2025-02-26 21:04:51,17,0,17,16,0,0,0,11,11
+1.500 meter,Vogel Marta,5141442,29,Switzerland,Vrouw,5840,Middenafstandslopers,20,9,15,177,66,2025-02-27 08:33:24,8,1,8,11,3,1,1,11,13
+Onbekend,Jaime Macário,5663714,17,Portugal,Man,1040,Zonder specialiteit,11,1,15,180,74,2025-02-27 09:44:10,13,3,2,9,2,9,3,0,0
+Verspringen,Tocchio Gabriella,5199400,28,Italia,Vrouw,22930,Springers,20,9,18,178,56,2025-02-27 17:13:15,17,3,3,9,12,19,3,9,10
+Onbekend,Ang Samuel,5592040,17,Singapore,Man,2480,Sprinters,14,2,17,184,86,2025-02-27 18:54:04,13,3,2,12,2,2,1,6,7
+Onbekend,Triantafillidis Filippos,5591397,17,Cyprus,Man,3710,Sprinters,20,2,17,172,79,2025-02-27 18:54:15,20,3,1,13,1,3,1,7,6
+Onbekend,Fulton Madeline,5443095,20,United States,Vrouw,10650,Sprinters,20,3,19,172,73,2025-02-27 18:54:50,20,2,2,16,7,1,3,8,9
+Onbekend,Narváez Rodolfo,5592310,17,México,Man,1400,Middenafstandslopers,20,2,16,170,79,2025-02-27 18:54:59,15,4,10,7,3,2,4,7,7
+Onbekend,Wheeler Melissa,5573096,17,United States,Vrouw,1330,Middenafstandslopers,20,2,15,184,87,2025-02-27 18:55:08,8,3,11,4,3,1,3,8,6
+Onbekend,Aissaoui Ghazala,5585778,17,Al-Jazā'ir,Vrouw,2930,Langeafstandslopers,20,2,16,166,68,2025-02-27 18:55:17,16,1,13,3,1,3,4,7,6
+Onbekend,Howell Sydney,5618432,17,United States,Vrouw,2430,Langeafstandslopers,20,2,15,161,65,2025-02-27 18:55:24,18,3,11,3,0,3,6,7,8
+Onbekend,Estes April,5553154,17,United States,Vrouw,5540,Snelwandelaars,20,2,16,172,76,2025-02-27 18:55:33,17,2,14,1,3,2,3,6,7
+Onbekend,Castillo Hector,5590995,17,Colombia,Man,2770,Springers,20,2,16,177,81,2025-02-27 18:55:43,16,0,3,2,3,12,2,6,8
+Onbekend,Sulantay Naldo,5630996,17,Chile,Man,2070,Springers,12,1,15,180,77,2025-02-27 18:55:51,16,1,0,3,9,10,1,6,9
+Kogelslingeren,Barrios Freddy,5506959,19,Venezuela,Man,2380,Werpers,20,4,16,182,85,2025-02-27 18:56:00,14,11,2,1,2,1,10,7,7
+Kogelstoten,Taishi Zhengda,5587601,21,China,Man,4090,Werpers,20,2,15,178,80,2025-02-27 18:56:08,20,13,3,2,1,3,9,4,6
+Onbekend,Ovchinnikova Arina,5593190,17,Rossiya,Vrouw,1860,Werpers,20,2,17,170,72,2025-02-27 18:56:17,15,9,2,0,2,0,10,6,7
+Onbekend,Noguchi Kiyoshi,5594359,17,Nippon,Man,1370,Langeafstandslopers,20,2,16,185,88,2025-02-27 19:49:21,10,1,11,7,3,1,3,6,7

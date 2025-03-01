@@ -1,0 +1,449 @@
+2025-02-13 12:42:40,605 - INFO - Login successful!
+2025-02-13 12:42:40,700 - INFO - Athlete market data fetched successfully!
+2025-02-13 12:44:01,686 - ERROR - Error: Could not find the expected results table on page 30. Possible session expiration or page structure change.
+2025-02-13 12:44:27,830 - INFO - Login successful!
+2025-02-13 12:44:27,914 - INFO - Athlete market data fetched successfully!
+2025-02-13 12:56:35,395 - INFO - 2899 athlete records saved to atleten_data20250213_atleten.csv
+2025-02-13 12:56:35,557 - INFO - Total records database.csv before updating 10180
+2025-02-13 12:56:41,361 - INFO - Total records database.csv after updating  10211
+2025-02-13 20:46:38,040 - INFO - Start updating athlete database...
+2025-02-13 20:46:38,344 - INFO - Login successful!
+2025-02-13 20:46:38,424 - INFO - Athlete market data fetched successfully!
+2025-02-13 20:53:49,455 - INFO - 2957 athlete records saved to atleten_data20250213_atleten.csv
+2025-02-13 20:53:49,511 - INFO - Total records database.csv before updating 10211
+2025-02-13 20:53:51,327 - INFO - Total records database.csv after updating 10447
+2025-02-13 20:53:52,656 - INFO - Start updating transfer database...
+2025-02-13 20:53:52,949 - INFO - Login successful!
+2025-02-13 20:53:52,997 - INFO - Athlete market data fetched successfully!
+2025-02-13 20:54:27,336 - INFO - Total records transfer_database.csv before updating 22
+2025-02-13 20:54:41,487 - INFO - Total records transfer_database.csv after updating 236
+2025-02-13 20:54:42,329 - INFO - Database backup gemaakt op 2025-02-13
+2025-02-13 22:58:41,511 - INFO - Start updating athlete database...
+2025-02-13 22:58:51,570 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 22:59:03,676 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 22:59:15,718 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 22:59:17,719 - ERROR - Login failed, login_response: 
+None
+2025-02-13 22:59:18,956 - INFO - Start updating transfer database...
+2025-02-13 22:59:29,040 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 22:59:41,101 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 22:59:53,141 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 22:59:55,142 - ERROR - Login failed
+2025-02-13 22:59:55,922 - INFO - Database backup gemaakt op 2025-02-13
+2025-02-13 23:09:24,659 - INFO - Start updating athlete database...
+2025-02-13 23:09:27,715 - INFO - Login successful!
+2025-02-13 23:09:36,172 - INFO - Athlete market data fetched successfully!
+2025-02-13 23:10:12,941 - ERROR - Error fetching https://www.maxithlon.com/user/atleta_one.php?aid=5600526&tipo=aid: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 23:10:25,024 - ERROR - Error fetching https://www.maxithlon.com/user/atleta_one.php?aid=5600526&tipo=aid: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 23:10:37,123 - ERROR - Error fetching https://www.maxithlon.com/user/atleta_one.php?aid=5600526&tipo=aid: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-13 23:21:09,768 - INFO - 2984 athlete records saved to atleten_data20250213_atleten.csv
+2025-02-13 23:21:09,911 - INFO - Total records database.csv before updating 10447
+2025-02-13 23:21:15,251 - INFO - Total records database.csv after updating 10822
+2025-02-13 23:21:17,503 - INFO - Start updating transfer database...
+2025-02-13 23:21:18,269 - INFO - Login successful!
+2025-02-13 23:21:18,333 - INFO - Athlete market data fetched successfully!
+2025-02-13 23:22:44,420 - INFO - Total records transfer_database.csv before updating 208
+2025-02-13 23:23:22,472 - INFO - Total records transfer_database.csv after updating 442
+2025-02-13 23:23:23,977 - INFO - Database backup gemaakt op 2025-02-13
+2025-02-14 08:56:36,770 - INFO - Start updating athlete database...
+2025-02-14 08:56:37,604 - INFO - Login successful!
+2025-02-14 08:56:37,690 - INFO - Athlete market data fetched successfully!
+2025-02-14 09:06:28,870 - INFO - 2949 athlete records saved to atleten_data20250214_atleten.csv
+2025-02-14 09:06:29,045 - INFO - Total records database.csv before updating 10822
+2025-02-14 09:06:34,387 - INFO - Total records database.csv after updating 11725
+2025-02-14 09:06:36,434 - INFO - Start updating transfer database...
+2025-02-14 09:06:37,344 - INFO - Login successful!
+2025-02-14 09:06:37,472 - INFO - Athlete market data fetched successfully!
+2025-02-14 09:07:48,669 - INFO - Total records transfer_database.csv before updating 0
+2025-02-14 09:07:53,635 - INFO - Total records transfer_database.csv after updating 48
+2025-02-14 09:10:47,110 - INFO - Start updating athlete database...
+2025-02-14 09:10:47,498 - INFO - Login successful!
+2025-02-14 09:10:47,809 - INFO - Athlete market data fetched successfully!
+2025-02-14 23:19:05,301 - INFO - Start updating athlete database...
+2025-02-14 23:19:05,941 - INFO - Login successful!
+2025-02-14 23:19:06,101 - INFO - Athlete market data fetched successfully!
+2025-02-14 23:27:18,315 - INFO - 3022 athlete records saved to atleten_data_20250214.csv
+2025-02-14 23:27:18,375 - INFO - Total records database.csv before updating 11725
+2025-02-14 23:27:19,936 - INFO - Total records database.csv after updating 11998
+2025-02-14 23:27:21,503 - INFO - Start updating transfer database...
+2025-02-14 23:27:21,785 - INFO - Login successful!
+2025-02-14 23:27:21,843 - INFO - Athlete market data fetched successfully!
+2025-02-14 23:28:10,419 - INFO - Total records transfer_database.csv before updating 48
+2025-02-14 23:28:21,144 - INFO - Total records transfer_database.csv after updating 148
+2025-02-16 00:51:21,282 - INFO - Start updating athlete database...
+2025-02-16 00:51:21,620 - INFO - Login successful!
+2025-02-16 00:51:21,684 - INFO - Athlete market data fetched successfully!
+2025-02-16 00:51:58,505 - ERROR - Error fetching https://www.maxithlon.com/user/atleta_one.php?aid=5612781&tipo=aid: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /user/atleta_one.php?aid=5612781&tipo=aid (Caused by SSLError(SSLError(5, '[SYS] unknown error (_ssl.c:2417)')))
+2025-02-16 00:52:31,233 - INFO - Start updating transfer database...
+2025-02-16 00:54:04,333 - INFO - Start updating athlete database...
+2025-02-16 00:54:04,573 - INFO - Login successful!
+2025-02-16 00:54:04,621 - INFO - Athlete market data fetched successfully!
+2025-02-16 00:55:54,254 - INFO - Start updating athlete database...
+2025-02-16 00:55:54,497 - INFO - Login successful!
+2025-02-16 00:55:54,545 - INFO - Athlete market data fetched successfully!
+2025-02-16 01:01:09,807 - INFO - 3022 athlete records saved to atleten_data_20250216.csv
+2025-02-16 01:01:09,865 - INFO - Total records database.csv before updating 11998
+2025-02-16 01:01:11,368 - INFO - Total records database.csv after updating 13142
+2025-02-16 01:01:12,698 - INFO - Start updating transfer database...
+2025-02-16 01:01:12,893 - INFO - Login successful!
+2025-02-16 01:01:12,945 - INFO - Athlete market data fetched successfully!
+2025-02-16 01:01:43,183 - INFO - Total records transfer_database.csv before updating 54
+2025-02-16 01:01:49,283 - INFO - Total records transfer_database.csv after updating 129
+2025-02-16 22:33:41,358 - INFO - Start updating athlete database...
+2025-02-16 22:33:42,040 - INFO - Login successful!
+2025-02-16 22:33:42,188 - INFO - Athlete market data fetched successfully!
+2025-02-16 22:35:49,052 - INFO - Start updating athlete database...
+2025-02-16 22:35:49,322 - INFO - Login successful!
+2025-02-16 22:35:49,370 - INFO - Athlete market data fetched successfully!
+2025-02-16 22:41:38,686 - ERROR - Error fetching https://www.maxithlon.com/user/atleta_one.php?aid=5617817&tipo=aid: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:41:55,697 - INFO - Start updating athlete database...
+2025-02-16 22:42:05,799 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:42:17,900 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:42:29,987 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:42:31,988 - ERROR - Login failed, login_response: 
+None
+2025-02-16 22:42:33,176 - INFO - Start updating transfer database...
+2025-02-16 22:42:43,297 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:42:55,395 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:43:07,486 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:43:09,488 - ERROR - Login failed
+2025-02-16 22:43:59,931 - INFO - Start updating athlete database...
+2025-02-16 22:44:10,055 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:44:22,143 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:44:34,246 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:44:36,248 - ERROR - Login failed, login_response: 
+None
+2025-02-16 22:44:37,449 - INFO - Start updating transfer database...
+2025-02-16 22:44:47,569 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:44:59,661 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:45:11,751 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 22:45:13,753 - ERROR - Login failed
+2025-02-16 23:18:09,458 - INFO - Start updating athlete database...
+2025-02-16 23:18:10,307 - INFO - Login successful!
+2025-02-16 23:18:12,242 - INFO - Athlete market data fetched successfully!
+2025-02-16 23:27:43,584 - INFO - 3190 athlete records saved to atleten_data_20250216.csv
+2025-02-16 23:27:43,648 - INFO - Total records database.csv before updating 13142
+2025-02-16 23:27:45,027 - INFO - Total records database.csv after updating 13733
+2025-02-16 23:27:46,887 - INFO - Start updating transfer database...
+2025-02-16 23:27:47,637 - INFO - Login successful!
+2025-02-16 23:27:47,686 - INFO - Athlete market data fetched successfully!
+2025-02-16 23:28:18,080 - INFO - Total records transfer_database.csv before updating 129
+2025-02-16 23:28:45,014 - INFO - Total records transfer_database.csv after updating 362
+2025-02-17 00:32:33,700 - INFO - Start updating athlete database...
+2025-02-17 00:32:33,938 - INFO - Login successful!
+2025-02-17 00:32:34,005 - INFO - Athlete market data fetched successfully!
+2025-02-17 00:39:18,461 - INFO - 2895 athlete records saved to atleten_data_20250217.csv
+2025-02-17 00:39:18,529 - INFO - Total records database.csv before updating 13733
+2025-02-17 00:39:20,688 - INFO - Total records database.csv after updating 13741
+2025-02-17 00:39:22,138 - INFO - Start updating transfer database...
+2025-02-17 00:39:22,430 - INFO - Login successful!
+2025-02-17 00:39:22,469 - INFO - Athlete market data fetched successfully!
+2025-02-17 00:39:46,052 - INFO - Total records transfer_database.csv before updating 236
+2025-02-17 00:39:46,798 - INFO - Total records transfer_database.csv after updating 248
+2025-02-18 17:29:07,020 - INFO - Start updating athlete database...
+2025-02-18 17:29:07,558 - INFO - Login successful!
+2025-02-18 17:29:07,691 - INFO - Athlete market data fetched successfully!
+2025-02-18 17:46:56,101 - INFO - 3148 athlete records saved to atleten_data_20250218.csv
+2025-02-18 17:46:56,287 - INFO - Total records database.csv before updating 13741
+2025-02-18 17:47:02,450 - INFO - Total records database.csv after updating 18840
+2025-02-18 17:47:05,633 - INFO - Start updating transfer database...
+2025-02-18 17:47:06,191 - INFO - Login successful!
+2025-02-18 17:47:06,355 - INFO - Athlete market data fetched successfully!
+2025-02-18 17:49:07,781 - INFO - Total records transfer_database.csv before updating 248
+2025-02-18 17:49:22,636 - INFO - Total records transfer_database.csv after updating 336
+2025-02-18 19:25:00,263 - INFO - Start updating athlete database...
+2025-02-18 19:25:00,272 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDF327AFC0>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-18 19:25:02,273 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDF35EDAC0>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-18 19:25:04,275 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FDF35EDC40>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-18 19:25:06,277 - ERROR - Login failed, login_response: 
+None
+2025-02-18 19:25:07,390 - INFO - Start updating transfer database...
+2025-02-18 19:25:07,428 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002778C9ADDF0>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-18 19:25:09,430 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002778C9AE120>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-18 19:25:11,434 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002778C9AE480>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-18 19:25:13,435 - ERROR - Login failed
+2025-02-19 17:23:22,571 - INFO - Start updating athlete database...
+2025-02-19 17:23:23,119 - INFO - Login successful!
+2025-02-19 17:23:23,235 - INFO - Athlete market data fetched successfully!
+2025-02-19 17:23:35,330 - INFO - Start updating athlete database...
+2025-02-19 17:23:35,794 - INFO - Login successful!
+2025-02-19 17:23:35,884 - INFO - Athlete market data fetched successfully!
+2025-02-19 17:38:58,435 - INFO - 3229 athlete records saved to atleten_data_20250219.csv
+2025-02-19 17:38:58,522 - INFO - Total records database.csv before updating 18840
+2025-02-19 17:39:00,107 - INFO - Total records database.csv after updating 20375
+2025-02-19 17:39:01,835 - INFO - Start updating transfer database...
+2025-02-19 17:39:02,352 - INFO - Login successful!
+2025-02-19 17:39:04,068 - INFO - Athlete market data fetched successfully!
+2025-02-19 17:40:30,557 - INFO - Total records transfer_database.csv before updating 336
+2025-02-19 17:40:36,556 - INFO - Total records transfer_database.csv after updating 389
+2025-02-19 21:35:40,659 - INFO - Start updating athlete database...
+2025-02-19 21:35:41,260 - INFO - Login successful!
+2025-02-19 21:35:41,402 - INFO - Athlete market data fetched successfully!
+2025-02-19 21:52:07,047 - INFO - 3231 athlete records saved to atleten_data_20250219.csv
+2025-02-19 21:52:07,173 - INFO - Total records database.csv before updating 20375
+2025-02-19 21:52:09,338 - INFO - Total records database.csv after updating 20758
+2025-02-19 21:52:11,279 - INFO - Start updating transfer database...
+2025-02-19 21:52:14,172 - INFO - Login successful!
+2025-02-19 21:52:14,283 - INFO - Athlete market data fetched successfully!
+2025-02-19 21:54:12,268 - INFO - Total records transfer_database.csv before updating 389
+2025-02-19 21:54:22,004 - INFO - Total records transfer_database.csv after updating 460
+2025-02-21 21:09:27,952 - INFO - Start updating athlete database...
+2025-02-21 21:09:29,932 - INFO - Login successful!
+2025-02-21 21:09:30,054 - INFO - Athlete market data fetched successfully!
+2025-02-21 21:14:04,478 - ERROR - Error: Could not find the expected results table on page 54. Possible session expiration or page structure change.
+2025-02-21 21:14:08,415 - INFO - Start updating transfer database...
+2025-02-21 21:14:20,816 - INFO - Start updating athlete database...
+2025-02-21 21:14:22,125 - INFO - Login successful!
+2025-02-21 21:14:22,479 - INFO - Athlete market data fetched successfully!
+2025-02-21 21:25:24,548 - INFO - 3458 athlete records saved to atleten_data_20250221.csv
+2025-02-21 21:25:24,656 - INFO - Total records database.csv before updating 20758
+2025-02-21 21:25:26,673 - INFO - Total records database.csv after updating 24563
+2025-02-21 21:25:28,063 - INFO - Start updating transfer database...
+2025-02-21 21:26:14,713 - INFO - Start updating athlete database...
+2025-02-21 21:26:14,935 - INFO - Login successful!
+2025-02-21 21:26:14,999 - INFO - Athlete market data fetched successfully!
+2025-02-21 21:36:26,779 - INFO - 3457 athlete records saved to atleten_data_20250221.csv
+2025-02-21 21:36:26,879 - INFO - Total records database.csv before updating 24563
+2025-02-21 21:36:28,607 - INFO - Total records database.csv after updating 24563
+2025-02-21 21:36:29,945 - INFO - Start updating transfer database...
+2025-02-21 21:37:46,891 - INFO - Start updating transfer database...
+2025-02-21 21:38:24,149 - INFO - Start updating transfer database...
+2025-02-21 21:38:30,468 - INFO - Start updating transfer database...
+2025-02-21 21:38:48,018 - INFO - Start updating transfer database...
+2025-02-21 21:40:23,294 - INFO - Start updating transfer database...
+2025-02-21 21:41:36,081 - INFO - Start updating transfer database...
+2025-02-21 21:47:16,472 - INFO - Start updating transfer database...
+2025-02-21 21:47:16,680 - INFO - Login successful!
+2025-02-21 21:47:16,744 - INFO - Athlete market data fetched successfully!
+2025-02-21 21:49:42,107 - INFO - Start updating transfer database...
+2025-02-21 21:49:42,326 - INFO - Login successful!
+2025-02-21 21:49:42,373 - INFO - Athlete market data fetched successfully!
+2025-02-21 21:50:52,222 - INFO - Total records transfer_database.csv before updating 374
+2025-02-21 21:54:03,654 - INFO - Start updating transfer database...
+2025-02-21 21:54:37,863 - INFO - Start updating transfer database...
+2025-02-21 21:54:38,159 - INFO - Login successful!
+2025-02-21 21:54:38,213 - INFO - Athlete market data fetched successfully!
+2025-02-21 21:55:51,444 - INFO - Total records transfer_database.csv before updating 374
+2025-02-21 21:56:11,925 - INFO - Total records transfer_database.csv after updating 635
+2025-02-21 21:57:29,715 - INFO - Start updating athlete database...
+2025-02-21 21:57:29,908 - INFO - Login successful!
+2025-02-21 21:57:29,968 - INFO - Athlete market data fetched successfully!
+2025-02-21 22:06:40,867 - INFO - 3464 athlete records saved to atleten_data_20250221.csv
+2025-02-21 22:06:41,026 - INFO - Total records database.csv before updating 24563
+2025-02-21 22:06:43,302 - INFO - Total records database.csv after updating 24582
+2025-02-21 22:06:44,790 - INFO - Start updating transfer database...
+2025-02-21 22:06:45,242 - INFO - Login successful!
+2025-02-21 22:06:45,336 - INFO - Athlete market data fetched successfully!
+2025-02-21 22:08:05,411 - INFO - Total records transfer_database.csv before updating 635
+2025-02-21 22:08:27,184 - INFO - Total records transfer_database.csv after updating 897
+2025-02-22 16:12:48,039 - INFO - Start updating athlete database...
+2025-02-22 16:12:48,457 - INFO - Login successful!
+2025-02-22 16:12:48,538 - INFO - Athlete market data fetched successfully!
+2025-02-22 16:20:01,365 - INFO - 3366 athlete records saved to atleten_data_20250222.csv
+2025-02-22 16:20:01,479 - INFO - Total records database.csv before updating 24582
+2025-02-22 16:20:03,058 - INFO - Total records database.csv after updating 26008
+2025-02-22 16:20:06,847 - INFO - Start updating transfer database...
+2025-02-22 16:20:07,164 - INFO - Login successful!
+2025-02-22 16:20:07,497 - INFO - Athlete market data fetched successfully!
+2025-02-22 16:21:06,874 - INFO - Total records transfer_database.csv before updating 375
+2025-02-22 16:21:10,653 - INFO - Total records transfer_database.csv after updating 445
+2025-02-23 20:49:49,267 - INFO - Start updating athlete database...
+2025-02-23 20:49:49,841 - INFO - Login successful!
+2025-02-23 20:49:49,914 - INFO - Athlete market data fetched successfully!
+2025-02-23 20:57:00,723 - INFO - 3496 athlete records saved to atleten_data_20250223.csv
+2025-02-23 20:57:00,835 - INFO - Total records database.csv before updating 26008
+2025-02-23 20:57:02,475 - INFO - Total records database.csv after updating 27904
+2025-02-23 20:57:05,018 - INFO - Start updating transfer database...
+2025-02-23 20:57:06,035 - INFO - Login successful!
+2025-02-23 20:57:06,117 - INFO - Athlete market data fetched successfully!
+2025-02-23 21:08:50,921 - INFO - Start updating athlete database...
+2025-02-23 21:08:51,690 - INFO - Login successful!
+2025-02-23 21:08:52,031 - INFO - Athlete market data fetched successfully!
+2025-02-23 21:17:14,267 - INFO - 3520 athlete records saved to atleten_data_20250223.csv
+2025-02-23 21:17:14,378 - INFO - Total records database.csv before updating 27904
+2025-02-23 21:17:16,144 - INFO - Total records database.csv after updating 27982
+2025-02-23 21:17:17,847 - INFO - Start updating transfer database...
+2025-02-23 21:17:18,561 - INFO - Login successful!
+2025-02-23 21:17:18,625 - INFO - Athlete market data fetched successfully!
+2025-02-23 21:18:35,702 - INFO - Start updating transfer database...
+2025-02-23 21:18:36,076 - INFO - Login successful!
+2025-02-23 21:18:36,172 - INFO - Athlete market data fetched successfully!
+2025-02-23 21:20:08,096 - INFO - Start updating transfer database...
+2025-02-23 21:20:09,195 - INFO - Login successful!
+2025-02-23 21:20:09,257 - INFO - Athlete market data fetched successfully!
+2025-02-23 21:21:04,609 - INFO - Total records transfer_database.csv before updating 445
+2025-02-23 21:21:38,515 - INFO - Total records transfer_database.csv after updating 781
+2025-02-24 15:04:10,179 - INFO - Start updating athlete database...
+2025-02-24 15:04:10,453 - INFO - Login successful!
+2025-02-24 15:04:10,545 - INFO - Athlete market data fetched successfully!
+2025-02-24 15:19:17,377 - INFO - Start updating transfer database...
+2025-02-24 15:19:17,429 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001911C0AE750>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-24 17:23:05,582 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Max retries exceeded with url: /accesscontrol.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001911C11E4E0>: Failed to resolve 'www.maxithlon.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-25 20:46:12,579 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-02-25 20:46:14,591 - ERROR - Login failed
+2025-02-25 20:46:33,643 - INFO - Start updating athlete database...
+2025-02-25 20:46:38,152 - INFO - Login successful!
+2025-02-25 20:46:38,236 - INFO - Athlete market data fetched successfully!
+2025-02-25 20:52:16,175 - INFO - Start updating athlete database...
+2025-02-25 20:52:16,403 - INFO - Login successful!
+2025-02-25 20:52:16,458 - INFO - Athlete market data fetched successfully!
+2025-02-25 21:01:10,891 - INFO - 4144 athlete records saved to atleten_data_20250225.csv
+2025-02-25 21:01:11,169 - INFO - Total records database.csv before updating 27982
+2025-02-25 21:01:23,392 - INFO - Total records database.csv after updating 36412
+2025-02-25 21:01:29,869 - INFO - Start updating transfer database...
+2025-02-25 21:27:06,260 - INFO - Start updating athlete database...
+2025-02-25 21:27:07,359 - INFO - Login successful!
+2025-02-25 21:27:07,602 - INFO - Athlete market data fetched successfully!
+2025-02-25 21:29:05,391 - ERROR - Error: Could not find the expected results table on page 26. Possible session expiration or page structure change.
+2025-02-25 21:29:08,906 - INFO - Start updating transfer database...
+2025-02-25 22:05:37,861 - INFO - Start updating athlete database...
+2025-02-25 22:05:38,203 - INFO - Login successful!
+2025-02-25 22:05:38,283 - INFO - Athlete market data fetched successfully!
+2025-02-25 22:17:53,774 - INFO - 4173 athlete records saved to atleten_data_20250225.csv
+2025-02-25 22:17:54,081 - INFO - Total records database.csv before updating 36412
+2025-02-25 22:18:03,750 - INFO - Total records database.csv after updating 36560
+2025-02-25 22:18:07,790 - INFO - Start updating transfer database...
+2025-02-25 23:05:54,080 - INFO - Start updating transfer database...
+2025-02-25 23:07:03,674 - INFO - Start updating transfer database...
+2025-02-25 23:07:04,077 - INFO - Login successful!
+2025-02-25 23:07:04,441 - INFO - Athlete market data fetched successfully!
+2025-02-25 23:09:33,062 - INFO - Total records transfer_database.csv before updating 781
+2025-02-25 23:09:58,668 - INFO - Total records transfer_database.csv after updating 991
+2025-02-26 09:35:50,671 - INFO - Start updating athlete database...
+2025-02-26 09:35:50,937 - INFO - Login successful!
+2025-02-26 09:35:51,085 - INFO - Athlete market data fetched successfully!
+2025-02-26 09:45:35,189 - INFO - 4311 athlete records saved to atleten_data_20250226.csv
+2025-02-26 09:45:35,332 - INFO - Total records database.csv before updating 36560
+2025-02-26 09:45:37,625 - INFO - Total records database.csv after updating 38726
+2025-02-26 09:45:39,253 - INFO - Start updating transfer database...
+2025-02-26 09:45:39,530 - INFO - Login successful!
+2025-02-26 09:45:39,593 - INFO - Athlete market data fetched successfully!
+2025-02-26 09:47:02,424 - INFO - Total records transfer_database.csv before updating 991
+2025-02-26 09:47:05,673 - INFO - Total records transfer_database.csv after updating 1034
+2025-02-27 12:29:08,176 - INFO - Start updating athlete database...
+2025-02-27 12:29:08,419 - INFO - Login successful!
+2025-02-27 12:29:08,493 - INFO - Athlete market data fetched successfully!
+2025-02-27 12:37:58,009 - INFO - 4291 athlete records saved to atleten_data_20250227.csv
+2025-02-27 12:37:58,122 - INFO - Total records database.csv before updating 38726
+2025-02-27 12:38:00,248 - INFO - Total records database.csv after updating 41513
+2025-02-27 12:38:01,538 - INFO - Start updating transfer database...
+2025-02-27 12:38:02,126 - INFO - Login successful!
+2025-02-27 12:38:02,184 - INFO - Athlete market data fetched successfully!
+2025-02-27 12:39:33,929 - INFO - Total records transfer_database.csv before updating 1034
+2025-02-27 12:39:51,666 - INFO - Total records transfer_database.csv after updating 1311
+2025-02-27 12:39:52,920 - INFO - Database backup gemaakt op 2025-02-27
+2025-02-27 12:43:25,919 - INFO - Start updating transfer database...
+2025-02-27 12:43:26,189 - INFO - Login successful!
+2025-02-27 12:43:26,237 - INFO - Athlete market data fetched successfully!
+2025-02-27 12:44:56,038 - INFO - Total records transfer_database.csv before updating 1311
+2025-02-27 12:45:14,382 - INFO - Total records transfer_database.csv after updating 1590
+2025-02-27 22:01:43,741 - INFO - Start updating athlete database...
+2025-02-27 22:01:45,370 - INFO - Login successful!
+2025-02-27 22:01:45,690 - INFO - Athlete market data fetched successfully!
+2025-02-27 22:11:03,218 - INFO - Start updating transfer database...
+2025-02-27 22:11:04,738 - INFO - Login successful!
+2025-02-27 22:11:05,403 - INFO - Athlete market data fetched successfully!
+2025-02-27 22:26:43,921 - INFO - Start updating athlete database...
+2025-02-27 22:26:44,548 - INFO - Login successful!
+2025-02-27 22:26:44,630 - INFO - Athlete market data fetched successfully!
+2025-02-27 22:39:32,481 - INFO - 4391 athlete records saved to atleten_data_20250227.csv
+2025-02-27 22:39:32,681 - INFO - Total records database.csv before updating 41513
+2025-02-27 22:39:36,573 - INFO - Total records database.csv after updating 42810
+2025-02-27 22:39:40,272 - INFO - Start updating transfer database...
+2025-02-27 22:39:40,629 - INFO - Login successful!
+2025-02-27 22:39:40,810 - INFO - Athlete market data fetched successfully!
+2025-02-27 22:39:55,786 - ERROR - Error fetching https://www.maxithlon.com/user/atleta_one.php?aid=5115033&tipo=aid: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-27 22:42:37,694 - INFO - Total records transfer_database.csv before updating 1036
+2025-02-27 22:43:25,930 - INFO - Total records transfer_database.csv after updating 1452
+2025-02-27 22:43:27,165 - INFO - Database backup gemaakt op 2025-02-27
+2025-02-27 23:23:39,201 - INFO - Start updating athlete database...
+2025-02-27 23:23:40,808 - INFO - Login successful!
+2025-02-27 23:23:40,916 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:24:11,707 - INFO - 13 athlete records saved to atleten_data_20250227.csv
+2025-02-27 23:24:12,274 - INFO - Total records database.csv before updating 42810
+2025-02-27 23:24:13,471 - INFO - Total records database.csv after updating 42810
+2025-02-27 23:29:29,360 - INFO - Start updating athlete database...
+2025-02-27 23:29:40,509 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-02-27 23:29:43,914 - INFO - Login successful!
+2025-02-27 23:29:44,336 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:29:49,448 - INFO - 12 athlete records saved to atleten_data_20250227.csv
+2025-02-27 23:29:49,588 - INFO - Total records database.csv before updating 42810
+2025-02-27 23:29:49,876 - INFO - Total records database.csv after updating 42810
+2025-02-27 23:31:59,862 - INFO - Start updating athlete database...
+2025-02-27 23:32:00,094 - INFO - Login successful!
+2025-02-27 23:32:00,139 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:32:01,483 - INFO - 12 athlete records saved to atleten_data_20250227.csv
+2025-02-27 23:32:01,668 - INFO - Total records database.csv before updating 41513
+2025-02-27 23:32:01,926 - INFO - Total records database.csv after updating 41513
+2025-02-27 23:32:41,123 - INFO - Start updating athlete database...
+2025-02-27 23:32:41,363 - INFO - Login successful!
+2025-02-27 23:32:41,412 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:32:43,185 - INFO - 12 athlete records saved to atleten_data_20250227.csv
+2025-02-27 23:32:43,310 - INFO - Total records database.csv before updating 41513
+2025-02-27 23:32:43,554 - INFO - Total records database.csv after updating 41513
+2025-02-27 23:37:07,638 - INFO - Start updating athlete database...
+2025-02-27 23:37:07,856 - INFO - Login successful!
+2025-02-27 23:37:07,906 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:37:09,966 - INFO - 12 athlete records saved to atleten_data_20250227.csv
+2025-02-27 23:37:10,116 - INFO - Total records database.csv before updating 41513
+2025-02-27 23:37:10,421 - INFO - Total records database.csv after updating 41513
+2025-02-27 23:37:48,093 - INFO - Start updating athlete database...
+2025-02-27 23:37:48,392 - INFO - Login successful!
+2025-02-27 23:37:48,575 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:47:46,911 - INFO - Start updating athlete database...
+2025-02-27 23:47:47,125 - INFO - Login successful!
+2025-02-27 23:47:47,208 - INFO - Athlete market data fetched successfully!
+2025-02-27 23:59:07,046 - ERROR - Error: Could not find the expected results table on page 182. Possible session expiration or page structure change.
+2025-02-27 23:59:55,695 - INFO - Start updating athlete database...
+2025-02-27 23:59:56,433 - INFO - Login successful!
+2025-02-27 23:59:56,546 - INFO - Athlete market data fetched successfully!
+2025-02-28 00:00:59,332 - INFO - Start updating athlete database...
+2025-02-28 00:00:59,531 - INFO - Login successful!
+2025-02-28 00:00:59,613 - INFO - Athlete market data fetched successfully!
+2025-02-28 00:15:02,746 - INFO - 4426 athlete records saved to atleten_data_20250228.csv
+2025-02-28 00:15:03,222 - INFO - Total records database.csv before updating 41513
+2025-02-28 00:15:15,759 - INFO - Total records database.csv after updating 43012
+2025-02-28 12:55:52,896 - INFO - Start updating athlete database...
+2025-02-28 12:55:53,181 - INFO - Login successful!
+2025-02-28 12:55:53,258 - INFO - Athlete market data fetched successfully!
+2025-02-28 13:01:09,813 - INFO - Start updating athlete database...
+2025-02-28 13:01:10,162 - INFO - Login successful!
+2025-02-28 13:01:10,222 - INFO - Athlete market data fetched successfully!
+2025-02-28 13:13:41,333 - INFO - 4456 athlete records saved to atleten_data_20250228.csv
+2025-02-28 13:13:41,458 - INFO - Total records database.csv before updating 43012
+2025-02-28 13:13:44,350 - INFO - Total records database.csv after updating 45356
+2025-02-28 13:13:45,849 - INFO - Start updating transfer database...
+2025-03-01 21:16:38,634 - INFO - Start updating athlete database...
+2025-03-01 21:16:38,840 - INFO - Login successful!
+2025-03-01 21:16:38,936 - INFO - Athlete market data fetched successfully!
+2025-03-01 21:30:07,804 - INFO - 4904 athlete records saved to atleten_data_20250301.csv
+2025-03-01 21:30:08,152 - INFO - Total records database.csv before updating 45356
+2025-03-01 21:30:12,556 - INFO - Total records database.csv after updating 50906
+2025-03-01 21:30:14,048 - INFO - Start updating transfer database...
+2025-03-01 21:34:08,807 - INFO - Start updating athlete database...
+2025-03-01 21:34:09,118 - INFO - Login successful!
+2025-03-01 21:34:09,190 - INFO - Athlete market data fetched successfully!
+2025-03-01 21:46:26,436 - INFO - 4926 athlete records saved to atleten_data_20250301.csv
+2025-03-01 21:46:26,620 - INFO - Total records database.csv before updating 50906
+2025-03-01 21:46:29,188 - INFO - Total records database.csv after updating 50964
+2025-03-01 21:46:30,442 - INFO - Start updating transfer database...
+2025-03-01 22:58:27,939 - INFO - Start updating transfer database...
+2025-03-01 22:59:15,510 - INFO - Start updating transfer database...
+2025-03-01 22:59:25,590 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-03-01 22:59:37,654 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-03-01 22:59:49,692 - ERROR - Error fetching https://www.maxithlon.com/accesscontrol.php: HTTPSConnectionPool(host='www.maxithlon.com', port=443): Read timed out. (read timeout=10)
+2025-03-01 22:59:51,693 - ERROR - Login failed
+2025-03-01 23:14:57,376 - INFO - Start updating transfer database...
+2025-03-01 23:14:58,192 - INFO - Login successful!
+2025-03-01 23:14:58,572 - INFO - Athlete market data fetched successfully!
+2025-03-01 23:22:41,306 - INFO - Start updating transfer database...
+2025-03-01 23:22:41,512 - INFO - Login successful!
+2025-03-01 23:22:41,567 - INFO - Athlete market data fetched successfully!
+2025-03-01 23:23:55,477 - INFO - Total records transfer_database.csv before updating 0
+2025-03-01 23:25:46,371 - INFO - Total records transfer_database.csv after updating 877
+2025-03-01 23:29:15,378 - INFO - Start updating athlete database...
+2025-03-01 23:29:15,704 - INFO - Login successful!
+2025-03-01 23:29:15,790 - INFO - Athlete market data fetched successfully!
+2025-03-01 23:39:24,582 - INFO - 1720 athlete records saved to atleten_data_20250301.csv
+2025-03-01 23:39:24,629 - INFO - Total records database.csv before updating 0
+2025-03-01 23:39:28,097 - INFO - Total records database.csv after updating 4820
