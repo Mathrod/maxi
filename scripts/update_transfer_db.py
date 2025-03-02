@@ -104,39 +104,17 @@ def run():
         "Uithouding", "Snelheid", "Lenigheid", "Springen", "Werpen", "SP1", "SP2"]
 
     df_atleet_data = pd.DataFrame(all_athletes, columns=columns)
-    df_diff = df_yesterday[~df_yesterday["AtleetID"].isin(df_atleet_data["AtleetID"])]
-    df_transfer_database = pd.read_csv(base_dir / "data"/ "transfer_database.csv")
-
-    logger.info(f"Total records transfer_database.csv before updating {len(df_transfer_database)}")
-
-    for x, row in df_diff.iterrows():
-        atleet_id = row["AtleetID"]
-        deadline = row["Deadline"]
-        datum, waarde = get_transfer_details(atleet_id, session)
-        atleet = df_yesterday[df_yesterday["AtleetID"] == atleet_id].copy()
-        
-        if type(deadline) == str:
-            deadline = datetime.strptime(deadline, "%Y-%m-%d %H:%M:%S")
-        if type(datum) == str:
-            datum = datetime.strptime(datum, "%Y-%m-%d")
-        
-        if abs(datum - deadline).days <= 2:
-            atleet["Waarde"] = waarde
-        else:
-            atleet["Waarde"] = 0
-
-        df_transfer_database = pd.concat([df_transfer_database, atleet], ignore_index=True)
-
-    df_transfers_database_uniek = df_transfer_database.drop_duplicates(keep=False)
-    
-    df_transfers_database_uniek.to_csv(base_dir / "data" / "transfer_database.csv", index=False)
     output_path = (base_dir / "data" /"open_transfers"/ f"{datetime.today().strftime('%Y%m%d')}_open_transfers.csv")
-    
     df_atleet_data.to_csv(output_path, index=False)
-    logger.info(f"Total records transfer_database.csv after updating {len(df_transfer_database)}")
 
+    logger.info(f"{len(df_atleet_data)} records saved to {output_path}")
     session.get(logout_url)  # Dit beëindigt de sessie
     session.close()
 
+
 if __name__ == "__main__":
-    run()
+    file = (base_dir / "data" /"open_transfers"/ f"{datetime.today().strftime('%Y%m%d')}_open_transfers.csv")
+    if os.path.exists(file):
+        logger.info("File already exists, no need to update.")
+    else:
+        run()

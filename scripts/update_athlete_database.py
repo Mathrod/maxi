@@ -61,9 +61,7 @@ def run():
     if not response:
         logger.error("Failed to fetch athlete market data.")
         return
-    
     logger.info("Athlete market data fetched successfully!")
-
 
     all_athletes = []
     page_number = 1
@@ -111,58 +109,15 @@ def run():
     df = pd.DataFrame(all_athletes, columns=columns)
     output_path = (base_dir / "data" / "atleten_data" / f"atleten_data_{datetime.today().strftime('%Y%m%d')}.csv")
     df.to_csv(output_path, index=False)
+    
     logger.info(f"{len(df)} athlete records saved to {output_path.name}")
-
-    # Integrate merge_data.py functionality
-    atleten_file = output_path
-    database_file = (base_dir / "data" / "database.csv")
-
-    # CSV-bestanden inlezen
-    df_atleten = pd.read_csv(atleten_file)
-    df_database = pd.read_csv(database_file)
-
-    logger.info(f"Total records database.csv before updating {len(df_database)}")
-
-    # Nieuwe DataFrame voor de opgesplitste data
-    expanded_rows = []
-
-    # Itereer over elke rij in df_atleten
-    for _, row in df_atleten.iterrows():
-        atleet_data = row.drop(["Resultaten test"]).to_dict()  # Bewaar alle andere kolommen behalve "Resultaten test"
-        
-        # Probeer de "Resultaten test" kolom te evalueren (omzetten van string naar lijst van tuples)
-        try:
-            resultaten = ast.literal_eval(row["Resultaten test"])  # Converteer de string-lijst naar echte lijst
-        except:
-            resultaten = []  # Als conversie faalt, gebruik een lege lijst
-        
-        # Itereer over de resultaten en maak een nieuwe rij voor elk resultaat
-        for resultaat in resultaten:
-            if len(resultaat) >= 4:  # Zorg ervoor dat de structuur correct is
-                nieuwe_rij = atleet_data.copy()  # Kopieer de originele rij zonder "Resultaten test"
-                nieuwe_rij["Discipline"] = resultaat[0]
-                nieuwe_rij["Resultaat"] = resultaat[1]
-                nieuwe_rij["Punten Resultaat"] = resultaat[2]
-                nieuwe_rij["Week"] = resultaat[3]
-                expanded_rows.append(nieuwe_rij)
-
-    # Maak een DataFrame van de opgesplitste rijen
-    df_expanded = pd.DataFrame(expanded_rows)
-
-    # Controleer of database niet leeg is en filter op unieke (AthleetID, Week) combinaties
-    if not df_database.empty:
-        df_merged = pd.concat([df_database, df_expanded], ignore_index=True)
-        df_merged = df_merged.drop_duplicates(subset=["AtleetID", "Week", "Discipline"], keep="first")
-    else:
-        df_merged = df_expanded  # Als database leeg is, gebruik direct de nieuwe data
-
-    # Opslaan naar database.csv
-    df_merged.to_csv(database_file, index=False)
-
-    logger.info(f"Total records database.csv after updating {len(df_merged)}")
 
     session.get(logout_url)  # Dit beëindigt de sessie
     session.close()
 
 if __name__ == "__main__":
-    run()
+    file = (base_dir / "data" / "atleten_data" / f"atleten_data_{datetime.today().strftime('%Y%m%d')}.csv")
+    if os.path.exists(file):
+        print("File already exists, no need to update.")
+    else:
+        run()
