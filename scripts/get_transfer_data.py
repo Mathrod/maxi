@@ -23,13 +23,6 @@ def run():
     target_url = "https://www.maxithlon.com/varie/mercato.php"
     logout_url = "https://www.maxithlon.com/logout.php"
 
-    
-    yesterday = datetime.today() - timedelta(days=1)
-    input_file = (base_dir / "data" / "open_transfers" / f"{yesterday.strftime('%Y%m%d')}_open_transfers.csv")
-    df_yesterday = pd.read_csv(input_file)
-
-    df_yesterday["AtleetId"] = df_yesterday["AtleetID"].astype(int)
-
     payload = {
         "user": os.getenv("MAXITHLON_USER"),
         "password": os.getenv("MAXITHLON_PASS"),
@@ -104,7 +97,7 @@ def run():
         "Uithouding", "Snelheid", "Lenigheid", "Springen", "Werpen", "SP1", "SP2"]
 
     df_atleet_data = pd.DataFrame(all_athletes, columns=columns)
-    output_path = (base_dir / "data" /"open_transfers"/ f"{datetime.today().strftime('%Y%m%d')}_open_transfers.csv")
+    output_path = (base_dir / "data" / f"{datetime.today().strftime('%Y%m%d')}_open_transfers.csv")
     df_atleet_data.to_csv(output_path, index=False)
 
     logger.info(f"{len(df_atleet_data)} records saved to {output_path}")
@@ -113,7 +106,7 @@ def run():
 
 
 if __name__ == "__main__":
-    file = (base_dir / "data" /"open_transfers"/ f"{datetime.today().strftime('%Y%m%d')}_open_transfers.csv")
+    file = (base_dir / "data" / f"{datetime.today().strftime('%Y%m%d')}_open_transfers.csv")
     if os.path.exists(file):
         logger.info("File already exists, no need to update.")
     else:

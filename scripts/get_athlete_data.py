@@ -107,7 +107,7 @@ def run():
         "Zorg", "Kracht", "Uithouding", "Snelheid", "Lenigheid", "Springen", "Werpen", "SP1", "SP2"]
 
     df = pd.DataFrame(all_athletes, columns=columns)
-    output_path = (base_dir / "data" / "atleten_data" / f"atleten_data_{datetime.today().strftime('%Y%m%d')}.csv")
+    output_path = (base_dir / "data" / f"atleten_data_{datetime.today().strftime('%Y%m%d')}.csv")
     df.to_csv(output_path, index=False)
     
     logger.info(f"{len(df)} athlete records saved to {output_path.name}")
@@ -116,7 +116,7 @@ def run():
     session.close()
 
 if __name__ == "__main__":
-    file = (base_dir / "data" / "atleten_data" / f"atleten_data_{datetime.today().strftime('%Y%m%d')}.csv")
+    file = (base_dir / "data" / f"atleten_data_{datetime.today().strftime('%Y%m%d')}.csv")
     if os.path.exists(file):
         print("File already exists, no need to update.")
     else:
