@@ -48,7 +48,7 @@ def fetch_page(url, session, params=None, method="get", data=None):
             return response
         except requests.RequestException as e:
             logger.error(f"Error fetching {url}: {e}")
-            time.sleep(2)
+            time.sleep(1)
     return None
 
 
