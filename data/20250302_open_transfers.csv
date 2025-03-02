@@ -1,0 +1,684 @@
+Favoriete onderdeel,Naam,AtleetID,Leeftijd,Land,Geslacht,MaxID,Specialiteit,Humeur,Ervaring,Vorm,Lengte,Gewicht,Deadline,Zorg,Kracht,Uithouding,Snelheid,Lenigheid,Springen,Werpen,SP1,SP2
+Hinkstapspringen,Franco Custódia,5510804,19,Portugal,Vrouw,5340,Springers,20,3,19,163,71,True,6,3,1,3,10,14,2,9,7
+50 km snelwandelen,Aragón Soraya,5511883,19,España,Vrouw,3080,Snelwandelaars,20,3,18,173,80,True,8,2,12,2,10,0,0,6,7
+400 meter horden,Mauchle Samuele,5175192,29,Switzerland,Man,28430,Sprinters,20,9,17,165,64,True,18,0,3,18,17,2,2,10,10
+Onbekend,Nascimento Amália,5574998,18,Portugal,Vrouw,720,Meerkampers,20,2,14,184,90,True,12,5,3,2,8,8,5,6,7
+Marathon,Glass Brooke,5499039,22,Australia,Vrouw,2670,Langeafstandslopers,20,3,11,174,70,True,18,1,12,9,3,1,1,5,7
+Onbekend,Glyde Lara,5562382,20,Australia,Vrouw,2160,Springers,20,2,14,177,70,True,19,1,3,1,5,10,3,7,9
+Onbekend,Mestre Deolinda,5653349,18,Portugal,Vrouw,1080,Sprinters,14,1,15,174,67,True,18,9,3,5,2,0,3,5,7
+Marathon,Pinder Chloe,5444057,22,Bahamas,Vrouw,14830,Langeafstandslopers,20,6,16,170,76,True,18,1,17,3,4,3,2,10,8
+10.000 meter,Basto Zélia,5508996,20,Portugal,Vrouw,3010,Langeafstandslopers,20,3,20,183,79,True,19,2,8,4,2,2,2,9,10
+Onbekend,Dörre Ede,5548858,18,Deutschland,Man,2920,Springers,20,2,15,190,89,True,19,0,3,6,8,12,3,6,7
+20 km snelwandelen,Cavazzin Emilia,5129429,30,Italia,Vrouw,54980,Snelwandelaars,20,11,17,168,40,True,18,1,20,2,2,0,0,17,16
+Onbekend,Boerkamp Mieke,5659121,15,Nederland,Vrouw,800,Springers,10,1,15,156,53,True,14,3,4,7,2,9,1,5,5
+Verspringen,Lugo Camila,5555381,20,Argentina,Vrouw,3300,Springers,20,2,18,159,56,True,20,3,3,4,6,12,3,8,7
+100 meter,Abbondanzieri Vanesa,5528234,19,Argentina,Vrouw,2050,Sprinters,20,3,18,177,79,True,20,3,2,10,2,1,1,6,8
+Discuswerpen,Chacana Mariela,5417257,24,Argentina,Vrouw,3910,Werpers,20,5,17,167,59,True,19,10,2,3,4,3,10,11,8
+Onbekend,Páez Israel,5596337,20,España,Man,2510,Werpers,20,2,18,179,80,True,19,10,1,3,3,3,8,9,8
+Onbekend,Refaat Astennu,5666397,15,Miṣr,Man,260,Zonder specialiteit,11,1,15,160,62,True,12,2,2,2,7,1,3,0,0
+20 km snelwandelen,Mohorič Filip,5465495,21,Slovenija,Man,21060,Snelwandelaars,20,5,18,179,66,True,18,2,19,3,8,1,3,9,8
+10 km snelwandelen,Migunova Alla,5389404,24,Rossiya,Vrouw,15010,Snelwandelaars,20,5,19,161,62,True,16,3,18,1,3,1,0,6,10
+Onbekend,Garrido Florencio,5589346,18,España,Man,1590,Middenafstandslopers,15,1,18,166,71,True,6,7,11,7,3,2,1,7,6
+Hinkstapspringen,Nöske Angelique,5127766,32,Deutschland,Vrouw,13020,Springers,20,10,15,174,72,True,15,0,2,0,9,16,0,11,10
+Onbekend,Mendilíbar Remigio,5599213,18,España,Man,4120,Sprinters,20,1,15,182,90,True,17,2,3,13,1,3,7,6,7
+Onbekend,Gastelum Samara,5591435,18,España,Vrouw,9980,Snelwandelaars,20,1,15,166,72,True,18,1,16,3,9,2,3,8,5
+Hinkstapspringen,Surkhang Jana,5345505,24,Switzerland,Vrouw,8650,Springers,20,7,18,184,87,True,15,9,1,4,3,14,2,10,12
+Tienkamp,Brożek Dariusz,5563160,21,Polska,Man,800,Meerkampers,20,2,18,183,82,True,8,7,3,2,2,1,3,4,9
+Onbekend,Navalón Minerva,5535705,18,España,Vrouw,1910,Werpers,20,2,15,177,79,True,19,9,3,3,6,3,8,7,8
+Onbekend,Giusti Amilcare,5621128,17,Italia,Man,1920,Springers,20,1,17,172,74,True,19,1,0,3,2,10,3,7,7
+Onbekend,Huntelaar Lisa,5662937,18,Nederland,Vrouw,1590,Springers,16,1,16,165,57,True,19,3,3,2,4,10,3,4,5
+Polsstokhoogspringen,Poças Carlota,5501154,21,Portugal,Vrouw,5120,Springers,20,3,19,180,73,True,11,9,5,1,2,14,2,8,6
+Onbekend,Borrego Clementina,5546197,21,España,Vrouw,1560,Springers,20,2,17,162,65,True,16,2,3,0,6,10,4,5,9
+Hinkstapspringen,Melo Lourdes,4957412,36,España,Vrouw,7020,Springers,11,13,16,180,73,True,11,0,0,0,10,7,0,12,11
+Onbekend,Ortega Manel,5641318,18,España,Man,1050,Werpers,15,1,16,168,71,True,20,4,3,2,4,1,6,5,4
+100 meter,Amour Jean Michel,5419498,24,France,Man,10140,Sprinters,20,5,18,179,81,True,16,11,3,16,6,3,2,8,10
+Onbekend,Muro Olimpia,5608630,18,España,Vrouw,560,Middenafstandslopers,16,1,15,172,70,True,12,3,6,9,5,3,1,5,5
+Onbekend,Samaniego Loreto,5663708,18,España,Vrouw,970,Middenafstandslopers,16,1,15,162,60,True,7,3,9,5,2,0,0,7,9
+Onbekend,Figueira Amanda,5435512,25,Portugal,Vrouw,2280,Meerkampers,17,2,11,166,76,True,11,1,10,3,1,10,1,7,9
+Polsstokhoogspringen,Claretti Noemi,4423474,48,Italia,Vrouw,18980,Springers,20,20,16,179,53,True,19,0,0,0,0,7,0,2,3
+Kogelstoten,Gerola Giulia,4523403,47,Italia,Vrouw,9540,Werpers,11,17,13,173,70,True,19,0,0,0,0,0,7,2,3
+110 meter horden,Anderson Eetu,4554539,45,Suomi,Man,7310,Sprinters,11,17,15,184,95,True,13,0,0,5,0,0,0,5,5
+100 meter,Bouzas Julene,4594976,45,España,Vrouw,8920,Sprinters,12,17,18,160,59,True,16,0,0,7,0,0,0,5,3
+Onbekend,Joachimowska Natasza,5666411,18,Polska,Vrouw,170,Zonder specialiteit,13,1,15,170,62,True,12,6,1,3,2,3,2,0,0
+Hoogspringen,Vilain Claire,5405446,23,France,Vrouw,5300,Springers,20,2,17,164,60,True,18,2,7,2,7,14,2,9,6
+Onbekend,Baldolini Olivia,5666413,16,Italia,Vrouw,1300,Zonder specialiteit,18,1,15,163,55,True,20,1,9,2,0,2,1,0,0
+Onbekend,De Gregoriis Adamo,5666414,17,Italia,Man,780,Zonder specialiteit,11,1,15,173,72,True,12,0,5,3,3,1,10,0,0
+Onbekend,Baldoni Pietro,5666415,15,Italia,Man,620,Zonder specialiteit,16,1,15,163,59,True,17,0,1,3,8,1,2,0,0
+Onbekend,Roberti Gelsomina,5666412,17,Italia,Vrouw,400,Zonder specialiteit,20,1,15,169,68,True,12,8,1,1,2,5,3,0,0
+Kogelslingeren,Kankkunen Maria,5477971,21,Suomi,Vrouw,8020,Werpers,20,3,17,178,85,True,17,8,2,2,2,0,16,6,6
+400 meter,Valsecchi Andrea,5264480,27,Italia,Man,9660,Sprinters,20,6,17,184,87,True,15,4,1,16,6,1,3,10,9
+Polsstokhoogspringen,Limón Teresa,5292181,26,España,Vrouw,4930,Springers,20,5,17,179,62,True,18,3,2,7,11,12,3,10,9
+Verspringen,Mantzarli Giouli,5234290,30,Hellas,Vrouw,5130,Springers,20,7,16,164,45,True,11,3,3,9,4,13,5,11,9
+Discuswerpen,Moliner Adán,5006747,35,España,Man,6160,Werpers,17,12,19,179,85,True,7,12,0,0,3,0,9,10,11
+200 meter,Madero Gustavo,5093620,33,Argentina,Man,17610,Sprinters,18,12,16,184,84,True,13,14,0,17,1,1,0,9,10
+Speerwerpen,Boques Telma,4892774,36,Brasil,Vrouw,9380,Werpers,13,15,13,183,94,True,10,14,0,0,2,0,10,8,9
+Onbekend,de Jong Gea,5611026,18,Nederland,Vrouw,220,Middenafstandslopers,10,1,15,183,84,True,8,1,3,7,2,3,1,3,4
+Vijfkamp Vrouwen,Moritz Sabina,4849834,37,España,Vrouw,3490,Meerkampers,13,11,20,177,75,True,9,7,0,9,0,3,6,10,10
+Onbekend,Quarino Donata,5647364,15,Italia,Vrouw,880,Meerkampers,18,1,14,157,51,True,16,1,2,8,5,0,7,7,5
+Onbekend,Orefici Margherita,5532975,19,Italia,Vrouw,1520,Meerkampers,20,1,14,172,78,True,17,8,9,8,2,6,2,5,8
+Onbekend,Pizzigati Gina,5491231,20,Italia,Vrouw,1250,Meerkampers,20,2,15,178,82,True,14,6,2,7,4,10,4,7,5
+Onbekend,Perrone Fulgenzio,5666419,18,Italia,Man,1870,Sprinters,12,1,15,184,83,True,19,3,2,10,3,3,3,7,6
+10 km snelwandelen,Lamesta Clizia,4867108,38,Italia,Vrouw,36210,Snelwandelaars,17,13,15,174,58,True,19,0,20,0,5,0,0,9,14
+Marathon,Sherwood Henry,5078821,31,Great Britain,Man,10600,Langeafstandslopers,19,10,18,167,73,True,12,1,16,10,1,2,1,8,9
+Onbekend,Mulas Elvio,5538893,19,Italia,Man,1950,Snelwandelaars,20,2,13,188,92,True,19,0,10,3,8,2,3,8,6
+Onbekend,Giavedoni Silvano,5577731,19,Italia,Man,600,Springers,20,1,11,178,83,True,14,2,5,3,6,7,3,7,7
+Onbekend,Cavallucci Marcella,5606362,18,Italia,Vrouw,2980,Sprinters,20,1,15,178,80,True,13,10,1,12,4,1,3,9,6
+5.000 meter,Świerczyńska Kamila,5356826,24,Polska,Vrouw,12070,Langeafstandslopers,20,6,17,171,71,True,19,2,16,12,3,0,1,11,10
+10.000 meter,Kerz Mila,5339556,27,Deutschland,Vrouw,13780,Langeafstandslopers,20,6,19,164,55,True,16,1,17,12,4,3,3,10,9
+Onbekend,Hart Sophia,5539013,18,United States,Vrouw,2060,Springers,20,1,15,171,78,True,17,2,2,1,10,10,3,7,6
+Onbekend,Pruitt Sebastian,5542399,18,United States,Man,6410,Springers,20,2,15,170,80,True,19,4,3,2,14,9,3,6,7
+Onbekend,Marinucci Betta,5551079,18,Italia,Vrouw,4170,Langeafstandslopers,20,2,15,172,78,True,8,3,14,8,3,3,1,7,7
+Onbekend,Carpani Vito,5581473,18,Italia,Man,5280,Snelwandelaars,20,1,14,183,91,True,13,1,15,3,1,1,2,6,5
+Onbekend,Semeraro Delfina,5555818,18,Italia,Vrouw,9840,Snelwandelaars,20,2,15,180,82,True,18,2,16,3,2,3,2,9,8
+Zevenkamp,Rovaris Orietta,5536161,19,Italia,Vrouw,1570,Meerkampers,20,2,19,180,82,True,18,3,3,5,5,7,7,7,9
+Onbekend,Espejo Nora,5554465,19,España,Vrouw,3470,Snelwandelaars,20,1,14,174,78,True,20,3,7,3,12,2,1,5,7
+400 meter,Kuusk Evelin,5579928,18,Eesti,Vrouw,1110,Sprinters,20,2,18,169,73,True,12,8,2,9,6,2,4,6,8
+Vijfkamp Vrouwen,Afinogenova Snezhana,5585815,18,Rossiya,Vrouw,2290,Meerkampers,20,2,18,166,70,True,10,1,2,10,2,6,11,7,4
+Onbekend,Rissone Luciano,5606556,18,Italia,Man,2620,Langeafstandslopers,20,1,15,176,79,True,11,1,12,3,2,1,2,8,6
+Marathon,Brás Firmina,5383724,24,Portugal,Vrouw,9140,Langeafstandslopers,20,6,19,168,63,True,17,2,15,2,0,2,1,10,10
+110 meter horden,Hebert Evan,5454983,22,United States,Man,6700,Sprinters,20,4,18,163,74,True,11,4,2,15,11,3,1,8,7
+100 meter horden,Hernandez Emily,5458469,22,United States,Vrouw,9120,Sprinters,20,3,18,173,71,True,20,1,1,16,10,1,2,6,7
+100 meter,Remington Tiffany,5445664,22,United States,Vrouw,5770,Sprinters,20,4,18,178,75,True,20,9,3,14,2,3,4,7,8
+400 meter horden,Rose Mariah,5411401,22,United States,Vrouw,9690,Sprinters,20,4,16,184,90,True,18,7,2,16,8,4,1,10,8
+800 meter,LaBorde Raymond,5431979,22,United States,Man,8460,Middenafstandslopers,20,4,17,186,90,True,10,1,10,15,2,1,1,8,9
+1.500 meter,Montgomery Marissa,5422501,22,United States,Vrouw,3620,Middenafstandslopers,20,4,19,165,71,True,11,1,13,10,1,5,2,8,7
+Onbekend,Ventilii Gelsomina,5586399,18,Italia,Vrouw,1930,Meerkampers,20,1,14,177,79,True,19,7,1,9,7,2,3,6,8
+10.000 meter,Ochoa Cassandra,5453440,22,United States,Vrouw,6630,Langeafstandslopers,20,3,17,171,65,True,14,3,15,9,1,1,2,7,9
+20 km snelwandelen,Ferraz Ernesto,5432988,22,Portugal,Man,6830,Snelwandelaars,20,3,18,175,88,True,15,3,15,2,9,0,5,8,9
+50 km snelwandelen,Raide Illimar,5439507,22,Eesti,Man,8100,Snelwandelaars,20,4,19,186,90,True,14,1,16,1,1,3,3,8,7
+Discuswerpen,Acevedo Sophia,5467866,22,United States,Vrouw,4070,Werpers,20,4,19,179,77,True,19,13,3,2,2,3,9,7,9
+Tienkamp,Zamora Ethan,5459596,22,United States,Man,2300,Meerkampers,20,3,17,178,81,True,18,11,2,6,7,3,6,8,6
+Vijfkamp Vrouwen,McCoy Amelia,5440930,22,United States,Vrouw,4360,Meerkampers,20,4,18,180,80,True,16,10,3,12,7,2,1,9,7
+Hinkstapspringen,Cetuvel Nádia,5229673,29,Portugal,Vrouw,23540,Springers,20,9,18,182,74,True,16,3,1,3,17,17,2,8,9
+100 meter,Altieri Nando,5606442,18,Italia,Man,1900,Sprinters,20,2,18,176,78,True,17,4,2,10,1,1,1,8,8
+Discuswerpen,Scheck Anni,4964415,34,Deutschland,Vrouw,9680,Werpers,20,10,18,183,78,True,20,15,3,0,4,0,13,9,8
+Onbekend,van Buren Marit,5603090,18,Nederland,Vrouw,1450,Springers,20,1,16,164,64,True,12,3,3,2,7,10,5,6,8
+5.000 meter,van der Bilt Roosje,5588535,18,Nederland,Vrouw,3300,Langeafstandslopers,20,2,20,172,71,True,20,2,12,2,3,3,2,5,9
+Onbekend,van Loon Imke,5520175,19,Nederland,Vrouw,1130,Werpers,20,3,19,180,83,True,13,8,2,4,1,1,8,8,6
+Polsstokhoogspringen,Belkaid Fatima,5464985,22,Al-Maghrib,Vrouw,2410,Springers,20,4,19,176,68,True,17,2,1,1,9,8,3,8,10
+Kogelstoten,Cavazzoni Cosimo,5419382,22,Italia,Man,28840,Werpers,20,4,20,176,85,True,18,20,3,0,3,3,5,11,7
+400 meter,van der Lee Patrick,5420098,23,Nederland,Man,4180,Sprinters,20,3,19,187,85,True,19,7,0,13,5,3,3,8,5
+Onbekend,Fogaça Samuel,5571204,18,Portugal,Man,1510,Sprinters,20,2,15,188,91,True,7,3,6,11,2,0,4,8,7
+Onbekend,Abrunhosa Severino,5581369,18,Portugal,Man,640,Springers,20,1,15,173,83,True,9,1,3,5,4,8,3,7,6
+400 meter horden,Voksakis Triantafilos,5248973,27,Hellas,Man,5860,Sprinters,20,6,17,170,71,True,18,7,3,13,2,2,3,11,10
+Onbekend,Crato Eugénio,5647286,18,Portugal,Man,630,Zonder specialiteit,15,1,15,159,62,True,18,6,3,1,2,3,3,0,0
+Onbekend,Semedo César,5640812,18,Portugal,Man,970,Zonder specialiteit,16,1,15,184,89,True,19,1,7,7,2,2,1,0,0
+Onbekend,Alvim Ana Cristina,5643586,18,Portugal,Vrouw,100,Zonder specialiteit,18,1,15,183,81,True,10,2,2,5,2,1,3,0,0
+Speerwerpen,Amici Emanuel,5053485,32,Italia,Man,21290,Werpers,20,13,14,190,87,True,17,14,1,2,4,0,18,10,10
+50 km snelwandelen,Muros Cecilia,5079515,33,España,Vrouw,20580,Snelwandelaars,20,8,17,178,71,True,19,1,18,2,2,0,0,12,11
+1.500 meter,Pizarro Amancio,5282237,28,España,Man,14860,Middenafstandslopers,20,7,18,178,76,True,17,3,14,5,3,2,1,13,14
+5.000 meter,Mateo Andrea,4871108,38,España,Vrouw,10930,Langeafstandslopers,16,11,15,176,62,True,18,0,16,5,0,0,0,9,9
+10 km snelwandelen,Etxeberría Erlantz,5204467,30,España,Man,11000,Snelwandelaars,20,7,16,162,62,True,19,0,16,2,5,2,0,10,8
+Verspringen,Jadraque Urtzi,5006738,34,España,Man,10240,Springers,19,12,20,177,69,True,17,0,0,2,5,14,0,11,12
+Verspringen,Pasabán Raquel,5189568,29,España,Vrouw,17160,Springers,20,9,16,174,69,True,17,2,1,1,4,16,0,12,13
+Vijfkamp Mannen,Zamudio Benito,5194044,31,España,Man,3720,Meerkampers,20,8,16,172,61,True,20,11,2,9,3,7,5,10,8
+Vijfkamp Vrouwen,Escolano Coral,5167542,30,España,Vrouw,3520,Meerkampers,20,8,15,163,59,True,16,10,7,10,2,4,10,8,8
+10 km snelwandelen,van Bree Jurre,5111140,31,Nederland,Man,6240,Snelwandelaars,20,7,16,184,88,True,18,0,12,0,5,0,0,11,11
+Onbekend,Pagavino Armando,5511261,19,Italia,Man,2290,Werpers,20,2,18,184,88,True,6,10,3,2,2,1,10,9,7
+Vijfkamp Vrouwen,Mastroianni Marilena,4983162,34,Italia,Vrouw,7940,Meerkampers,20,9,18,182,71,True,18,15,8,7,1,5,5,10,8
+Onbekend,Celotto Giannina,5585384,18,Italia,Vrouw,1880,Sprinters,18,2,18,177,76,True,8,1,6,12,1,3,5,5,4
+10.000 meter,Cotini Ivana,4964245,34,Italia,Vrouw,26260,Langeafstandslopers,20,13,16,176,55,True,17,0,17,16,0,0,0,11,11
+Speerwerpen,Beier Detlev,5187194,30,Deutschland,Man,10960,Werpers,20,8,16,176,70,True,18,11,2,0,4,5,14,11,13
+Onbekend,Zulaica Bieito,5508112,20,España,Man,600,Langeafstandslopers,19,2,19,186,98,True,10,2,6,4,1,1,1,3,8
+20 km snelwandelen,Lorenzo Julene,4721083,41,España,Vrouw,35620,Snelwandelaars,16,16,18,176,61,True,19,0,20,0,0,0,0,9,13
+Onbekend,Haidane Ambrogia,5548829,18,Italia,Vrouw,1540,Werpers,19,2,14,179,81,True,6,10,2,1,3,2,9,6,6
+800 meter,Borges Isabel,5364916,26,España,Vrouw,9900,Middenafstandslopers,20,5,17,178,68,True,20,3,9,13,2,1,3,12,12
+3.000 meter steeplechase,Hawthorne Freya,5495139,20,Great Britain,Vrouw,2620,Middenafstandslopers,20,4,16,170,78,True,10,2,10,9,7,1,1,10,9
+Onbekend,Sbragia Sean,5590387,17,Great Britain,Man,1420,Meerkampers,20,2,15,186,91,True,15,2,1,11,6,2,1,6,6
+20 km snelwandelen,Stuart Jack,5590359,25,Great Britain,Man,2730,Snelwandelaars,20,2,15,180,83,True,16,2,10,3,3,1,1,11,6
+Vijfkamp Vrouwen,Arango Isabel,5579686,18,Colombia,Vrouw,2000,Meerkampers,20,3,16,172,76,True,13,5,2,11,4,0,0,8,6
+50 km snelwandelen,Walker Rene,5513280,20,South Africa,Vrouw,4610,Snelwandelaars,20,3,17,166,74,True,17,2,13,1,5,4,3,10,9
+20 km snelwandelen,Koreňová Stanislava,5538299,19,Slovensko,Vrouw,4250,Snelwandelaars,20,3,17,166,73,True,18,1,13,4,4,3,2,8,10
+Marathon,Neymour Des,5525769,20,Bahamas,Man,3950,Langeafstandslopers,20,4,16,185,91,True,18,2,13,3,1,3,2,6,6
+Onbekend,Sinclair Dalton,5602796,18,United States,Man,6920,Langeafstandslopers,14,1,12,184,85,True,19,2,15,2,0,3,3,4,5
+Hoogspringen,Bragadóttir Jana,5503932,22,Ísland,Vrouw,2060,Springers,20,3,16,179,73,True,13,2,2,2,2,11,2,5,8
+Onbekend,Bueno Angela,5571470,19,Uruguay,Vrouw,1540,Springers,20,2,17,183,83,True,14,2,2,1,10,9,1,5,5
+Onbekend,Zamudio Águeda,5652294,18,España,Vrouw,1880,Werpers,19,1,14,154,52,True,19,10,1,0,4,3,9,6,6
+Onbekend,Lardiés Hodei,5544543,20,España,Man,2020,Werpers,20,1,11,180,81,True,20,11,4,2,2,0,6,4,4
+Onbekend,Gordillo Isaías,5449784,21,España,Man,1170,Meerkampers,20,2,11,182,89,True,14,8,4,5,10,4,1,7,6
+Onbekend,Concepción Marimar,5419232,24,España,Vrouw,1360,Meerkampers,20,3,11,162,61,True,9,10,3,3,9,2,4,7,8
+Onbekend,Maloney Holly,5570496,18,Great Britain,Vrouw,940,Werpers,19,1,15,167,73,True,7,9,1,0,2,6,8,6,6
+Onbekend,Fitchie Robert,5568223,18,Great Britain,Man,1390,Springers,20,2,17,182,91,True,10,3,1,3,7,8,1,8,9
+Onbekend,Durie Kayla,5596580,17,Great Britain,Vrouw,640,Sprinters,20,1,16,175,77,True,12,9,2,6,3,0,1,5,7
+110 meter horden,Henao Arsenio,4906403,39,España,Man,5050,Sprinters,18,15,15,174,69,True,17,0,0,8,2,0,0,8,8
+Vijfkamp Mannen,Lampreave Manex,5038644,33,España,Man,6270,Meerkampers,20,12,11,180,76,True,14,3,1,0,3,1,9,12,11
+10 km snelwandelen,Monje Arrate,5208291,31,España,Vrouw,3140,Snelwandelaars,20,5,13,167,59,True,15,0,12,1,2,2,4,8,9
+10 km snelwandelen,Sarriegi Abigail,4874567,39,España,Vrouw,10160,Snelwandelaars,16,16,13,172,54,True,18,0,8,3,0,0,0,12,11
+10 km snelwandelen,Traba Hugo,5550981,18,España,Man,1530,Snelwandelaars,19,2,16,190,100,True,6,7,10,2,5,1,1,8,8
+Onbekend,Davidson Brandon,5550929,19,Jamaica,Man,2690,Sprinters,18,2,18,180,86,True,6,3,6,12,3,2,2,5,9
+Onbekend,Day Marlon,5492598,20,Jamaica,Man,5170,Sprinters,20,2,18,190,97,True,8,5,1,14,3,1,3,8,7
+Polsstokhoogspringen,Bell Juvenne,5263046,28,Jamaica,Vrouw,14710,Springers,18,9,16,167,62,True,12,3,6,2,8,17,2,10,10
+Kogelslingeren,McPhee Ray,5301262,25,Jamaica,Man,8680,Werpers,20,7,16,178,91,True,11,11,4,1,2,1,14,9,11
+Verspringen,Symonette Ananda,5115041,31,Jamaica,Vrouw,9810,Springers,20,13,17,187,72,True,14,2,0,4,8,15,1,10,7
+Vijfkamp Vrouwen,Dzięcioł Iwona,5322604,26,Polska,Vrouw,4270,Meerkampers,20,5,19,172,65,True,16,8,2,10,3,12,2,9,9
+10.000 meter,Karamoula Melaxrini,5536790,20,Hellas,Vrouw,4810,Langeafstandslopers,20,2,19,177,68,True,15,3,14,3,2,0,3,7,8
+Onbekend,Tentomas Gabriil,5647404,18,Hellas,Man,1540,Werpers,19,1,14,190,95,True,15,5,3,2,2,3,11,8,5
+Onbekend,Heumann Janine,5551430,18,Deutschland,Vrouw,1440,Zonder specialiteit,20,2,15,172,75,True,17,3,0,1,9,10,2,0,0
+Onbekend,Muth Bodo,5601080,18,Deutschland,Man,850,Zonder specialiteit,20,1,15,184,86,True,17,9,3,2,2,2,6,0,0
+Onbekend,Homuth Ryan,5633709,18,Deutschland,Man,1580,Meerkampers,20,1,14,176,78,True,15,10,9,4,1,3,1,7,5
+Onbekend,Lotito Krizia,5627709,18,Italia,Vrouw,2080,Sprinters,20,1,13,177,76,True,11,3,3,12,2,2,2,6,8
+Onbekend,Perrone Giuliano,5633621,18,Italia,Man,2270,Langeafstandslopers,17,1,14,164,70,True,11,1,11,2,9,3,1,7,6
+Onbekend,Beati Luciana,5639657,18,Italia,Vrouw,1090,Werpers,20,1,13,169,71,True,18,5,2,2,2,1,9,6,6
+Onbekend,Mauser Elfi,5624428,17,Deutschland,Vrouw,1360,Meerkampers,20,1,16,156,55,True,18,8,1,4,5,3,2,8,6
+Kogelslingeren,Centurelli Christian,5484254,20,Italia,Man,850,Werpers,20,1,16,181,93,True,9,3,3,1,4,2,9,7,8
+50 km snelwandelen,Salmerón Isolda,5379949,23,España,Vrouw,31560,Snelwandelaars,20,5,15,186,76,True,20,2,20,2,3,2,2,13,12
+400 meter horden,Ridolfo Gabriella,5002817,35,Italia,Vrouw,11770,Sprinters,18,12,16,177,69,True,18,9,0,16,8,0,0,10,7
+5.000 meter,Soyer Jean-Paul,5119980,32,France,Man,6590,Langeafstandslopers,20,9,17,179,77,True,14,1,14,8,2,0,1,10,10
+Polsstokhoogspringen,Masson Louis,5106272,34,France,Man,7840,Springers,20,9,16,183,84,True,15,3,0,0,15,6,1,10,8
+Onbekend,Melillo Celeste,5539414,18,Italia,Man,3670,Springers,20,2,15,194,107,True,14,1,2,0,3,13,3,7,7
+Onbekend,Raddi Antonello,5562398,18,Italia,Man,2720,Werpers,20,2,15,166,76,True,17,12,3,3,3,3,8,8,7
+Kogelstoten,Harrison Alfred,5211081,30,Jamaica,Man,12140,Werpers,20,11,16,185,78,True,12,13,4,1,0,3,15,11,10
+Onbekend,Celades Nàdia,5651472,17,España,Vrouw,1610,Meerkampers,20,1,15,172,72,True,19,3,3,8,1,1,8,8,6
+110 meter horden,Thrane Magnus,5185801,34,Danmark,Man,18130,Sprinters,18,12,18,190,70,True,19,7,0,18,6,0,0,8,8
+Discuswerpen,Soelberg Bente,4866380,37,Danmark,Vrouw,27710,Werpers,18,17,18,179,64,True,15,18,0,0,0,0,11,8,8
+Onbekend,Laurel Bituin,5605700,17,Pilipinas,Vrouw,1200,Sprinters,20,1,15,183,84,True,16,2,0,10,2,1,3,6,7
+400 meter,Paeseler Bert,4920527,36,Deutschland,Man,45960,Sprinters,19,16,16,185,69,True,20,15,0,19,0,0,0,16,10
+1.500 meter,Altamirano Magtanggol,5532894,21,Pilipinas,Man,1310,Middenafstandslopers,20,2,16,177,69,True,18,3,4,9,3,3,1,7,8
+200 meter,Mpirlaki Areti,5277043,27,Hellas,Vrouw,24210,Sprinters,19,6,17,162,54,True,20,6,2,19,5,2,2,11,11
+1.500 meter,Imran Adi,5510557,23,Malaysia,Man,2870,Middenafstandslopers,20,4,16,179,67,True,19,2,10,10,2,3,3,9,8
+1.500 meter,Abdul Salam Aishah,5527344,20,Malaysia,Vrouw,1700,Middenafstandslopers,20,2,16,158,63,True,18,8,8,5,2,1,2,7,9
+1.500 meter,Elorde Lilibeth,5528722,21,Pilipinas,Vrouw,1820,Middenafstandslopers,20,2,13,182,69,True,17,8,10,3,1,1,3,8,5
+20 km snelwandelen,Hönlinger Sebastian,5316420,28,Österreich,Man,18140,Snelwandelaars,20,9,15,185,81,True,15,2,18,4,9,0,3,10,12
+Marathon,Pekey Khalid,5492783,24,Indonesia,Man,4890,Langeafstandslopers,20,4,18,165,58,True,17,3,12,4,2,1,2,9,11
+Onbekend,Hubalde Maricel,5577828,20,Pilipinas,Vrouw,2190,Langeafstandslopers,20,1,16,159,57,True,16,7,11,2,3,2,2,9,6
+50 km snelwandelen,Hierba Margarida,5229628,27,España,Vrouw,19680,Snelwandelaars,20,8,19,189,49,True,15,3,18,4,9,3,3,12,10
+50 km snelwandelen,Camaso Cherry,5354084,25,Pilipinas,Vrouw,11230,Snelwandelaars,20,6,15,163,57,True,20,2,16,2,2,3,3,10,10
+10 km snelwandelen,Hu Eva,5561501,20,Singapore,Vrouw,3180,Snelwandelaars,20,2,17,161,60,True,19,8,12,0,0,3,1,8,7
+Hinkstapspringen,Georgitsas Filippos,5188726,30,Hellas,Man,21990,Springers,19,8,17,176,74,True,15,0,2,1,17,16,2,8,11
+Onbekend,Roekito Hedi,5599098,19,Indonesia,Man,1980,Springers,20,1,16,162,64,True,19,3,9,2,3,9,3,5,8
+Verspringen,Peh Megan,5576462,18,Singapore,Vrouw,2030,Springers,20,2,15,171,79,True,17,1,10,2,2,10,3,7,7
+Kogelslingeren,Banal Arvin,5526351,20,Pilipinas,Man,2390,Werpers,20,3,16,168,77,True,20,2,7,2,1,2,8,8,9
+Speerwerpen,Fais Yonas,5381233,25,Indonesia,Man,5910,Werpers,20,6,14,169,79,True,19,7,1,3,2,3,12,10,11
+Onbekend,Dayat Bryna,5615052,18,Indonesia,Vrouw,1770,Werpers,20,1,16,173,74,True,17,2,3,10,3,2,7,9,6
+Onbekend,Di Pietropaolo Matteo,5366097,25,Italia,Man,1500,Sprinters,20,1,11,185,84,True,11,4,3,11,2,2,0,5,8
+Onbekend,Corvo Fiorella,5352218,24,Italia,Vrouw,1200,Sprinters,19,1,11,182,75,True,15,3,4,10,6,3,4,5,5
+Onbekend,Tarantino Cinzia,5339137,25,Italia,Vrouw,1460,Sprinters,20,1,11,165,63,True,16,2,4,9,9,2,1,7,5
+Onbekend,Azzarelli Delfina,5174516,35,Italia,Vrouw,670,Middenafstandslopers,11,4,11,182,93,True,13,0,3,9,0,0,0,7,6
+Onbekend,Cerroni Gavino,5287966,26,Italia,Man,2250,Langeafstandslopers,18,1,11,173,79,True,16,12,6,4,4,2,2,7,6
+Onbekend,Giovi Marcolini Morena,5328944,27,Italia,Vrouw,1030,Langeafstandslopers,14,1,11,162,60,True,11,7,10,4,4,6,3,6,6
+Onbekend,Satireyo Vittoria,5333270,25,Italia,Vrouw,1530,Langeafstandslopers,18,2,11,173,65,True,18,4,10,2,3,2,0,6,6
+Onbekend,Frati Walter,5369479,24,Italia,Man,1660,Snelwandelaars,19,2,11,173,76,True,19,3,10,3,6,1,4,5,6
+Onbekend,Garzi Massimiliano,5460922,21,Italia,Man,990,Springers,15,1,11,179,90,True,9,2,3,3,5,10,1,5,5
+Onbekend,Oldani Marzia,5281208,26,Italia,Vrouw,930,Springers,15,2,11,180,78,True,10,6,3,6,4,10,3,6,6
+Onbekend,Salvini Stefania,5489671,21,Italia,Vrouw,1430,Springers,20,1,11,166,69,True,17,2,3,2,4,9,0,8,8
+Onbekend,Casamassima Simone,5336422,27,Italia,Man,1240,Werpers,10,1,11,169,83,True,6,10,2,2,3,1,4,7,9
+Onbekend,Merli Mario,5386984,23,Italia,Man,2560,Werpers,19,1,11,173,71,True,18,8,1,2,2,1,9,10,9
+Onbekend,Guzzi Cinzia,5342985,26,Italia,Vrouw,1330,Werpers,15,1,11,163,66,True,7,10,3,4,2,2,9,7,4
+Onbekend,Incitti Eugenio,5409609,23,Italia,Man,1680,Meerkampers,20,1,11,170,75,True,19,8,4,4,9,2,1,8,7
+Onbekend,Manteuffel Martha,5593360,18,Deutschland,Vrouw,2260,Springers,20,1,15,168,69,True,12,8,1,3,8,11,2,8,8
+Onbekend,Kämpfer Rosi,5599937,18,Deutschland,Vrouw,2240,Sprinters,20,1,15,175,71,True,15,8,1,11,2,0,2,8,6
+5.000 meter,Rolland Abbi,5524871,20,Great Britain,Vrouw,1680,Langeafstandslopers,20,2,17,176,73,True,16,3,9,9,4,3,2,7,8
+Onbekend,Segarra Ithaisa,5566189,18,España,Vrouw,1340,Sprinters,20,2,14,174,77,True,14,3,2,6,3,4,1,10,8
+200 meter,Flores Luis,5554830,19,El Salvador,Man,2390,Sprinters,20,2,20,189,93,True,10,9,2,11,3,2,3,8,9
+Onbekend,Carpani Alvaro,5574019,18,Italia,Man,650,Meerkampers,20,1,15,177,85,True,13,7,3,4,8,1,2,6,7
+5.000 meter,Pestelli Sabrina,5151513,31,Italia,Vrouw,21950,Langeafstandslopers,20,7,19,181,64,True,18,2,18,6,0,0,2,12,12
+10 km snelwandelen,Palucci Anteo,5048692,32,Italia,Man,14880,Snelwandelaars,20,8,20,190,82,True,12,0,16,2,9,0,2,13,10
+Kogelslingeren,Guigou Aracelia,5469718,22,Uruguay,Vrouw,2260,Werpers,20,7,17,181,79,True,17,9,5,2,1,2,9,8,9
+100 meter,Silva Ignazio,5468081,25,Uruguay,Man,3230,Sprinters,20,7,16,175,80,True,14,6,2,10,2,1,0,9,11
+110 meter horden,Vázquez Salomon,5468082,25,Uruguay,Man,3980,Sprinters,20,7,19,173,69,True,11,4,1,13,9,3,1,9,6
+Onbekend,Hansen Amelie,5641449,18,Great Britain,Vrouw,1710,Snelwandelaars,19,1,16,175,71,True,17,3,10,3,8,2,1,5,7
+Hoogspringen,Cairns Ethan,4937541,37,Great Britain,Man,9420,Springers,20,15,17,189,57,True,19,0,0,4,6,12,0,11,10
+10.000 meter,Morrison Elliot,4877767,37,Great Britain,Man,23280,Langeafstandslopers,19,16,11,182,55,True,16,0,15,16,0,0,0,13,9
+Onbekend,Boucher Kasper,5546424,18,België,Man,8480,Snelwandelaars,20,2,16,190,101,True,17,3,16,1,2,6,2,7,6
+Onbekend,Hilke Sami,5578326,18,België,Man,1570,Meerkampers,20,1,18,180,90,True,16,7,3,10,2,2,3,6,8
+Onbekend,Van Heyste Ysaline,5603079,18,België,Vrouw,1570,Werpers,20,1,18,167,70,True,18,9,4,2,3,3,8,8,6
+Onbekend,Van Eeckhoutte Ryan,5543216,18,België,Man,2690,Meerkampers,20,2,15,186,98,True,15,7,2,12,3,2,3,7,8
+Onbekend,Marconcini Rocco,5607611,18,Italia,Man,2760,Sprinters,20,1,18,168,77,True,13,9,3,12,3,2,2,6,6
+Onbekend,Salvalai Lucrezia,5607617,17,Italia,Vrouw,2340,Sprinters,20,2,19,182,83,True,17,7,2,12,2,2,0,6,6
+Onbekend,Pancera Melania,5628242,16,Italia,Vrouw,1040,Springers,13,1,14,159,55,True,7,3,3,7,4,10,3,5,5
+Speerwerpen,Belotti Flavia,5266967,26,Italia,Vrouw,35550,Werpers,20,8,18,187,87,True,18,18,1,1,2,5,19,11,11
+Kogelstoten,Haase Sabri,5505948,31,België,Man,1430,Werpers,19,4,17,195,96,True,12,7,0,0,1,0,7,8,10
+Discuswerpen,Garbers Laureen,5465581,22,Deutschland,Vrouw,9480,Werpers,20,4,19,173,79,True,16,14,4,3,3,1,15,5,8
+Hoogspringen,Kostka Grażyna,5419468,22,Polska,Vrouw,3700,Springers,20,3,20,183,81,True,15,3,3,0,11,11,1,9,9
+50 km snelwandelen,Rial Florencia,5057597,32,Argentina,Vrouw,18840,Snelwandelaars,20,11,15,187,66,True,20,0,16,9,3,7,1,13,13
+400 meter,Kuijpers Stijn,5050122,32,Nederland,Man,9170,Sprinters,19,10,17,194,88,True,12,7,1,14,1,0,2,12,12
+200 meter,Boerkamps Mason,5398106,25,Nederland,Man,7000,Sprinters,20,5,18,183,75,True,10,4,3,12,2,2,2,12,12
+Onbekend,Ottoni Irma,5597794,18,Italia,Vrouw,2790,Langeafstandslopers,20,2,19,180,77,True,16,1,12,3,3,4,3,7,5
+Onbekend,Brood Ankie,5589429,18,Nederland,Vrouw,1000,Meerkampers,20,1,14,179,78,True,18,5,5,5,2,4,4,8,7
+Onbekend,Artigas Isabel,5556587,18,España,Vrouw,1650,Middenafstandslopers,20,2,14,172,75,True,13,9,11,5,1,3,3,7,6
+400 meter,Huyan Yuyu,5128766,31,China,Man,39780,Sprinters,20,14,15,185,84,True,17,17,2,20,2,1,1,10,10
+Onbekend,Thirkell Hugh,5600055,18,Australia,Man,900,Middenafstandslopers,19,2,15,173,81,True,9,6,8,9,3,1,1,7,4
+Onbekend,Meany Eliza,5618442,18,Australia,Vrouw,1370,Langeafstandslopers,18,1,14,178,76,True,8,2,11,8,3,4,2,5,7
+Onbekend,Maher Kamilah,5623083,17,Miṣr,Vrouw,1730,Springers,20,1,15,155,53,True,9,1,3,1,10,10,2,7,8
+Onbekend,Weil Concepción,5616913,18,Chile,Vrouw,1480,Springers,20,1,14,170,73,True,14,3,3,3,9,10,3,5,6
+Onbekend,Abercrombie John,5607802,18,Australia,Man,1410,Werpers,19,1,15,177,81,True,8,10,2,3,3,1,8,6,9
+Onbekend,Pulgar Olwin,5614764,17,Venezuela,Man,1840,Werpers,19,1,15,180,79,True,8,10,1,3,0,3,10,7,7
+Kogelslingeren,Goulburn Levi,5467545,21,Australia,Man,3190,Werpers,20,4,16,164,72,True,6,12,2,2,1,3,10,8,7
+Onbekend,Holguín Ithaisa,5552067,18,España,Vrouw,4220,Werpers,20,2,13,186,91,True,6,14,3,3,2,1,8,5,8
+10 km snelwandelen,Fitz Sören,5478228,22,Deutschland,Man,3780,Snelwandelaars,20,3,17,180,82,True,14,0,13,2,8,3,3,8,6
+Onbekend,Preisser Selina,5652132,17,Deutschland,Vrouw,1140,Springers,12,1,15,166,63,True,9,2,2,1,10,6,2,6,8
+Discuswerpen,Butina Toma,4946080,38,Hrvatska,Man,9820,Werpers,20,14,16,175,64,True,20,9,0,0,0,0,14,10,7
+Onbekend,Liebold Sophie,5652135,15,Deutschland,Vrouw,1080,Werpers,19,1,16,162,57,True,12,10,2,1,3,0,3,7,8
+Onbekend,Wolter Helmut,5569334,17,Deutschland,Man,660,Werpers,20,1,15,187,95,True,16,5,3,2,1,3,6,5,8
+Tienkamp,Eller Per,5488351,22,Deutschland,Man,1270,Meerkampers,20,4,18,189,91,True,14,8,1,5,4,9,3,8,7
+Onbekend,Mönch Carl,5662941,18,Deutschland,Man,1080,Werpers,15,1,16,169,71,True,15,4,3,2,8,4,9,3,7
+10.000 meter,Basualdo Camila,5299398,26,Argentina,Vrouw,14990,Langeafstandslopers,20,7,18,175,68,True,17,1,16,4,1,3,2,13,10
+Zevenkamp,Neilson Demi,5567749,22,Great Britain,Vrouw,2090,Meerkampers,20,3,19,169,66,True,18,8,2,4,4,2,10,6,7
+10.000 meter,Barroso Diamantino,5393318,23,Portugal,Man,8790,Langeafstandslopers,19,6,18,177,86,True,17,5,16,4,2,7,2,5,6
+Discuswerpen,Conrado Tadeu,5447002,22,Brasil,Man,4490,Werpers,20,4,16,182,85,True,10,11,2,3,2,1,13,6,7
+Onbekend,Wolinsky Kosma,5662641,18,Ukrajina,Man,1400,Snelwandelaars,11,1,17,171,74,True,14,3,11,2,7,3,0,6,5
+Onbekend,Martínez Margarita,5602757,18,Argentina,Vrouw,1970,Meerkampers,20,1,15,163,64,True,18,10,1,7,1,7,2,5,8
+100 meter,Madurga Mateo,5429580,22,España,Man,5520,Sprinters,20,5,14,181,81,True,19,11,2,13,2,1,0,9,9
+20 km snelwandelen,Casarsa Alessio,5200009,31,Italia,Man,18690,Snelwandelaars,20,8,18,175,65,True,17,2,15,1,5,1,2,14,14
+1.500 meter,Strēlniece Jadviga,5290982,27,Latvija,Vrouw,15650,Middenafstandslopers,20,7,18,170,70,True,17,1,18,8,3,6,3,10,8
+Onbekend,Lelong Morgane,5659349,18,France,Vrouw,1230,Zonder specialiteit,12,1,14,156,56,True,14,1,3,3,10,3,8,0,0
+200 meter,Plaza Tanausú,5084104,32,España,Man,6200,Sprinters,20,10,11,179,73,True,20,3,0,8,0,1,1,13,10
+Vijfkamp Mannen,Ahmad Peter,5542432,18,Danmark,Man,2760,Meerkampers,20,2,18,177,94,True,15,3,1,1,2,10,12,6,7
+Onbekend,Horta Hilário,5587433,19,Portugal,Man,610,Werpers,17,1,15,182,86,True,10,6,1,2,1,3,8,7,7
+Kogelstoten,Guterres Teodósio,5590119,20,Portugal,Man,910,Werpers,17,2,15,179,85,True,9,7,3,3,2,2,5,7,9
+3.000 meter steeplechase,Dudás Töhötöm,5551691,18,Magyarország,Man,2800,Middenafstandslopers,20,3,19,190,99,True,16,3,12,7,2,1,1,7,6
+50 km snelwandelen,Bottiglieri Giovanna,5257558,27,Italia,Vrouw,31530,Snelwandelaars,20,7,19,173,74,True,16,2,20,2,7,0,2,7,10
+50 km snelwandelen,Maes Sofie,5244613,27,België,Vrouw,23350,Snelwandelaars,20,7,16,162,62,True,18,3,19,2,2,3,3,10,13
+Tienkamp,Spanò Leopoldo,5186265,29,Italia,Man,17520,Meerkampers,20,8,18,182,80,True,20,10,1,18,5,4,1,9,8
+Vijfkamp Mannen,Kaliotis Arximidis,5205462,29,Hellas,Man,8720,Meerkampers,19,7,20,170,75,True,18,7,8,15,3,7,0,9,10
+Onbekend,Michel Rolf Jürgen,5575922,18,Deutschland,Man,2080,Langeafstandslopers,20,2,17,187,81,True,16,2,10,8,3,1,4,8,9
+400 meter,Schiebler Lars,5565959,18,Deutschland,Man,2910,Sprinters,20,2,18,190,102,True,16,4,5,11,3,3,3,9,9
+Onbekend,Koenig Alena,5535988,18,Deutschland,Vrouw,2200,Sprinters,20,2,17,170,79,True,14,6,1,10,3,1,3,9,9
+Onbekend,Herrlich Peer,5597792,18,Deutschland,Man,1700,Middenafstandslopers,17,2,18,165,73,True,7,1,11,8,0,3,2,7,5
+Onbekend,Korzeniowski Władysław,5559590,18,Polska,Man,1930,Middenafstandslopers,20,2,17,177,83,True,7,1,9,10,2,1,1,5,9
+Onbekend,Marquardt Heinrich,5579254,18,Deutschland,Man,2210,Middenafstandslopers,20,2,16,188,98,True,15,4,9,10,1,7,1,9,8
+3.000 meter steeplechase,Padovani Brigitta,5566658,18,Italia,Vrouw,1780,Middenafstandslopers,20,2,17,185,87,True,18,3,8,7,6,2,3,9,8
+Onbekend,Fernandes Jaron,5593652,18,Deutschland,Man,1740,Langeafstandslopers,16,2,15,179,83,True,6,2,11,8,3,1,1,9,5
+Onbekend,Biedebach Bettina,5546976,18,Deutschland,Vrouw,3760,Langeafstandslopers,20,2,15,175,64,True,7,1,12,9,4,2,3,10,8
+20 km snelwandelen,Lennon Riley,5568205,18,Great Britain,Man,2860,Snelwandelaars,20,2,19,189,78,True,17,1,11,3,3,0,1,9,9
+Onbekend,Wengler Tim,5614098,18,Deutschland,Man,1620,Snelwandelaars,16,1,16,176,82,True,10,1,11,2,2,0,1,7,7
+Hinkstapspringen,Glötter Marlies,5554307,18,Deutschland,Vrouw,1940,Springers,20,3,16,175,80,True,12,0,1,3,10,10,1,7,7
+Onbekend,Spitzauer Lana,5535987,18,Deutschland,Vrouw,2510,Springers,20,2,15,184,88,True,15,3,3,2,5,12,2,8,8
+Polsstokhoogspringen,Zhukov Stepan,5608165,19,Belarus,Man,1990,Springers,19,2,18,178,80,True,6,0,2,2,11,10,2,5,8
+Onbekend,Kloppa Yves,5603009,18,Deutschland,Man,2420,Werpers,19,1,15,193,98,True,11,12,2,3,2,2,10,6,4
+Onbekend,Weiser Anja,5607932,18,Deutschland,Vrouw,1930,Werpers,20,1,15,178,83,True,10,12,3,3,1,1,8,6,5
+Onbekend,Mitscherlich Dominic,5549491,18,Deutschland,Man,1130,Meerkampers,20,2,18,186,96,True,8,9,3,4,3,7,3,7,8
+Zevenkamp,Esters Selina,5526944,19,Deutschland,Vrouw,1750,Meerkampers,20,3,17,186,87,True,6,11,3,7,3,2,3,8,7
+Vijfkamp Vrouwen,Rudi Elif,5508225,19,Deutschland,Vrouw,1840,Meerkampers,20,3,18,183,88,True,16,7,8,8,4,6,3,9,7
+Zevenkamp,Schweitzer Ilana,5588504,18,Yisra'el,Vrouw,2230,Meerkampers,20,2,18,173,71,True,20,5,1,8,3,9,8,7,8
+Onbekend,Cicchi Giovanna,5607647,19,Italia,Vrouw,1730,Springers,20,2,20,179,74,True,11,3,1,5,7,10,2,9,8
+Vijfkamp Mannen,McGowan Tristan,4894842,38,United States,Man,6820,Meerkampers,20,13,16,183,74,True,19,0,0,7,0,3,8,11,12
+50 km snelwandelen,Guillaume Nadia,4783082,40,France,Vrouw,7290,Snelwandelaars,18,14,19,173,74,True,18,0,10,0,3,0,0,11,10
+5.000 meter,Murano Erika,5411726,24,Italia,Vrouw,9200,Langeafstandslopers,20,5,18,177,71,True,19,3,15,9,0,3,2,11,10
+200 meter,Suska Eliza,4888727,36,Polska,Vrouw,9780,Sprinters,20,13,17,172,72,True,20,7,0,12,0,0,0,13,11
+100 meter horden,Papaeti Loukia,5128172,31,Cyprus,Vrouw,19070,Sprinters,20,11,19,175,63,True,20,15,2,16,5,1,1,11,10
+400 meter,Pangu Yuqi,5020128,33,China,Vrouw,8390,Sprinters,16,10,17,177,64,True,19,12,0,14,1,0,0,10,8
+Onbekend,Iachini Abramo,5656419,17,Italia,Man,690,Sprinters,15,1,15,173,72,True,16,2,2,9,2,2,2,3,3
+Onbekend,Proserpio Peter,5650997,15,Italia,Man,400,Sprinters,20,1,13,166,65,True,14,2,2,6,3,2,3,7,6
+Onbekend,Tozzi Artemio,5643766,17,Italia,Man,1150,Sprinters,20,1,14,173,81,True,7,8,3,3,9,2,1,7,8
+Onbekend,Buticchi Giusi,5648723,15,Italia,Vrouw,860,Sprinters,19,1,13,174,69,True,18,1,1,6,3,1,1,7,7
+Onbekend,Dassi Filippo,5637225,15,Italia,Man,450,Middenafstandslopers,20,1,14,172,75,True,9,1,4,4,8,1,1,5,7
+Onbekend,Filippuzzi Mabel,5627721,16,Italia,Vrouw,640,Middenafstandslopers,17,1,15,172,65,True,11,6,7,1,2,2,2,8,7
+Onbekend,Zupin Diletta,5640716,17,Italia,Vrouw,1290,Middenafstandslopers,15,2,14,159,63,True,19,2,3,3,1,7,4,6,8
+Onbekend,Di Maio Fernando,5662182,15,Italia,Man,850,Langeafstandslopers,19,1,13,167,68,True,19,1,6,3,3,1,1,6,6
+Onbekend,Lombardo Giandomenico,5592646,17,Italia,Man,290,Langeafstandslopers,20,2,15,165,72,True,14,2,6,4,3,1,1,6,4
+Onbekend,Amistadi Ursula,5640715,16,Italia,Vrouw,880,Langeafstandslopers,14,2,13,164,61,True,19,1,6,4,1,3,2,3,7
+Onbekend,Boccoli Francis,5612652,17,Brasil,Man,800,Snelwandelaars,14,2,14,182,91,True,10,2,10,2,3,1,2,5,5
+Onbekend,Adorni Michelle,5622581,17,Italia,Vrouw,1130,Springers,17,1,15,170,69,True,16,9,3,1,6,5,2,7,8
+Onbekend,Di Felice Alberto,5640717,16,Italia,Man,450,Werpers,19,1,15,170,71,True,12,7,3,2,3,1,3,5,8
+Onbekend,Papini Giulia,5653555,17,Italia,Vrouw,330,Werpers,11,1,14,184,77,True,14,1,1,5,1,5,6,6,6
+Onbekend,Malverdi Rebecca,5617443,17,Italia,Vrouw,780,Meerkampers,19,2,14,183,84,True,14,2,3,9,8,1,1,6,5
+Kogelstoten,Pudzianowski Patryk,5194266,28,Polska,Man,33820,Werpers,20,7,18,188,104,True,18,20,2,3,2,3,10,11,10
+10.000 meter,Dillard Diego,5161371,29,United States,Man,44550,Langeafstandslopers,20,11,15,178,48,True,19,2,20,11,1,2,1,16,12
+1.500 meter,Potts Vincent,5175208,29,United States,Man,33550,Middenafstandslopers,18,10,17,168,56,True,20,1,19,17,1,1,3,11,9
+200 meter,Abrahams Patrice,5115009,31,Jamaica,Vrouw,17540,Sprinters,18,14,15,180,76,True,12,10,2,17,2,2,1,11,10
+1.500 meter,Martin Petrona,5115018,34,Jamaica,Vrouw,22550,Middenafstandslopers,20,13,17,159,42,True,18,0,18,13,0,0,0,8,11
+5.000 meter,Abrahams Michael,5115020,32,Jamaica,Man,18270,Langeafstandslopers,20,14,17,172,69,True,14,0,17,6,2,0,0,12,8
+100 meter,Ainsley Stephen,5115004,31,Jamaica,Man,11840,Sprinters,20,12,17,169,84,True,13,4,1,16,2,1,1,9,11
+Kogelslingeren,Lowe Jo-Hannah,5115054,32,Jamaica,Vrouw,19730,Werpers,20,14,16,178,63,True,17,14,0,1,1,0,17,10,10
+50 km snelwandelen,Gray Trudy,5395881,26,Jamaica,Vrouw,20690,Snelwandelaars,20,6,17,161,58,True,20,1,19,1,2,3,1,11,9
+10 km snelwandelen,Wan Phillip,5576294,20,Jamaica,Man,3750,Snelwandelaars,20,2,19,170,69,True,12,9,13,3,1,0,2,8,8
+Polsstokhoogspringen,William Tovah,5411714,22,Jamaica,Vrouw,7320,Springers,20,5,20,187,88,True,10,2,1,2,3,15,3,8,7
+Onbekend,Mpelthikiotis Dimosthenis,5537067,18,Hellas,Man,11400,Snelwandelaars,20,2,15,188,80,True,17,2,17,1,2,3,1,8,7
+Onbekend,Forte Onandi,5593449,18,Jamaica,Man,1930,Springers,18,1,16,169,78,True,12,10,4,0,0,10,5,4,9
+Onbekend,Markopoulos Gennadios,5607551,18,Hellas,Man,5290,Springers,20,1,15,174,80,True,18,0,3,6,3,14,5,7,4
+200 meter,Lue Roy,5118247,32,Jamaica,Man,10070,Sprinters,20,12,18,180,65,True,14,4,2,16,1,1,0,8,8
+Onbekend,Karapatis Damianos,5556486,18,Hellas,Man,12800,Werpers,20,2,15,187,93,True,18,17,1,1,3,3,3,8,6
+Onbekend,Fouskarini Frideriki,5614595,18,Hellas,Vrouw,3390,Sprinters,20,1,15,181,79,True,20,7,1,12,2,1,0,8,8
+Onbekend,Ran Yishan,5629431,17,China,Man,840,Meerkampers,19,1,16,181,79,True,14,3,1,9,3,3,1,5,8
+Marathon,Mpisa Zampia,5548344,18,Hellas,Vrouw,2710,Langeafstandslopers,20,2,16,180,83,True,15,2,12,5,1,3,9,8,4
+5.000 meter,Bartczak Jarosław,5590634,22,Polska,Man,1700,Langeafstandslopers,20,2,15,167,71,True,12,2,10,4,2,1,2,9,7
+Onbekend,Rangel Adelaide,5618703,17,Portugal,Vrouw,940,Middenafstandslopers,20,1,16,178,79,True,6,1,9,8,2,6,3,6,7
+Onbekend,Halperin Yisrael,5614780,17,Yisra'el,Man,860,Middenafstandslopers,20,2,16,180,81,True,11,3,9,7,3,3,1,7,7
+Verspringen,Yunus Yonas,5557900,20,Indonesia,Man,2720,Springers,20,2,16,168,73,True,16,3,1,7,4,12,3,9,7
+400 meter horden,Loy Joel,5401955,24,Singapore,Man,3570,Sprinters,20,5,17,187,84,True,19,9,3,10,2,3,3,10,8
+400 meter horden,Kee Olivia,5489203,22,Singapore,Vrouw,5080,Sprinters,20,4,15,163,61,True,20,3,1,12,6,1,3,10,10
+Vijfkamp Vrouwen,Rumahorbo Vashni,5576133,19,Indonesia,Vrouw,3140,Meerkampers,16,2,18,167,68,True,17,2,4,9,3,12,1,5,6
+Tienkamp,Cojuangco Marlon,5452004,22,Pilipinas,Man,2760,Meerkampers,20,5,14,171,66,True,20,10,2,4,6,8,2,8,9
+Onbekend,Cox Fasha,5607041,19,Malaysia,Vrouw,1700,Meerkampers,17,1,16,180,77,True,20,1,3,4,8,6,2,7,8
+Verspringen,Harmon Marcus,5594176,19,United States,Man,1780,Springers,20,2,20,171,77,True,13,2,1,7,6,11,2,8,6
+Onbekend,Johansson Domenik,5643401,15,Deutschland,Man,790,Sprinters,12,1,15,163,68,True,10,8,3,9,1,0,2,5,5
+Onbekend,Smits Gijsbert,5662101,15,Nederland,Man,1140,Sprinters,16,1,15,161,62,True,6,2,1,10,8,2,1,7,7
+Onbekend,Staal Jesper,5638764,16,Danmark,Man,1220,Sprinters,20,1,15,177,79,True,13,7,9,6,1,2,2,7,8
+Onbekend,Vervaet Olivier,5641321,16,België,Man,850,Sprinters,16,1,15,179,79,True,8,9,2,7,1,3,3,7,6
+Onbekend,Vichta Ernest,5641967,15,Česká republika,Man,1280,Sprinters,20,1,15,161,68,True,10,2,2,10,7,3,1,7,8
+Onbekend,Elvira Clementina,5663235,15,España,Vrouw,1540,Middenafstandslopers,15,1,15,168,63,True,11,1,9,5,10,2,2,7,7
+Onbekend,Morente Jennifer,5590021,18,España,Vrouw,4260,Middenafstandslopers,18,2,16,181,86,True,12,2,14,8,2,1,1,8,6
+Onbekend,van Steen Joannes,5624455,18,Nederland,Man,2760,Langeafstandslopers,20,1,14,185,88,True,20,1,10,10,2,2,1,4,6
+Onbekend,Henriksen Ellen,5646487,16,Norge,Vrouw,1020,Langeafstandslopers,16,1,16,174,70,True,14,3,7,9,2,3,3,7,7
+Onbekend,Mertens Milou,5627495,18,Nederland,Vrouw,1350,Langeafstandslopers,20,1,15,185,81,True,15,3,9,10,3,2,2,5,7
+Onbekend,Škarvanová Nadežda,5646699,16,Slovensko,Vrouw,1490,Langeafstandslopers,13,1,16,158,57,True,11,3,6,10,2,2,1,8,8
+Onbekend,Kurzemnieks Arnolds,5641068,16,Latvija,Man,580,Snelwandelaars,20,1,14,167,66,True,12,3,9,3,7,2,2,6,4
+Onbekend,Salna Vilis,5661508,16,Latvija,Man,1920,Snelwandelaars,18,1,14,159,60,True,12,3,9,2,10,2,3,8,7
+Onbekend,Ecimovic Srebrenka,5629209,17,Bosna i Hercegovina,Vrouw,940,Snelwandelaars,20,2,14,151,51,True,14,3,9,3,2,3,0,5,8
+Onbekend,Lerche Sophia,5643582,16,Switzerland,Vrouw,1310,Snelwandelaars,13,1,16,157,57,True,7,3,8,2,10,2,1,6,6
+Onbekend,Maathuis Jurgen,5603926,18,Nederland,Man,1900,Springers,19,2,14,184,88,True,12,3,2,4,10,10,2,6,5
+Onbekend,Palko Patrik,5662587,16,Česká republika,Man,1080,Springers,17,1,15,166,64,True,10,3,3,2,8,10,2,6,5
+Onbekend,Rapaić Zdravko,5644121,16,Hrvatska,Man,850,Springers,16,1,15,163,68,True,10,2,3,9,3,8,1,7,6
+Onbekend,Fiorentini Selene,5624557,16,Italia,Vrouw,1620,Springers,19,2,15,165,65,True,14,3,5,1,5,11,3,6,7
+Onbekend,Maglione Valeria,5639527,16,Italia,Vrouw,1130,Springers,20,1,17,175,75,True,6,5,3,2,8,10,1,6,5
+Onbekend,Rangelova Evelina,5644634,16,Bulgaria,Vrouw,1060,Springers,20,1,18,172,68,True,10,2,4,2,9,7,3,7,8
+Onbekend,Stepanova Antonina,5655768,16,Rossiya,Vrouw,1480,Springers,19,1,16,158,52,True,12,3,5,0,10,8,3,5,7
+Onbekend,Astiazarán Joan,5643652,15,España,Man,1100,Werpers,15,1,16,168,76,True,15,5,1,2,9,3,8,6,7
+Onbekend,Augusto Hamilton,5609123,16,Brasil,Man,920,Werpers,15,1,13,185,89,True,7,8,2,2,0,2,9,6,7
+Onbekend,Consent Lambert-Jan,5603933,16,Nederland,Man,2480,Werpers,20,2,16,173,76,True,10,12,2,3,3,2,6,9,6
+Onbekend,Kuncl Jaromír,5653380,16,Česká republika,Man,790,Werpers,20,1,14,176,74,True,7,8,1,2,8,2,8,5,5
+Onbekend,Watson Ashton,5653566,15,United States,Man,990,Werpers,16,1,16,175,75,True,6,8,1,1,10,3,7,5,5
+Verspringen,Škultéty Gustáv,4999524,33,Slovensko,Man,11940,Springers,20,12,17,193,90,True,20,0,0,5,13,14,1,11,8
+Onbekend,Angeleva Zora,5637237,16,Bulgaria,Vrouw,690,Werpers,20,1,15,172,71,True,10,8,3,3,1,3,8,4,5
+Onbekend,de Steur Lynn,5630042,18,Nederland,Vrouw,2040,Werpers,20,1,14,177,75,True,8,11,3,2,1,0,9,7,4
+Onbekend,Pettazzi Loretta,5633525,16,Italia,Vrouw,850,Werpers,19,2,15,161,60,True,6,5,1,1,7,2,9,7,6
+Onbekend,Singarayar Fish,5639145,16,Malaysia,Vrouw,800,Werpers,19,2,14,178,76,True,10,8,2,4,0,1,9,7,6
+Onbekend,Ousserir Farid,5658181,17,Al-Jazā'ir,Man,1260,Meerkampers,15,1,16,179,77,True,10,9,2,9,1,7,1,8,4
+Onbekend,van Beek Ramon,5596700,18,Nederland,Man,1290,Meerkampers,20,1,15,180,88,True,17,6,2,5,9,8,2,5,5
+Discuswerpen,Corral José Juan,5084765,32,España,Man,14960,Werpers,20,14,15,177,75,True,20,15,0,1,2,1,11,12,11
+Onbekend,Vinduška Mojmír,5653316,16,Česká republika,Man,750,Meerkampers,19,1,17,167,69,True,14,8,3,6,1,4,7,5,6
+Onbekend,Kępa Wiktoria,5656030,15,Polska,Vrouw,650,Meerkampers,14,1,14,164,60,True,7,8,0,9,1,3,3,4,4
+Onbekend,Pabērza Elvīra,5649133,16,Latvija,Vrouw,1370,Meerkampers,15,1,17,157,58,True,8,9,9,3,8,1,2,5,7
+Onbekend,Vertemati Concetta,5639163,15,Italia,Vrouw,1060,Meerkampers,17,1,16,173,70,True,8,1,7,6,2,3,10,6,5
+3.000 meter steeplechase,Boerkamps Noortje,5517760,20,Nederland,Vrouw,11840,Middenafstandslopers,20,3,16,167,64,True,19,2,17,6,0,1,2,9,8
+Onbekend,Lupi Ada,5643548,16,Italia,Vrouw,1480,Langeafstandslopers,15,1,17,169,69,True,8,3,3,8,10,2,2,8,5
+Onbekend,Radoccia Arianna,5643891,16,Italia,Vrouw,1100,Meerkampers,20,1,16,153,56,True,13,3,3,10,3,8,2,3,4
+Onbekend,Flavell Amelie,5571632,18,Great Britain,Vrouw,1800,Sprinters,20,2,13,162,68,True,17,3,2,11,4,2,3,6,5
+Hoogspringen,Benaglia Tania,5068739,33,Italia,Vrouw,14330,Springers,20,10,18,179,66,True,19,0,0,0,6,16,0,13,10
+Verspringen,Atienza Israel,4902676,37,España,Man,11280,Springers,20,17,15,184,68,True,17,0,0,3,5,9,0,10,12
+Kogelslingeren,Iturrioz Alexandre,5539252,18,España,Man,4120,Werpers,20,2,18,174,82,True,18,12,4,3,4,3,12,8,6
+10.000 meter,Adamíra Ivan,5597745,22,Česká republika,Man,790,Langeafstandslopers,19,2,17,171,78,True,18,2,7,5,3,1,1,5,5
+Onbekend,Rycka Blažej,5656059,18,Česká republika,Man,410,Werpers,13,1,14,180,85,True,16,3,1,2,1,3,7,4,4
+Onbekend,Šoufek Kryštof,5633400,18,Česká republika,Man,830,Meerkampers,17,1,15,172,78,True,10,7,3,2,10,3,3,5,5
+Vijfkamp Vrouwen,Hrabáková Karina,5597774,26,Česká republika,Vrouw,1750,Meerkampers,17,2,15,180,85,True,20,7,1,8,7,4,2,4,9
+Onbekend,Kupfermann Jason,5536350,18,Deutschland,Man,4020,Springers,20,2,15,168,81,True,9,4,3,0,9,12,2,9,10
+Vijfkamp Mannen,Nagy Dávid,5569667,18,Magyarország,Man,2020,Meerkampers,20,2,17,190,94,True,17,11,1,8,5,2,3,7,5
+Onbekend,Alcaine Octavio,5562322,18,España,Man,1880,Meerkampers,20,3,19,187,97,True,19,8,2,4,6,9,2,7,6
+Onbekend,Hämmerling Joel,5548424,18,Deutschland,Man,3620,Langeafstandslopers,20,2,15,191,100,True,13,1,13,6,7,1,1,9,7
+Onbekend,Betke Sandro,5581831,18,Deutschland,Man,2970,Sprinters,18,1,14,176,82,True,14,9,2,11,3,2,1,6,10
+Verspringen,Almeida Manuela,5481282,20,Deutschland,Vrouw,21500,Springers,20,4,15,162,59,True,20,4,1,2,3,19,7,9,6
+Hinkstapspringen,Hädicke Ben,5199947,30,Deutschland,Man,12910,Springers,20,8,17,188,55,True,20,4,0,9,12,14,3,10,13
+110 meter horden,Junaedi Adri,5450220,22,Indonesia,Man,8960,Sprinters,20,4,18,177,76,True,14,2,3,16,10,1,3,7,7
+400 meter horden,Brunelli Pamela,5517637,22,Italia,Vrouw,3220,Sprinters,20,3,18,173,65,True,16,3,2,13,6,2,1,8,5
+Onbekend,Dattrino Antonietta,5608111,18,Italia,Vrouw,1360,Werpers,20,1,18,165,66,True,11,7,3,2,2,1,11,6,6
+Onbekend,Fragkos Leuteris,5546445,18,Hellas,Man,2080,Langeafstandslopers,20,2,15,181,85,True,7,2,11,1,9,3,2,7,8
+50 km snelwandelen,Iturri Begoña,4940917,37,España,Vrouw,9890,Snelwandelaars,18,12,15,173,60,True,18,0,15,0,4,0,1,10,8
+Onbekend,Foukadaki Kaliopi,5599784,18,Hellas,Vrouw,1670,Springers,17,1,15,176,80,True,9,3,2,9,3,11,2,6,7
+Onbekend,Lebedeva Alisa,5658654,18,Rossiya,Vrouw,1500,Sprinters,16,1,16,178,72,True,15,8,2,10,2,3,3,4,8
+Onbekend,Custermans Estelle,5638589,15,België,Vrouw,790,Sprinters,17,2,13,162,59,True,10,3,3,9,0,8,7,6,6
+Onbekend,Balbul Henok,5605223,19,Yisra'el,Man,2800,Meerkampers,15,2,16,177,85,True,12,10,1,11,1,1,1,9,8
+Onbekend,Sartorelli Antonio,5600125,18,Italia,Man,2410,Springers,18,1,15,194,102,True,19,1,2,1,9,10,1,8,7
+Onbekend,Frutos Arkaitz,5471143,21,España,Man,2970,Langeafstandslopers,20,2,11,176,81,True,20,2,11,9,0,1,1,7,7
+Onbekend,Mencía Alfredo,5446545,22,España,Man,2760,Langeafstandslopers,20,2,12,190,94,True,13,1,12,5,1,3,9,7,7
+Onbekend,Aleixandre Mariela,5573547,18,España,Vrouw,890,Snelwandelaars,20,1,15,183,86,True,15,2,10,3,3,2,2,6,5
+Onbekend,Álvarez Uxía,5618695,19,España,Vrouw,1980,Springers,18,1,11,180,76,True,20,0,0,10,4,9,3,5,4
+Onbekend,Antoñana Valentina,5541268,18,España,Vrouw,1030,Springers,20,2,14,179,88,True,19,0,2,2,8,5,3,6,6
+Onbekend,Viveiro Alexandra,5631305,18,España,Vrouw,1470,Werpers,19,1,15,159,61,True,15,8,6,2,3,2,9,7,8
+Onbekend,Kalivoda Jan,5597751,17,Česká republika,Man,860,Snelwandelaars,20,2,17,178,80,True,14,2,9,3,4,0,2,7,7
+200 meter,Sauvage Carine,5051627,33,France,Vrouw,6880,Sprinters,20,15,15,176,68,True,6,9,1,12,6,1,0,8,9
+Discuswerpen,Olaio Victor,5500627,21,Portugal,Man,1780,Werpers,20,3,20,184,85,True,15,3,8,2,3,2,10,8,7
+Onbekend,Peçanha Rafaela,5650683,18,Portugal,Vrouw,1100,Springers,14,1,14,172,68,True,13,2,3,2,6,9,2,5,8
+Onbekend,Fregonese Melania,5539389,18,Italia,Vrouw,12110,Langeafstandslopers,20,2,14,175,69,True,20,5,16,12,2,2,2,6,6
+Vijfkamp Mannen,Antunović Stanislav,5403137,23,Srbija,Man,5070,Meerkampers,20,5,18,190,95,True,20,5,5,5,4,4,12,9,11
+Onbekend,Luzi Lino,5650983,18,Italia,Man,2000,Springers,13,1,17,180,84,True,16,1,1,3,10,9,2,8,3
+Onbekend,Boccoli Rita,5643389,18,Italia,Vrouw,1450,Springers,20,1,19,162,58,True,17,4,3,7,7,7,1,7,9
+Onbekend,Minoia Marilena,5638195,18,Italia,Vrouw,2130,Springers,15,1,18,173,68,True,14,3,1,2,3,11,2,9,5
+Zevenkamp,Zappellon Deborah,5407288,22,Italia,Vrouw,5910,Meerkampers,20,4,20,185,86,True,20,6,6,2,5,4,10,11,12
+3.000 meter steeplechase,Contadini Lorena,5310399,25,Italia,Vrouw,6570,Middenafstandslopers,20,5,19,181,82,True,12,3,13,12,3,3,3,10,10
+20 km snelwandelen,Benítez Armando,5546388,18,España,Man,1600,Snelwandelaars,20,2,19,178,76,True,13,3,10,1,7,3,5,8,7
+Onbekend,Panadés Joan,5666758,18,España,Man,380,Werpers,11,1,15,175,75,True,12,5,2,1,3,2,8,4,6
+1.500 meter,Shish Aviv,5368704,24,Yisra'el,Man,7160,Middenafstandslopers,20,6,18,173,74,True,15,3,14,11,1,4,3,9,11
+Hinkstapspringen,Levati Stefano,5324157,25,Italia,Man,8330,Springers,19,5,20,168,54,True,19,3,0,5,11,14,2,8,11
+Kogelstoten,Sepşi Adalbert,5420454,23,România,Man,5280,Werpers,20,4,18,184,90,True,16,12,0,2,3,1,12,9,8
+Onbekend,Dimovska Metodija,5580279,18,FYR Makedonija,Vrouw,5790,Sprinters,20,2,16,173,76,True,20,10,2,14,4,3,0,6,8
+3.000 meter steeplechase,Qiguan Shuqing,5550144,18,China,Man,3830,Middenafstandslopers,20,2,17,189,70,True,17,5,13,6,2,0,3,8,8
+1.500 meter,Eskelinen Päivä,5556335,18,Suomi,Vrouw,3950,Middenafstandslopers,20,2,18,168,69,True,18,1,13,6,2,8,1,7,7
+Onbekend,Troppina Margherita,5562299,18,Italia,Vrouw,7570,Middenafstandslopers,20,2,17,179,70,True,18,3,15,8,1,3,2,7,7
+Onbekend,Choi Alyssa,5592409,18,Singapore,Vrouw,3090,Springers,20,2,19,175,70,True,17,1,1,2,9,12,2,7,5
+Onbekend,Rudnitsky Mefodii,5569370,18,Ukrajina,Man,8980,Werpers,20,2,17,193,101,True,19,16,1,2,1,2,8,9,6
+Onbekend,Lambertini Thomas,5536657,18,Italia,Man,2510,Meerkampers,20,2,16,181,94,True,17,8,3,7,6,7,9,9,9
+Vijfkamp Mannen,Seow Daniel,5588910,18,Singapore,Man,2370,Meerkampers,20,2,16,185,94,True,19,6,1,10,3,5,9,7,5
+Tienkamp,Soejandri Kabul,5594239,18,Indonesia,Man,1610,Meerkampers,20,1,17,191,99,True,19,8,3,2,8,6,8,6,7
+Onbekend,Alberini Vittoria,5536655,18,Italia,Vrouw,1460,Meerkampers,20,2,15,183,81,True,15,9,2,8,3,7,3,4,8
+Onbekend,Gugnoni Pamela,5608373,17,Italia,Vrouw,1870,Werpers,20,2,18,166,65,True,9,10,1,3,6,1,10,6,6
+Onbekend,Prete Paola,5608324,17,Italia,Vrouw,2370,Sprinters,20,2,17,166,67,True,12,8,2,10,2,2,1,9,8
+Onbekend,Passacantilli Chiara,5608344,17,Italia,Vrouw,2100,Langeafstandslopers,20,2,18,176,78,True,13,3,11,3,3,2,3,9,6
+Onbekend,Andreutti Gioele,5582436,18,Italia,Man,2490,Langeafstandslopers,20,1,15,185,95,True,19,2,11,7,1,2,1,7,5
+Onbekend,Battiston Leo,5565666,18,Italia,Man,2370,Springers,20,2,14,191,96,True,17,1,3,0,5,11,2,8,8
+Polsstokhoogspringen,Willemaers Simone,5413579,22,België,Vrouw,8960,Springers,20,5,18,165,68,True,12,3,3,2,13,15,1,8,7
+Hoogspringen,Cassidy Millie,5528222,22,Great Britain,Vrouw,2490,Springers,20,2,17,160,62,True,20,3,3,0,2,10,3,8,9
+Hoogspringen,Maguire Maya,5494741,23,Great Britain,Vrouw,1620,Springers,20,2,15,161,63,True,8,2,2,1,2,10,3,5,9
+Onbekend,Kirvesniemi Kaarle,5551553,18,Suomi,Man,5940,Langeafstandslopers,20,2,15,176,92,True,12,3,15,4,2,2,1,8,4
+Onbekend,Clijsters Gianni,5562337,18,België,Man,1260,Meerkampers,20,1,15,178,88,True,16,2,2,5,10,1,2,6,8
+3.000 meter steeplechase,Baert Yara,5505919,31,België,Vrouw,1750,Middenafstandslopers,20,4,17,177,77,True,16,2,4,10,3,1,0,8,8
+Onbekend,Strand Ellen,5574444,18,Sverige,Vrouw,5290,Middenafstandslopers,20,2,15,174,77,True,14,5,14,3,3,6,3,5,6
+Discuswerpen,Berings Helena,5505952,29,België,Vrouw,2650,Werpers,20,4,18,181,71,True,19,7,0,1,4,0,11,8,7
+Onbekend,Tamassia Mario,5627456,18,Italia,Man,1640,Sprinters,20,1,15,164,66,True,15,5,2,11,2,3,3,6,7
+Onbekend,Segna Santo,5574787,18,Italia,Man,1720,Middenafstandslopers,20,2,15,185,91,True,10,2,6,11,2,2,3,3,7
+Onbekend,Grassini Gigi,5636887,18,Italia,Man,1870,Langeafstandslopers,20,1,15,168,68,True,20,2,9,3,0,3,2,4,8
+10.000 meter,Beker Maria,4895431,36,Switzerland,Vrouw,31730,Langeafstandslopers,19,19,14,167,47,True,19,0,17,7,0,0,0,13,13
+Onbekend,Bondioli Zaccaria,5590027,18,Italia,Man,1600,Snelwandelaars,20,1,15,183,93,True,13,5,11,2,8,2,2,6,7
+Onbekend,Caserini Lorenza,5659752,18,Italia,Vrouw,1230,Snelwandelaars,16,1,15,180,71,True,17,1,9,2,3,1,2,7,8
+Onbekend,Speck Jonathan,5554449,18,Switzerland,Man,2630,Snelwandelaars,20,1,15,182,92,True,11,3,11,4,10,1,2,7,9
+Polsstokhoogspringen,Canori Nadia,5019537,33,Switzerland,Vrouw,37020,Springers,20,17,18,174,68,True,20,3,0,3,6,19,1,13,12
+Kogelslingeren,Hemmer Werner,5062062,32,Switzerland,Man,15310,Werpers,20,13,15,185,77,True,19,8,0,0,1,1,15,14,10
+400 meter horden,Vishnevskaja Praskov'ya,4940202,35,Belarus,Vrouw,8250,Sprinters,20,13,18,180,70,True,20,7,0,13,11,2,0,7,10
+Onbekend,Häussler Louis,5524274,20,Deutschland,Man,2920,Sprinters,20,1,17,176,81,True,20,5,2,12,1,3,5,6,5
+Onbekend,Quel Pere,5345902,24,España,Man,2360,Springers,20,3,12,183,85,True,17,3,0,2,10,10,3,8,8
+Onbekend,Oviedo Dácil,5614586,18,España,Vrouw,1540,Springers,17,1,15,185,84,True,18,3,1,3,5,9,9,5,7
+10.000 meter,Mosciarello Pierluigi,5606465,25,Italia,Man,3460,Langeafstandslopers,20,2,17,184,88,True,20,2,10,5,2,0,2,7,11
+Onbekend,Peñalba Silvana,5373111,23,Argentina,Vrouw,3750,Werpers,20,3,12,174,74,True,19,13,3,0,2,1,6,8,8
+Onbekend,Turiel Patricia,5604742,18,España,Vrouw,1640,Werpers,20,1,15,165,69,True,18,6,3,3,6,3,10,7,7
+Onbekend,Fontet Victòria,5321472,25,España,Vrouw,3090,Werpers,20,3,12,176,72,True,20,9,2,1,3,2,11,8,7
+800 meter,Vigo Jano,5329732,25,España,Man,30850,Middenafstandslopers,19,6,18,179,69,True,19,7,17,19,3,0,3,10,3
+10 km snelwandelen,Flavell Spencer,5368547,23,Great Britain,Man,25290,Snelwandelaars,20,4,16,185,81,True,18,1,19,2,9,2,4,12,11
+800 meter,Fauli Graziella,5348250,24,Italia,Vrouw,7520,Middenafstandslopers,20,5,20,168,71,True,18,4,14,12,2,2,2,7,6
+Onbekend,Sprećaković Jelisaveta,5601185,18,Srbija,Vrouw,2000,Werpers,19,1,15,176,76,True,19,5,3,0,1,2,10,9,7
+5.000 meter,Monica Yuri,5379385,23,Italia,Man,2520,Langeafstandslopers,20,5,18,173,85,True,12,2,10,11,1,3,2,9,8
+3.000 meter steeplechase,León Mauro,5417633,25,España,Man,6070,Middenafstandslopers,20,6,14,167,71,True,20,3,7,13,3,2,1,11,7
+800 meter,Moragrega Cristian,5339970,25,España,Man,3060,Middenafstandslopers,20,5,15,192,101,True,15,5,10,10,1,3,3,8,11
+10 km snelwandelen,Albacar José Ángel,5348459,25,España,Man,5070,Snelwandelaars,20,6,14,183,88,True,15,3,11,8,8,3,2,11,11
+200 meter,Saldaña Izaskun,5417629,25,España,Vrouw,5030,Sprinters,20,5,14,164,51,True,19,6,3,13,3,2,2,8,9
+800 meter,Ahedo Ágata,5417635,25,España,Vrouw,7640,Middenafstandslopers,20,5,15,165,52,True,20,2,11,12,3,1,1,11,11
+Marathon,De Ghey Mindy,5451911,26,België,Vrouw,5980,Langeafstandslopers,20,5,14,174,70,True,15,3,12,9,7,1,2,11,11
+5.000 meter,Sacristán Mònica,5417643,25,España,Vrouw,4910,Langeafstandslopers,20,6,15,177,71,True,16,3,9,7,3,1,3,12,11
+50 km snelwandelen,Notivol Ariadna,5424535,25,España,Vrouw,2320,Snelwandelaars,20,4,15,177,65,True,17,8,5,1,5,1,1,9,10
+100 meter,Piedra Florencio,5312022,30,España,Man,3190,Sprinters,20,7,16,180,81,True,11,4,1,10,4,1,0,10,11
+200 meter,Goitia Iñaki,5312020,32,España,Man,5750,Sprinters,20,7,16,182,76,True,16,3,0,9,0,0,0,12,11
+Onbekend,Lejarreta Israel,5620828,18,España,Man,1900,Langeafstandslopers,20,1,15,181,86,True,16,4,11,2,2,9,1,5,8
+Onbekend,Mir Abián,5559476,18,España,Man,1790,Snelwandelaars,20,2,15,172,85,True,12,3,10,1,7,1,3,9,8
+Onbekend,Montañana Lide,5536257,19,España,Vrouw,1640,Snelwandelaars,20,1,20,161,66,True,15,3,6,3,8,3,2,10,8
+Hinkstapspringen,Snížek Vasil,4780687,39,Česká republika,Man,8750,Springers,17,15,16,183,79,True,20,0,0,0,7,8,0,11,11
+Hinkstapspringen,Durnovo Tamara,4984561,36,Rossiya,Vrouw,7250,Springers,20,13,16,157,40,True,15,0,0,0,2,14,0,9,10
+Onbekend,Jarque Telmo,5606540,18,España,Man,1770,Werpers,19,1,15,189,92,True,11,2,2,2,2,5,11,9,7
+Onbekend,Rivero Iria,5539244,21,España,Vrouw,2070,Werpers,20,2,20,184,81,True,20,6,3,1,3,2,9,8,7
+Onbekend,Pantoja Olvido,5617366,18,España,Vrouw,1530,Meerkampers,20,1,15,175,76,True,17,3,10,3,2,2,3,8,5
+Onbekend,del Pozo Amaia,5638114,18,España,Vrouw,1130,Sprinters,20,1,13,167,66,True,18,3,2,8,1,1,3,8,6
+Onbekend,Sepulcre Concepción,5661828,15,España,Vrouw,1380,Middenafstandslopers,13,1,15,159,55,True,16,10,8,3,3,3,2,5,6
+Tienkamp,Hays Sebastian,5548326,18,United States,Man,1230,Meerkampers,20,3,16,193,106,True,13,5,1,9,2,6,7,8,7
+1.500 meter,Neuländtner Romy,5022137,34,Österreich,Vrouw,45000,Middenafstandslopers,20,15,17,163,56,True,16,0,19,18,1,0,0,12,7
+Onbekend,Connor Shawn,5553312,18,Canada,Man,1480,Sprinters,20,2,15,174,86,True,7,6,3,10,2,7,3,6,8
+3.000 meter steeplechase,Vöge Emma,5476269,20,Deutschland,Vrouw,2190,Middenafstandslopers,20,3,17,173,81,True,19,1,6,6,1,1,1,10,9
+Onbekend,Brei Leticia,5538557,18,Deutschland,Vrouw,1910,Langeafstandslopers,20,2,14,182,90,True,18,1,7,5,3,2,2,9,9
+Tienkamp,Holmes Zak,5590386,20,Great Britain,Man,1080,Meerkampers,19,2,16,184,85,True,8,3,2,6,4,10,3,7,7
+Onbekend,Sampaio Iris,5556378,20,Portugal,Vrouw,250,Middenafstandslopers,16,1,12,174,71,True,6,3,3,6,1,2,2,7,6
+Onbekend,Rios Emílio,5603625,18,Portugal,Man,700,Langeafstandslopers,19,1,15,174,76,True,15,2,9,1,3,2,3,5,4
+Onbekend,Nóbrega Penélope,5559508,18,Portugal,Vrouw,1770,Langeafstandslopers,20,2,15,178,84,True,17,2,9,9,2,2,5,7,8
+Onbekend,Filho Salomão,5630080,18,Portugal,Man,730,Snelwandelaars,17,1,15,169,70,True,6,3,9,3,3,2,4,4,7
+Onbekend,Luz Branca,5562335,18,Portugal,Vrouw,3170,Snelwandelaars,20,2,15,174,78,True,6,3,13,2,2,3,7,7,8
+Onbekend,Santos Ricardo,5582241,17,Portugal,Man,790,Springers,19,1,12,174,79,True,7,3,1,5,3,9,0,7,7
+Onbekend,Vicente Liberto,5578895,19,Portugal,Man,1550,Springers,20,2,13,169,78,True,7,2,3,3,9,6,3,6,10
+Hoogspringen,Vasques Olinda,5513165,19,Portugal,Vrouw,830,Springers,20,3,13,168,75,True,6,2,0,3,6,7,1,7,9
+Onbekend,Lagos Sónia,5585019,18,Portugal,Vrouw,2230,Springers,17,1,15,170,73,True,10,4,2,8,2,12,1,7,5
+Vijfkamp Vrouwen,Ross Patricia,5626138,19,United States,Vrouw,1800,Meerkampers,16,1,16,174,68,True,7,3,9,7,3,6,2,9,9
+Onbekend,Juszkiewicz Dagmara,5659096,18,Polska,Vrouw,1900,Langeafstandslopers,16,1,14,156,56,True,10,3,11,3,3,10,1,7,4
+800 meter,Amoruso Melinda,5587926,26,Italia,Vrouw,1830,Middenafstandslopers,20,3,17,166,67,True,19,3,8,6,3,1,3,3,9
+1.500 meter,Manzi Gino,5587900,28,Italia,Man,1700,Middenafstandslopers,15,3,16,173,78,True,17,1,10,5,1,1,1,9,5
+Onbekend,Ostani Donata,5596964,20,Italia,Vrouw,1090,Langeafstandslopers,20,1,17,163,57,True,17,2,5,3,0,1,1,5,9
+Onbekend,Marín Herminia,5576349,19,España,Vrouw,5490,Snelwandelaars,20,1,16,172,66,True,18,3,14,2,6,2,3,8,8
+10.000 meter,Dens Chelsey,5027278,33,België,Vrouw,16290,Langeafstandslopers,19,10,17,179,67,True,18,1,16,14,2,0,1,7,10
+Onbekend,Timiryazeva Irina,5554956,18,Belarus,Vrouw,2760,Springers,20,1,15,168,71,True,17,1,2,6,6,12,1,7,8
+Onbekend,Dávila Xavier,5565767,18,España,Man,1990,Sprinters,20,2,13,172,80,True,17,10,2,7,0,0,3,8,7
+Onbekend,Casablanca Celina,5538568,18,España,Vrouw,3220,Sprinters,20,2,14,174,86,True,19,8,3,12,2,6,1,6,7
+Onbekend,Lanau Maite,5542165,18,España,Vrouw,1940,Middenafstandslopers,20,2,15,184,92,True,15,3,4,10,3,9,3,8,8
+Onbekend,Sevilla Lena,5641609,18,España,Vrouw,1930,Werpers,20,1,13,169,69,True,20,9,1,3,3,3,9,7,4
+Vijfkamp Mannen,Marroquín Christian,5303309,28,España,Man,13600,Meerkampers,20,7,17,172,72,True,17,17,1,5,1,10,8,10,9
+Onbekend,Jáuregui Dana,5576348,18,España,Vrouw,1010,Meerkampers,20,2,15,169,74,True,18,8,1,6,2,6,6,5,6
+400 meter horden,Indriðason Ferdinand,5268607,27,Ísland,Man,16900,Sprinters,20,8,16,183,83,True,18,17,1,13,3,6,2,8,7
+800 meter,Campanario Oihan,5198031,28,España,Man,29790,Middenafstandslopers,20,8,17,189,95,True,19,3,19,15,2,4,1,9,9
+5.000 meter,Nogal María,5303243,25,España,Vrouw,2810,Langeafstandslopers,20,6,17,187,87,True,6,3,7,12,2,1,3,9,8
+50 km snelwandelen,Blázquez Jon,5576378,19,España,Man,1190,Snelwandelaars,20,2,18,175,78,True,9,3,10,1,2,3,5,6,7
+Onbekend,Laín Elisabeth,5595932,18,España,Vrouw,970,Snelwandelaars,19,1,15,161,62,True,6,4,10,3,3,5,2,7,6
+Verspringen,Brown Anna,5053096,35,Canada,Vrouw,7590,Springers,20,10,16,169,51,True,18,0,0,0,14,12,0,5,7
+Onbekend,Cristóbal Kerman,5576379,18,España,Man,930,Werpers,20,2,15,172,75,True,7,7,7,2,3,3,10,6,6
+Onbekend,Perdomo Victoria,5565777,18,España,Vrouw,1450,Werpers,20,2,15,166,71,True,14,9,3,2,7,1,9,8,8
+400 meter horden,Reyes Kerman,5580386,19,España,Man,1150,Sprinters,20,2,16,173,79,True,11,7,3,10,1,3,0,7,6
+100 meter,Castillejo Tenesoya,5595939,19,España,Vrouw,1110,Sprinters,20,2,16,163,61,True,14,8,1,10,3,1,0,5,7
+Onbekend,Ontañón David,5641616,18,España,Man,1690,Middenafstandslopers,18,1,15,175,77,True,20,0,8,6,1,2,5,9,3
+3.000 meter steeplechase,Arce Ixeya,5490505,20,España,Vrouw,3190,Middenafstandslopers,20,3,18,185,87,True,17,1,10,11,2,9,5,7,9
+Polsstokhoogspringen,Fritzson Fannberg,5039585,34,Ísland,Man,11780,Springers,20,12,15,167,61,True,19,0,0,4,12,15,0,10,11
+Speerwerpen,Verneda Endika,5542163,20,España,Man,4010,Werpers,20,2,17,182,82,True,18,12,1,1,8,1,11,6,5
+Kogelstoten,Marcuzzo Leonardo,5278407,27,Italia,Man,23690,Werpers,20,8,18,193,92,True,16,17,0,3,2,1,17,8,9
+Speerwerpen,Kirovski Lecho,5335331,24,FYR Makedonija,Man,10390,Werpers,20,6,20,187,94,True,18,12,2,1,2,3,16,8,8
+Onbekend,Schiava Ubaldo,5592076,17,Italia,Man,2790,Sprinters,20,1,15,172,83,True,17,6,3,12,2,1,2,8,9
+Onbekend,Ausekle Inta,5613810,19,Latvija,Vrouw,1680,Meerkampers,20,2,17,174,73,True,14,2,3,10,4,2,9,8,6
+Onbekend,Bikse Marta,5551345,18,Latvija,Vrouw,1490,Middenafstandslopers,20,2,15,172,79,True,13,2,8,10,3,2,2,8,6
+Onbekend,Bouchard Francine,5655112,23,France,Vrouw,1790,Langeafstandslopers,14,1,16,161,59,True,18,2,7,3,3,1,1,5,10
+Onbekend,van der Jagt Willem-Jan,5613845,18,Nederland,Man,1340,Middenafstandslopers,16,1,16,169,78,True,9,1,9,10,3,2,1,5,8
+Onbekend,Meijer Ad,5617152,18,Nederland,Man,1660,Werpers,20,1,15,176,81,True,19,7,2,9,2,0,8,7,6
+Kogelstoten,Lacroix Nitisha,5211934,28,France,Vrouw,60280,Werpers,20,11,16,179,92,True,20,20,1,3,5,3,20,9,9
+Tienkamp,Mok Aidan,5604326,18,Singapore,Man,1730,Meerkampers,20,2,16,180,87,True,10,7,2,8,6,3,3,10,9
+10.000 meter,Kolompár Cintia,5419317,22,Magyarország,Vrouw,2620,Langeafstandslopers,19,4,19,183,86,True,8,2,11,10,0,3,2,6,6
+5.000 meter,Horváth Adrián,5387561,23,Magyarország,Man,4050,Langeafstandslopers,20,3,20,174,86,True,11,2,11,11,0,2,1,9,9
+Vijfkamp Vrouwen,Csányi Gabriella,5123967,32,Magyarország,Vrouw,3310,Meerkampers,20,7,18,182,79,True,17,7,5,8,8,2,0,9,11
+Onbekend,Drozd Dorota,5646243,25,Polska,Vrouw,2090,Meerkampers,20,1,16,174,67,True,19,3,3,6,3,2,0,10,8
+Onbekend,Brodowska Izabela,5646229,18,Polska,Vrouw,270,Springers,19,2,17,160,57,True,6,2,0,6,2,7,1,5,5
+10 km snelwandelen,Dzikowski Henryk,5646219,24,Polska,Man,1670,Snelwandelaars,15,2,16,184,90,True,12,3,10,6,5,1,1,7,9
+Polsstokhoogspringen,Kot Jacek,5646226,21,Polska,Man,1700,Springers,15,1,17,184,85,True,8,2,0,3,3,10,1,6,10
+Onbekend,Hnat Wacław,5656423,16,Polska,Man,1500,Meerkampers,15,1,15,177,79,True,13,1,2,10,3,2,10,6,6
+Kogelstoten,Rodoreda Belinda,5316452,25,España,Vrouw,9980,Werpers,20,6,18,187,87,True,12,16,2,1,3,2,11,8,10
+100 meter,Pastrana Óscar,5341146,24,España,Man,21050,Sprinters,20,6,18,170,80,True,20,12,1,19,2,1,1,8,6
+Onbekend,Vallina María,5585931,18,España,Vrouw,1110,Sprinters,19,1,15,165,65,True,18,6,1,8,1,4,1,8,4
+Onbekend,Joiner Amelia,5627548,18,Great Britain,Vrouw,900,Snelwandelaars,19,1,15,172,65,True,6,2,9,3,8,1,7,7,6
+Onbekend,Pearce Lauren,5589634,18,Great Britain,Vrouw,1040,Springers,17,1,15,184,86,True,9,2,3,5,1,10,3,7,3
+Hoogspringen,Airolo Haizea,5517856,19,España,Vrouw,2250,Springers,20,3,20,161,63,True,16,3,2,3,11,7,2,8,8
+Onbekend,van Prooijen Jurre,5551879,18,Nederland,Man,4520,Sprinters,20,1,17,173,85,True,15,4,0,14,3,2,1,6,8
+Onbekend,den Ouden Larissa,5601091,18,Nederland,Vrouw,1230,Sprinters,20,1,15,177,74,True,8,2,0,9,9,3,2,8,7
+Onbekend,Neilson Robertson Elise,5574946,18,Great Britain,Vrouw,290,Meerkampers,20,2,15,188,93,True,7,5,3,2,6,7,6,4,4
+20 km snelwandelen,Charron Karine,5082704,33,France,Vrouw,4670,Snelwandelaars,20,12,17,177,70,True,15,0,12,2,5,1,0,9,6
+Onbekend,Homoki Flórián,5658068,18,Magyarország,Man,1760,Werpers,18,1,15,177,72,True,18,1,2,1,3,3,10,5,9
+Onbekend,Salton Amber,5655867,17,Great Britain,Vrouw,1390,Springers,19,1,15,159,58,True,14,1,7,2,1,10,3,8,6
+Onbekend,Salmatanis Iliodoros,5649804,18,Hellas,Man,970,Werpers,13,1,15,189,93,True,12,10,2,1,3,3,3,7,7
+Onbekend,Kalaki Popi,5532565,19,Hellas,Vrouw,1480,Snelwandelaars,20,1,11,181,84,True,14,2,9,3,10,1,2,6,7
+Onbekend,Attal Wilfried,5640905,18,France,Man,3850,Sprinters,19,1,14,185,78,True,18,3,3,12,10,1,2,8,8
+100 meter horden,Ochoa Maritza,5608682,18,Ecuador,Vrouw,3030,Sprinters,20,2,16,180,77,True,20,3,0,11,10,0,2,6,8
+Onbekend,Teichman Andreas,5610081,18,Deutschland,Man,2800,Werpers,20,1,14,173,83,True,20,11,3,4,3,7,8,8,8
+50 km snelwandelen,Roumpas Polykratis,5118388,31,Hellas,Man,37580,Snelwandelaars,20,12,17,176,57,True,17,2,19,1,2,2,2,16,15
+Verspringen,Bailly Oriane,5433710,24,France,Vrouw,1950,Springers,20,4,17,164,60,True,18,2,3,7,7,9,2,8,8
+Speerwerpen,Torres Emmanuel,5396574,23,France,Man,5840,Werpers,20,7,17,185,82,True,20,11,4,7,2,1,13,7,8
+Verspringen,Cartie Valérie,5408429,23,France,Vrouw,7070,Springers,20,7,17,166,69,True,17,2,3,3,12,14,3,10,9
+Onbekend,Nagyová Andrea,5509271,19,Slovensko,Vrouw,4800,Langeafstandslopers,20,1,18,175,79,True,11,1,14,4,3,2,2,7,7
+Kogelslingeren,Bosá Soňa,5522350,21,Slovensko,Vrouw,2630,Werpers,20,3,19,166,69,True,19,8,1,4,9,1,10,7,9
+Zevenkamp,Bestvinová Petra,5455624,21,Slovensko,Vrouw,2040,Meerkampers,20,3,19,167,70,True,20,1,7,6,10,6,1,8,5
+Onbekend,Dall’Osso Fedele,5536606,18,Italia,Man,8900,Snelwandelaars,20,2,17,179,92,True,14,1,16,2,3,3,3,5,6
+400 meter,Pagel Maggy,5203716,28,Deutschland,Vrouw,9770,Sprinters,20,8,18,179,81,True,12,7,3,16,1,4,4,8,9
+3.000 meter steeplechase,Goltermann Boris,5451277,21,Deutschland,Man,4440,Middenafstandslopers,20,3,20,182,87,True,14,9,13,4,3,4,1,9,7
+10.000 meter,Coromina Virtudes,4881917,37,España,Vrouw,15010,Langeafstandslopers,18,15,17,161,59,True,16,0,15,15,0,0,0,8,7
+Verspringen,Cano Lucien-Joseph,5189003,29,France,Man,24590,Springers,20,8,17,184,59,True,20,2,1,4,5,19,3,11,10
+10 km snelwandelen,Lefebvre Aliénor,5263188,27,France,Vrouw,6440,Snelwandelaars,20,5,17,189,84,True,12,1,14,11,1,3,3,8,9
+50 km snelwandelen,Attia Lois,5147729,30,France,Man,19390,Snelwandelaars,20,9,16,177,52,True,14,3,19,9,2,0,0,5,6
+400 meter horden,Audouin Lydie,5079109,32,France,Vrouw,14410,Sprinters,19,9,17,169,67,True,9,8,1,17,6,2,1,10,10
+100 meter,Hemery Dominique,5150920,30,France,Man,24710,Sprinters,20,7,16,194,72,True,19,19,3,14,1,2,1,10,8
+400 meter,Georges Omar,5252684,30,France,Man,13660,Sprinters,20,6,17,186,81,True,19,13,4,16,3,3,2,6,10
+400 meter horden,Faure Mourad,5182941,29,France,Man,36760,Sprinters,20,9,16,178,57,True,19,20,1,14,3,3,2,9,9
+10 km snelwandelen,Rinaldi Guillermo,5168960,31,Argentina,Man,9350,Snelwandelaars,20,7,17,185,72,True,16,0,15,11,2,0,1,10,10
+Onbekend,Gandolfi Leandro,5333201,25,Argentina,Man,18510,Snelwandelaars,20,6,15,193,93,True,13,3,19,3,3,1,4,7,7
+Onbekend,Nobre Nicole,5658572,18,Portugal,Vrouw,1670,Middenafstandslopers,19,1,14,174,68,True,17,0,7,2,1,5,6,9,9
+Onbekend,Badiola María Pilar,5633772,18,España,Vrouw,820,Langeafstandslopers,20,1,20,163,61,True,18,3,3,2,2,3,5,6,5
+Onbekend,Rus Urtzi,5637902,18,España,Man,750,Werpers,19,1,17,190,89,True,14,2,2,1,2,2,7,8,7
+Onbekend,Dorado Peña,5615045,18,España,Vrouw,1250,Meerkampers,18,1,14,172,71,True,20,4,0,8,5,5,3,6,6
+Onbekend,Silgado Herminia,5539799,18,España,Vrouw,7880,Springers,20,2,15,176,82,True,12,2,1,4,16,8,3,7,7
+400 meter horden,Ernstsen Elias,5002506,35,Danmark,Man,19980,Sprinters,20,12,17,184,83,True,20,1,3,17,2,2,0,15,8
+Vijfkamp Mannen,Folguera Timoteo,4993257,34,España,Man,19300,Meerkampers,20,11,18,172,77,True,19,8,0,16,7,0,0,15,8
+Vijfkamp Vrouwen,Novo Alaitz,4963824,36,España,Vrouw,8340,Meerkampers,20,11,15,181,65,True,19,1,5,14,2,3,6,12,9
+Speerwerpen,Del Giudice Oliviero,5041614,35,Italia,Man,7710,Werpers,20,11,16,174,57,True,19,9,0,0,7,0,14,9,10
+Onbekend,Lanau Alberto,5531996,19,España,Man,1120,Werpers,20,2,17,178,85,True,9,10,4,1,3,1,7,6,7
+Kogelstoten,Pouso Valeria,4968404,34,España,Vrouw,28490,Werpers,20,13,18,181,79,True,18,20,1,0,0,0,9,9,10
+Onbekend,Karaś Bogdan,5508545,19,Polska,Man,9340,Springers,20,2,15,174,81,True,20,0,4,2,8,16,5,7,8
+Onbekend,Matuszewski Dawid,5561960,18,Polska,Man,11980,Langeafstandslopers,19,1,15,192,80,True,16,2,17,3,2,1,2,7,7
+Hinkstapspringen,Buscella Enza,5011755,35,Italia,Vrouw,19520,Springers,20,11,18,166,52,True,19,0,0,1,16,16,0,7,10
+Polsstokhoogspringen,Lastra Dailos,4986802,36,España,Man,9060,Springers,16,12,17,179,62,True,17,0,0,0,13,14,0,8,8
+Verspringen,Aneiros Mateo,5232881,27,España,Man,12320,Springers,19,7,18,194,97,True,19,3,0,5,14,15,3,11,10
+Onbekend,Zdebel Michalina,5543751,18,Polska,Vrouw,2150,Werpers,20,1,15,172,74,True,15,9,3,1,9,3,10,6,8
+Hoogspringen,Bardají Paz,5313716,25,España,Vrouw,19970,Springers,20,6,16,184,86,True,19,3,1,2,6,18,3,11,10
+Polsstokhoogspringen,Halder Seraina,5628622,19,Switzerland,Vrouw,2120,Springers,20,1,18,179,76,True,15,0,0,1,9,11,1,8,6
+50 km snelwandelen,Aganzo Echedey,4993256,37,España,Man,20040,Snelwandelaars,11,12,17,180,67,True,16,0,19,0,4,0,0,8,8
+20 km snelwandelen,Áskelsson Þjóðvarður,5063870,35,Ísland,Man,26260,Snelwandelaars,19,12,16,171,54,True,19,0,19,4,7,0,0,10,8
+10 km snelwandelen,Montoya Pere,4946793,35,España,Man,25600,Snelwandelaars,16,11,18,186,85,True,19,0,19,6,2,4,0,11,10
+10 km snelwandelen,Aragón Dácil,5446229,23,España,Vrouw,20190,Snelwandelaars,20,3,19,175,65,True,20,3,18,3,4,2,3,8,11
+10.000 meter,Contadini Alba,5508048,19,Italia,Vrouw,8340,Langeafstandslopers,20,3,18,181,87,True,20,2,15,3,3,1,2,9,7
+5.000 meter,Berdún Kevin,4983795,34,España,Man,27080,Langeafstandslopers,20,11,16,183,72,True,16,5,20,10,0,0,0,11,7
+Marathon,Benjamín Blas,5240847,27,España,Man,31120,Langeafstandslopers,20,7,17,168,55,True,20,1,20,7,2,2,3,12,11
+1.500 meter,Moñux Aleix,5471120,23,España,Man,10620,Middenafstandslopers,20,4,18,192,87,True,19,0,16,5,2,0,1,6,7
+1.500 meter,Cadena Raquel,5037920,34,España,Vrouw,28360,Middenafstandslopers,19,11,18,171,65,True,16,0,20,7,0,0,0,12,10
+3.000 meter steeplechase,Campoamor Mercedes,5019691,35,España,Vrouw,45740,Middenafstandslopers,20,11,17,184,74,True,20,0,19,7,0,0,0,18,8
+800 meter,Yuan Indah,5050264,35,Malaysia,Vrouw,26030,Middenafstandslopers,20,12,15,165,54,True,19,6,6,19,0,0,0,8,10
+800 meter,Costilla Pascual,5471278,21,España,Man,6170,Middenafstandslopers,20,3,17,193,92,True,20,2,6,14,3,3,3,7,9
+3.000 meter steeplechase,Covarrubias Lander,5295453,26,España,Man,15470,Middenafstandslopers,20,5,18,171,68,True,19,2,17,12,4,0,1,8,7
+400 meter,Fang Olivia,5011440,34,Singapore,Vrouw,30390,Sprinters,20,13,17,186,75,True,19,5,6,20,0,0,0,12,10
+200 meter,Costa Zoe,4980119,36,España,Vrouw,33140,Sprinters,20,12,17,161,42,True,19,1,0,19,0,0,0,16,7
+100 meter horden,Báez Fuensanta,4983073,34,España,Vrouw,38300,Sprinters,20,11,17,167,59,True,18,0,0,20,6,0,0,16,9
+100 meter,Alba Elora,4986803,36,España,Vrouw,18630,Sprinters,14,12,16,177,66,True,17,7,0,18,1,0,0,11,11
+100 meter,Moyá Víctor,5329664,26,España,Man,26970,Sprinters,20,5,18,169,66,True,19,9,3,20,1,3,0,8,10
+Onbekend,Aldea Xaime,5518552,19,España,Man,6780,Sprinters,20,2,15,189,96,True,20,10,2,14,3,0,1,6,6
+110 meter horden,Aiza Gustavo,5306772,28,España,Man,28760,Sprinters,20,7,17,171,64,True,20,3,2,20,4,8,2,10,8
+Onbekend,Hopper Maribel,5629636,18,United States,Vrouw,2370,Middenafstandslopers,15,1,15,161,61,True,19,5,11,4,1,3,1,8,6
+Onbekend,Marcel Bertrand,5565947,18,France,Man,1740,Langeafstandslopers,20,2,15,195,106,True,13,4,11,2,1,1,3,5,7
+Onbekend,Walter Thaïs,5560895,19,France,Vrouw,2970,Langeafstandslopers,20,1,15,181,84,True,10,3,11,11,2,3,1,9,5
+Onbekend,Rault Doriane,5637802,18,France,Vrouw,1440,Springers,19,1,15,169,67,True,9,1,2,7,1,11,3,7,7
+Speerwerpen,Davy Rose-Aimée,5456257,26,France,Vrouw,1460,Werpers,19,4,19,165,61,True,6,10,1,2,4,1,7,8,8
+Onbekend,Marchietti Mabel,5565178,18,Italia,Vrouw,3340,Sprinters,20,2,15,169,72,True,18,6,2,12,3,2,2,7,10
+Onbekend,Piantoni Amilcare,5618099,18,Italia,Man,2050,Sprinters,20,1,15,191,93,True,11,6,3,11,2,3,2,9,7
+Onbekend,Urbisaglia Ercole,4930659,37,Italia,Man,4400,Sprinters,13,9,12,168,62,True,11,6,0,9,0,0,0,10,12
+1.500 meter,Sponga Melinda,5447200,23,Italia,Vrouw,710,Middenafstandslopers,20,3,11,178,74,True,11,2,5,5,1,1,2,8,8
+Onbekend,Gasparutti Michele,5537375,19,Italia,Man,1740,Langeafstandslopers,20,2,12,197,104,True,15,2,11,6,2,0,2,5,9
+3.000 meter steeplechase,Sykes Cassandra,5514056,21,Bahamas,Vrouw,5110,Middenafstandslopers,20,3,19,160,61,True,20,1,13,3,2,4,2,9,9
+Onbekend,Ieracitano Fortunato,5579688,19,Italia,Man,1830,Snelwandelaars,20,1,12,183,84,True,19,8,10,1,4,3,3,5,6
+Onbekend,Tonazzini Nicoletta,5615466,19,Italia,Vrouw,480,Springers,20,1,13,171,65,True,12,2,3,3,3,5,1,8,7
+Kogelslingeren,McCorquodale Archie,5228823,30,Great Britain,Man,7700,Werpers,20,9,11,187,76,True,18,12,3,1,0,2,12,11,11
+Onbekend,Frederick Xavier,5573976,18,United States,Man,1960,Langeafstandslopers,20,1,11,183,92,True,8,2,11,7,2,2,1,7,9
+Vijfkamp Vrouwen,Wagenaar Nanne,5479389,20,Nederland,Vrouw,3250,Meerkampers,19,5,15,192,92,True,20,12,2,8,4,2,5,5,9
+Onbekend,Macrì Anna,5537690,18,Italia,Vrouw,4270,Sprinters,20,1,13,185,90,True,15,0,2,13,10,1,3,6,8
+Onbekend,Evangelista Dionísio,5563543,18,Portugal,Man,1270,Meerkampers,20,2,16,174,81,True,12,8,8,6,2,2,4,8,8
+Onbekend,Bremner Isla,5568208,18,Great Britain,Vrouw,4110,Langeafstandslopers,20,1,14,163,71,True,20,2,13,3,3,0,1,7,8
+Onbekend,Patricks Donna,5606861,18,Jamaica,Vrouw,1200,Springers,19,2,19,160,60,True,13,8,2,1,9,8,0,6,7
+Onbekend,Irons Trevene,5656360,16,Jamaica,Vrouw,690,Springers,16,1,16,177,70,True,13,4,4,2,3,8,3,5,7
+10.000 meter,Mineo Melissa,5207964,29,Italia,Vrouw,15080,Langeafstandslopers,20,7,20,171,66,True,17,3,17,12,3,2,8,9,9
+10.000 meter,Contessi Renato,5122443,31,Italia,Man,24020,Langeafstandslopers,20,9,19,185,77,True,18,0,19,13,2,2,2,9,10
+400 meter horden,Zanga Livio,5274449,26,Italia,Man,15320,Sprinters,20,5,20,193,104,True,19,5,3,17,9,2,3,9,7
+200 meter,Guana Fabio,5197968,29,Italia,Man,17350,Sprinters,18,7,19,189,94,True,7,14,3,17,3,0,2,11,10
+Kogelstoten,McCathie Mitchell,5352057,25,Great Britain,Man,7220,Werpers,20,5,18,194,99,True,10,14,2,1,3,3,11,10,9
+Onbekend,Minardi Marco,5603471,18,Italia,Man,7270,Snelwandelaars,20,1,15,177,83,True,19,2,15,1,1,0,9,7,8
+110 meter horden,Oldani Fernando,5491168,20,Italia,Man,3100,Sprinters,20,3,18,174,89,True,17,2,1,12,9,3,3,7,8
+Onbekend,Capuana Fiorenza,5553667,19,Italia,Vrouw,3150,Springers,20,2,19,182,80,True,7,3,4,0,11,11,3,8,8
+Discuswerpen,La Roberto,5485159,20,Italia,Man,4010,Werpers,20,3,19,178,84,True,12,12,3,2,2,2,11,5,7
+Speerwerpen,Carinato Wilma,5351587,24,Italia,Vrouw,7500,Werpers,20,5,19,164,67,True,16,13,2,3,3,3,12,11,9
+Onbekend,Catenaro Simona,5514811,19,Italia,Vrouw,3500,Werpers,20,2,18,167,76,True,14,11,2,3,2,1,11,7,8
+Onbekend,Giani Tullia,5564002,18,Italia,Vrouw,5420,Snelwandelaars,20,2,15,175,82,True,12,3,14,2,7,1,1,5,7
+Onbekend,Baccarani Mimmo,5542933,18,Italia,Man,2220,Middenafstandslopers,20,1,15,176,91,True,17,2,9,9,10,2,2,8,7
+Onbekend,Raggetti Vito,5572075,18,Italia,Man,1540,Meerkampers,20,2,15,182,89,True,14,5,2,10,5,2,9,7,6
+Onbekend,Heumacher Lene,5565444,18,Deutschland,Vrouw,8350,Sprinters,20,1,14,167,77,True,18,3,1,16,2,3,3,7,7
+Hinkstapspringen,Dupon Amir,5455955,23,France,Man,2950,Springers,20,5,18,166,63,True,6,3,1,3,8,12,1,9,7
+Hinkstapspringen,Alliot Ophélie,5438347,22,France,Vrouw,8280,Springers,20,4,15,176,78,True,9,2,4,3,8,15,2,9,9
+Onbekend,Schlaak Andy,5607925,18,Deutschland,Man,3910,Snelwandelaars,19,1,14,175,85,True,16,3,13,2,0,5,2,9,5
+Onbekend,Haeckel Anke,5575511,18,Deutschland,Vrouw,2540,Werpers,16,1,14,168,74,True,11,12,3,2,6,2,7,5,4
+400 meter,Kesteloot Tiffany,5545840,21,België,Vrouw,3760,Sprinters,20,3,19,165,65,True,14,8,2,13,3,3,3,9,8
+Onbekend,Cinardi Giuseppina,5626992,18,Italia,Vrouw,1970,Werpers,20,1,14,167,70,True,18,5,1,3,9,3,9,8,7
+Onbekend,Jenzer Tim,5566328,19,Switzerland,Man,7190,Sprinters,20,2,19,186,88,True,20,0,2,15,10,3,1,7,4
+Onbekend,Conti Lorenza,5602869,18,Italia,Vrouw,1390,Snelwandelaars,20,1,15,184,87,True,11,6,11,4,5,3,2,7,5
+Kogelslingeren,Tolnai Margit,5206291,29,Magyarország,Vrouw,22730,Werpers,20,9,16,166,55,True,19,17,0,2,2,2,16,11,11
+Onbekend,Salgarella Paola,5581452,18,Italia,Vrouw,1110,Meerkampers,20,1,15,182,84,True,14,3,4,7,9,1,7,8,5
+Onbekend,Petri Gabriele,5578273,18,Italia,Man,2150,Snelwandelaars,20,1,15,189,96,True,19,0,10,2,8,1,3,8,6
+Kogelslingeren,Arlinghaus Jannes,5408731,23,Deutschland,Man,10630,Werpers,20,4,17,189,92,True,20,14,3,1,4,3,14,10,8
+Kogelstoten,Reder Anny,5337067,24,Deutschland,Vrouw,12060,Werpers,20,5,20,177,79,True,18,11,0,4,3,2,16,9,7
