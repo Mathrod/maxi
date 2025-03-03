@@ -9,6 +9,10 @@ jobs:
   run-scrapers:
     runs-on: ubuntu-latest
 
+    env:
+      USERNAME: ${{ secrets.SCRAPER_USERNAME }}
+      PASSWORD: ${{ secrets.SCRAPER_PASSWORD }}      
+
     steps:
     - name: Haal de code op
       uses: actions/checkout@v4

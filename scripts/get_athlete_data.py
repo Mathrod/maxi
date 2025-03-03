@@ -6,26 +6,22 @@ base_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(base_dir))  # Nu kan Python 'utils' vinden
 
 import os
-import time
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import datetime
-from dotenv import load_dotenv
-import ast
 from utils.logger import logger
 from utils.helpers import get_latest_test_results, fetch_page, parse_athlete_row, fetch_athlete_data
 
 def run():
     logger.info("Start updating athlete database...")
-    load_dotenv()
     login_url = "https://www.maxithlon.com/accesscontrol.php"
     target_url = "https://www.maxithlon.com/varie/mercato.php"
     logout_url = "https://www.maxithlon.com/logout.php"
 
     payload = {
-        "user": os.getenv("MAXITHLON_USER"),
-        "password": os.getenv("MAXITHLON_PASS"),
+        "user": os.getenv("USERNAME"),
+        "password": os.getenv("PASSWORD"),
         "id_gioco": "1",
         "user_control": "Login",
     }
@@ -47,7 +43,6 @@ def run():
         return
     
     search_data = {
-        "min_forza": "0",
         "new_scadenza": "0",
         "youth": "0",
         "mercato": "1",
