@@ -1,4 +1,4 @@
-name: Dagelijkse scrapers run
+name: Dagelijkse scraper get_athlete_data
 
 on:
     schedule:
@@ -25,21 +25,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Draai scraper 1
+    - name: Draai scraper
       run: |
         python scripts/get_athlete_data.py
 
-    - name: Draai scraper 2
-      run: |
-        python scripts/get_transfer_data.py
-
-    - name: Upload de gegenereerde CSV’s
+    - name: Upload de gegenereerde CSV
       uses: actions/upload-artifact@v4
       with:
         name: scraper-output
         path: data/
 
-    - name: Commit & push CSVs
+    - name: Commit & push CSV
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -48,9 +44,9 @@ jobs:
         git diff
         git add data/*.csv
         if git diff --cached --quiet; then
-            echo "Geen wijzigingen in CSV's, dus geen commit."
+            echo "Geen wijzigingen in CSV, dus geen commit."
         else
-            git commit -m "Automatisch bijgewerkte CSVs"
+            git commit -m "Automatisch bijgewerkte CSV"
             git push
         fi
 
