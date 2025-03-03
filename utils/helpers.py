@@ -104,7 +104,17 @@ def fetch_athlete_data(atleet_id, session):
     except AttributeError:
         fav = "Onbekend"
 
-    return lengte, gewicht, vorm, ervaring, humeur, fav, club
+    # Transfer deadline
+    market_section = soup.find("div", class_="market").find_all("p")
+    for market in market_section:
+        if "Deadline" in market.text:
+            deadline = market.find_all("b")[-1]
+            deadline = datetime.strptime(deadline.text, "%H:%M:%S %d-%m-%Y")
+        else:
+            deadline = datetime(1,1,1)
+
+
+    return lengte, gewicht, vorm, ervaring, humeur, fav, club, deadline
 
 
 def get_transfer_details(atleet_id, session):

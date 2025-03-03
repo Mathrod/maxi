@@ -82,7 +82,7 @@ def run():
             if athlete_data:
                 naam, atleet_id, geslacht, land, leeftijd, maxid, specialiteit, skills = athlete_data
                 fysiek_data = fetch_athlete_data(atleet_id, session)
-                lengte, gewicht, vorm, ervaring, humeur, fav, deadline = fysiek_data
+                lengte, gewicht, vorm, ervaring, humeur, fav, _, deadline = fysiek_data
                 
                 all_athletes.append([fav, naam, int(atleet_id), int(leeftijd), land, geslacht, int(maxid), specialiteit, int(humeur), int(ervaring), int(vorm), lengte, gewicht, deadline] + skills)
 

@@ -88,13 +88,13 @@ def run():
                 naam, atleet_id, geslacht, land, leeftijd, maxid, specialiteit, skills = athlete_data
                 fysiek_data = fetch_athlete_data(atleet_id, session)
                 if fysiek_data:
-                    lengte, gewicht, vorm, ervaring, humeur, fav, club = fysiek_data
+                    lengte, gewicht, vorm, ervaring, humeur, fav, club, deadline = fysiek_data
                     weekly_test = session.get(f"https://www.maxithlon.com/user/test_settimanali.php?aid={atleet_id}")
                     soup = BeautifulSoup(weekly_test.text, "html.parser")
                     table = soup.find("table")
                     week = int(table.find_all("tr")[1].find_all("th")[-1].text.strip())
                     test_results = get_latest_test_results(table, week)
-                    all_athletes.append([fav, naam, atleet_id, int(leeftijd), land, geslacht, int(maxid), specialiteit, int(humeur), int(ervaring), int(vorm), lengte, gewicht, test_results, club] + skills)
+                    all_athletes.append([fav, naam, atleet_id, int(leeftijd), land, geslacht, int(maxid), specialiteit, int(humeur), int(ervaring), int(vorm), lengte, gewicht, test_results, club, deadline] + skills)
 
         if not next_page:
             break
@@ -103,7 +103,7 @@ def run():
 
     columns = [
         "Favoriete onderdeel", "Naam", "AtleetID", "Leeftijd", "Land", "Geslacht", "MaxID", 
-        "Specialiteit", "Humeur", "Ervaring", "Vorm", "Lengte", "Gewicht", "Resultaten test", "Club",
+        "Specialiteit", "Humeur", "Ervaring", "Vorm", "Lengte", "Gewicht", "Resultaten test", "Club", "Transfer deadline",
         "Zorg", "Kracht", "Uithouding", "Snelheid", "Lenigheid", "Springen", "Werpen", "SP1", "SP2"]
 
     df = pd.DataFrame(all_athletes, columns=columns)
