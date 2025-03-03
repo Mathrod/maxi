@@ -11,7 +11,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import datetime
 from dotenv import load_dotenv
-import ast
 from utils.logger import logger
 from utils.helpers import get_latest_test_results, fetch_page, parse_athlete_row, fetch_athlete_data
 
@@ -22,9 +21,12 @@ def run():
     target_url = "https://www.maxithlon.com/varie/mercato.php"
     logout_url = "https://www.maxithlon.com/logout.php"
 
+    username = os.getenv("USERNAME")
+    password = os.getenv("PASSWORD")
+
     payload = {
-        "user": os.getenv("USERNAME"),
-        "password": os.getenv("PASSWORD"),
+        "user": username,
+        "password": password,
         "id_gioco": "1",
         "user_control": "Login",
     }

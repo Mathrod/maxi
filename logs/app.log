@@ -1,0 +1,4 @@
+2025-03-03 11:20:29,811 - INFO - Start updating athlete database...
+2025-03-03 11:20:30,067 - INFO - Login successful!
+2025-03-03 11:20:30,101 - INFO - Athlete market data fetched successfully!
+2025-03-03 11:20:30,114 - ERROR - Error: Could not find the expected results table on page 1. Possible session expiration or page structure change.
