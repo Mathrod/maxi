@@ -117,7 +117,8 @@ def fetch_athlete_data(atleet_id, session):
         deadline_text = b_elements[-1].text
 
         try:
-            deadline = datetime.strptime(deadline_text, "%H:%M:%S %d-%m-%Y")
+            deadline_dt = datetime.strptime(deadline_text, "%H:%M:%S %d-%m-%Y")
+            deadline = deadline_dt.date().isoformat()
         except:
             deadline = np.nan
 
