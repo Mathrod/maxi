@@ -4,6 +4,7 @@ from pathlib import Path
 base_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(base_dir))
 
+import numpy as np
 import requests
 import time
 from bs4 import BeautifulSoup
@@ -105,14 +106,23 @@ def fetch_athlete_data(atleet_id, session):
         fav = "Onbekend"
 
     # Transfer deadline
-    market_section = soup.find("div", class_="market").find_all("p")
-    for market in market_section:
-        if "Deadline" in market.text:
-            deadline = market.find_all("b")[-1]
-            deadline = datetime.strptime(deadline.text, "%H:%M:%S %d-%m-%Y")
-        else:
-            deadline = datetime(1,1,1)
+    market_section = soup.find("div", class_="market").find_all("p")[1]
+    
+    if "Deadline" in market_section.text:
+        b_elements = market_section.find_all("b")
 
+        if not b_elements:
+            deadline = np.nan
+    
+        deadline_text = b_elements[-1].text
+
+        try:
+            deadline = datetime.strptime(deadline_text, "%H:%M:%S %d-%m-%Y")
+        except:
+            deadline = np.nan
+
+    else:
+        deadline = np.nan
 
     return lengte, gewicht, vorm, ervaring, humeur, fav, club, deadline
 
