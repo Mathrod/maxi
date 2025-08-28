@@ -13,29 +13,21 @@ from utils.logger import logger
 
 
 def get_latest_test_results(soup, week):
-    resultaten = []
-    new_week = week
+    result = []
+    for row in soup.select("tr.result-row"):
+        event = row.select_one("td a").get_text(strip=True)
 
-    for row in soup.find_all("tr"):
-        img = row.find("img", {"title": True})  # Zoek afbeelding met title attribuut (discipline naam)
-        if img:
-            discipline = img["title"]  # Discipline naam
-            prestaties = row.find_all("td", align="center", class_="vtip")  # Alle prestatie cellen
+        # laatste performance (td.perf-cell → laatste element)
+        last_perf = row.select("td.perf-cell")[-1].get_text(strip=True)
+
+        # bijbehorende score-row (de volgende sibling)
+        score_row = row.find_next_sibling("tr", class_="score-row")
+        last_score = score_row.select("td.score-cell")[-1].get_text(strip=True)
+
+        result.append((event, last_perf, last_score))
+
+    return result
     
-            if prestaties:
-                if prestaties[-1].get_text(strip=True) == "":
-                    laatste_prestatie = prestaties[-2].get_text(strip=True) # Laatste prestatie (op één na laatste <td>)
-                    laatste_title = prestaties[-2]["title"]  # Laatste prestatie's title attribuut
-                    if new_week == week:
-                        new_week -= 1
-                else:
-                    laatste_prestatie = prestaties[-1].get_text(strip=True) # Laatste prestatie (op één na laatste <td>)
-                    laatste_title = prestaties[-1]["title"]  # Laatste prestatie's title attribuut
-                
-                if laatste_prestatie:
-                    resultaten.append((discipline, laatste_prestatie, laatste_title, new_week))
-                    
-    return resultaten
 
 def fetch_page(url, session, params=None, method="get", data=None):
     for _ in range(3):  # Retry mechanism
