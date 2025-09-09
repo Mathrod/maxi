@@ -93,8 +93,14 @@ def run():
                     weekly_test = session.get(f"https://www.maxithlon.com/user/test_settimanali.php?aid={atleet_id}")
                     soup = BeautifulSoup(weekly_test.text, "html.parser")
                     table = soup.find("table")
-                    week = int(table.find_all("tr")[1].find_all("th")[5].text.strip())
-                    test_results = get_latest_test_results(table, week)
+                    try:
+                        week = int(table.find_all("tr")[1].find_all("th")[5].text.strip())
+                        test_results = get_latest_test_results(table, week)
+                    except (IndexError, ValueError) as e:
+                        logger.error(f"Error parsing week number: {e}")
+                        week = None
+                        test_results = None
+
                     all_athletes.append([fav, naam, atleet_id, int(leeftijd), land, geslacht, int(maxid), specialiteit, int(humeur), int(ervaring), int(vorm), lengte, gewicht, week, test_results, club, deadline] + skills)
 
         if not next_page:
