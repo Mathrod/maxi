@@ -100,6 +100,7 @@ def run():
                         logger.error(f"Error parsing week number: {e}")
                         week = None
                         test_results = None
+                        continue
 
                     all_athletes.append([fav, naam, atleet_id, int(leeftijd), land, geslacht, int(maxid), specialiteit, int(humeur), int(ervaring), int(vorm), lengte, gewicht, week, test_results, club, deadline] + skills)
 
